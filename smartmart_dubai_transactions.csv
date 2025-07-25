@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Customer_ID,Customer_Age,Gender,City_Area,Product_ID,Product_Name,Product_Category,Quantity,Unit_Price,Discount,Total_Amount,Payment_Method,Purchase_Channel
+TXN-00001,2025-02-24,2ed50526-49b5-4f1f-bfe9-c04965ebfc85,30,Male,Jumeirah,CLO-510,Jacket,Clothing,4,299.63,43.52,1155.0,Wallet,Online
+TXN-00002,2025-07-20,9b852a77-3d12-4eaf-9701-bbea428410e8,38,Female,Dubai Marina,ELE-979,Tablet,Electronics,2,350.05,48.46,651.64,Cash,Online
+TXN-00003,2025-04-01,db80fcca-91d1-4142-bde9-360674c3a607,45,Male,Bur Dubai,GRO-495,Eggs,Groceries,2,121.77,31.64,211.9,Cash,In-Store
+TXN-00004,2025-03-02,58ebb932-3777-49e6-901c-a0991dc096cf,61,Female,Deira,HOM-889,Rug,Home Decor,1,416.91,24.26,392.65,Cash,Online
+TXN-00005,2025-04-27,2a5c57e0-27b2-4e62-9730-dd660cd34aa8,23,Male,Dubai Marina,CLO-339,Jeans,Clothing,3,91.7,2.28,272.82,Cash,In-Store
+TXN-00006,2025-04-04,3152df8c-dcfa-4b6d-a986-b9e26b8ae198,27,Female,Jumeirah,CLO-766,Dress,Clothing,5,174.02,41.45,828.65,Card,Online
+TXN-00007,2025-06-10,57f5dabb-484f-4c5e-8c88-ea3f02260c2b,59,Male,Dubai Marina,BEA-856,Nail Polish,Beauty,3,141.53,26.12,398.47,Wallet,Online
+TXN-00008,2025-04-11,633b1b37-5d26-4a41-845e-164619a36c4a,38,Male,Deira,HOM-450,Wall Art,Home Decor,4,325.18,25.64,1275.08,Cash,In-Store
+TXN-00009,2025-03-03,a15d1f8f-c4c2-48ab-81e5-b1d166ab39b9,23,Male,Jumeirah,BEA-198,Perfume,Beauty,1,493.21,7.25,485.96,Cash,Online
+TXN-00010,2025-05-07,13ea418d-3c36-4a2a-a8bd-e624904a2372,42,Female,Deira,BEA-793,Perfume,Beauty,2,34.67,14.8,54.54,Wallet,Online
+TXN-00011,2025-07-04,93f77ebd-48ce-4380-b615-f782a59c667d,41,Female,Jumeirah,HOM-983,Rug,Home Decor,3,354.11,36.85,1025.48,Cash,Online
+TXN-00012,2025-02-06,019bfec2-4a81-4f98-abe8-b222a51fa976,56,Male,Jumeirah,CLO-774,Dress,Clothing,5,85.96,39.03,390.77,Card,Online
+TXN-00013,2025-07-17,8a48065b-3167-47b1-9cdf-0ffd4d576b47,55,Male,Bur Dubai,ELE-727,Charger,Electronics,4,489.71,17.48,1941.36,Card,Online
+TXN-00014,2025-03-10,489ea6cf-14a4-4254-823f-3ba1c444229f,65,Female,Deira,HOM-794,Lamp,Home Decor,5,48.41,6.52,235.53,Cash,In-Store
+TXN-00015,2025-02-06,83957cec-79f5-42da-a3f0-9b888f73df98,40,Female,Jumeirah,CLO-858,Dress,Clothing,2,292.95,34.67,551.23,Card,Online
+TXN-00016,2025-03-22,4baa121f-8ef8-4161-b4ed-e8d849b6c5ce,22,Male,Deira,GRO-173,Fruits,Groceries,1,279.18,11.16,268.02,Cash,Online
+TXN-00017,2025-02-13,b1d3b392-ff50-4d3d-9177-8b8b4abaeef7,59,Female,Al Barsha,HOM-718,Wall Art,Home Decor,5,456.55,1.73,2281.02,Wallet,In-Store
+TXN-00018,2025-02-06,844e0684-8832-415c-84cc-459da53aa123,48,Female,Deira,HOM-302,Cushion,Home Decor,4,316.71,17.55,1249.29,Wallet,In-Store
+TXN-00019,2025-06-15,b9b31e06-d636-4ee7-b945-f243b84a53d8,35,Male,Jumeirah,HOM-432,Cushion,Home Decor,2,129.14,16.96,241.32,Card,Online
+TXN-00020,2025-05-25,9054618e-35a8-4bcf-84c3-6c9462213127,61,Male,Deira,ELE-244,Smartphone,Electronics,3,233.86,35.77,665.81,Card,In-Store
+TXN-00021,2025-02-04,67ea94e4-b3af-46e1-a9c4-e4c1248b6cf6,31,Female,Bur Dubai,CLO-670,Jacket,Clothing,4,88.43,40.73,312.99,Card,In-Store
+TXN-00022,2025-01-30,5f436129-bca3-4901-a010-c11b63728525,34,Female,Al Barsha,ELE-319,Smartphone,Electronics,1,75.75,38.85,36.9,Cash,Online
+TXN-00023,2025-07-03,e99b4a45-9a52-4514-8298-4aa6383ac891,26,Male,Jumeirah,HOM-764,Curtains,Home Decor,4,472.84,1.93,1889.43,Wallet,Online
+TXN-00024,2025-04-16,3167496d-b441-456b-adb2-6eef20f97dd8,39,Female,Bur Dubai,ELE-915,Tablet,Electronics,4,376.14,4.27,1500.29,Wallet,In-Store
+TXN-00025,2025-06-23,35c12f1f-bfee-4011-bc7a-64b4b7eef9e9,27,Female,Bur Dubai,GRO-125,Eggs,Groceries,5,264.9,37.39,1287.11,Cash,Online
+TXN-00026,2025-06-26,0338d964-55c8-4e05-ab6c-0ab473ce70b6,22,Female,Dubai Marina,BEA-613,Shampoo,Beauty,1,65.73,18.67,47.06,Cash,In-Store
+TXN-00027,2025-02-16,b3525786-84a6-4088-8d23-1e8967b1c273,40,Male,Dubai Marina,GRO-924,Milk,Groceries,2,52.14,5.21,99.07,Wallet,Online
+TXN-00028,2025-03-19,d386d3fb-5e03-412f-9ef1-e6ff92aa5488,40,Male,Bur Dubai,BEA-247,Foundation,Beauty,5,457.7,17.68,2270.82,Card,Online
+TXN-00029,2025-03-20,de106942-6926-4677-a53e-58cbb2100414,30,Female,Dubai Marina,GRO-120,Bread,Groceries,4,83.35,16.29,317.11,Cash,In-Store
+TXN-00030,2025-05-10,1044201d-f2fa-4b91-9cfc-bb8a88a57887,58,Male,Jumeirah,CLO-912,Jeans,Clothing,1,496.07,39.56,456.51,Wallet,In-Store
+TXN-00031,2025-04-28,74bae2e5-4489-466a-a24d-7dabf6c58585,40,Male,Dubai Marina,GRO-569,Eggs,Groceries,2,453.11,12.95,893.27,Card,In-Store
+TXN-00032,2025-01-31,c71bd0fe-8071-4e96-8eb8-6ef97c0e7b29,23,Male,Dubai Marina,ELE-883,Tablet,Electronics,5,486.59,43.59,2389.36,Wallet,Online
+TXN-00033,2025-07-09,673f33e8-6f8a-4011-a933-4d5b87a8d346,42,Female,Bur Dubai,GRO-289,Fruits,Groceries,5,242.02,5.35,1204.75,Card,In-Store
+TXN-00034,2025-03-16,6a921e57-4863-4591-974b-3e0013e453e0,25,Male,Bur Dubai,HOM-656,Curtains,Home Decor,5,458.22,16.41,2274.69,Cash,Online
+TXN-00035,2025-01-26,1825e196-56e3-4cdd-a8b1-67754fb476f9,23,Female,Jumeirah,GRO-353,Eggs,Groceries,4,299.85,29.41,1169.99,Cash,Online
+TXN-00036,2025-01-25,4390c1a7-9b96-4033-a204-7936f941ce67,24,Male,Deira,ELE-547,Headphones,Electronics,5,245.2,23.8,1202.2,Card,In-Store
+TXN-00037,2025-06-27,53331c4f-8ede-4604-8c34-072e51298a9a,65,Female,Bur Dubai,HOM-981,Rug,Home Decor,4,486.39,3.64,1941.92,Cash,Online
+TXN-00038,2025-03-16,8be6f023-0c2a-4ab1-a62a-0fd174e6fb3b,55,Male,Dubai Marina,GRO-320,Eggs,Groceries,2,113.44,48.22,178.66,Wallet,Online
+TXN-00039,2025-03-02,8413e49d-6d6a-400b-813d-6c0066d8695a,23,Male,Jumeirah,BEA-273,Perfume,Beauty,4,66.32,47.15,218.13,Card,In-Store
+TXN-00040,2025-07-10,bddb7931-2d7a-4712-955b-afe26619a823,31,Male,Dubai Marina,BEA-873,Lipstick,Beauty,1,221.11,2.82,218.29,Wallet,In-Store
+TXN-00041,2025-06-20,5a337f46-afc2-4e1e-bda7-75a722785520,26,Male,Jumeirah,ELE-244,Headphones,Electronics,4,212.8,30.8,820.4,Wallet,Online
+TXN-00042,2025-05-23,d2501f18-1655-4fea-b796-b44743d022de,62,Female,Dubai Marina,CLO-977,Dress,Clothing,4,199.47,16.39,781.49,Cash,Online
+TXN-00043,2025-05-22,e682c43c-52ee-427f-9d83-cb5c2dd999f7,22,Male,Al Barsha,ELE-116,Charger,Electronics,3,162.05,7.97,478.18,Wallet,Online
+TXN-00044,2025-04-05,a529cb74-4721-4fe2-a3d4-a8c8af334fb4,41,Female,Jumeirah,BEA-387,Foundation,Beauty,1,381.56,28.3,353.26,Cash,Online
+TXN-00045,2025-03-07,55bc3d60-79f2-4556-b80f-522572bee2a2,40,Male,Jumeirah,CLO-459,Shoes,Clothing,3,360.61,35.04,1046.79,Card,In-Store
+TXN-00046,2025-01-28,aafb94a9-d0ef-4817-bb1d-db7b64f33d6f,54,Male,Jumeirah,HOM-533,Rug,Home Decor,2,495.83,29.67,961.99,Cash,In-Store
+TXN-00047,2025-04-04,91f998f8-c6f3-488f-867c-eb8374e13bca,56,Female,Dubai Marina,BEA-197,Shampoo,Beauty,4,288.91,49.37,1106.27,Cash,In-Store
+TXN-00048,2025-07-22,bb480f35-a1d3-4e32-9ef0-7a17f39ea346,19,Male,Deira,CLO-191,Dress,Clothing,2,245.06,33.04,457.08,Cash,In-Store
+TXN-00049,2025-03-16,5cfd92ec-e814-4710-a4f9-37d5eac8d5a6,40,Male,Deira,CLO-596,Jacket,Clothing,1,153.22,48.02,105.2,Card,Online
+TXN-00050,2025-07-10,8627dac9-7c9c-4eb6-9da6-6a1ecdbc8bee,41,Female,Dubai Marina,CLO-365,Jacket,Clothing,5,313.0,31.56,1533.44,Card,Online
+TXN-00051,2025-05-25,3ca4fde7-df1e-47b3-b6f2-6d9c6d54795c,59,Female,Jumeirah,HOM-209,Wall Art,Home Decor,5,195.65,29.17,949.08,Card,Online
+TXN-00052,2025-07-02,a003886f-4e53-4159-adfb-765520b0f442,58,Female,Deira,HOM-526,Cushion,Home Decor,4,208.96,35.88,799.96,Cash,In-Store
+TXN-00053,2025-01-30,ccd1c523-ca34-4258-99c8-38175de448a6,35,Female,Bur Dubai,ELE-903,Tablet,Electronics,3,19.98,39.0,20.94,Cash,In-Store
+TXN-00054,2025-07-17,6e0d237f-6cc8-4690-a46f-6c01b3f308ae,60,Female,Al Barsha,GRO-446,Fruits,Groceries,5,49.88,26.11,223.29,Wallet,In-Store
+TXN-00055,2025-05-24,78b9a7f4-6990-44bb-9015-86c63c5e6fa8,31,Male,Jumeirah,ELE-723,Laptop,Electronics,5,35.26,18.47,157.83,Wallet,In-Store
+TXN-00056,2025-05-03,a846db22-2f1d-4b49-93e8-94f858d7f669,44,Female,Jumeirah,BEA-413,Nail Polish,Beauty,1,218.99,33.32,185.67,Cash,Online
+TXN-00057,2025-04-09,77b8c4ad-9f62-406e-9de2-ddbe449f349b,24,Female,Deira,ELE-978,Charger,Electronics,3,499.26,40.74,1457.04,Wallet,In-Store
+TXN-00058,2025-04-10,4ee4c7c6-533a-4def-b681-a57ccd1f8a7d,49,Male,Jumeirah,ELE-836,Tablet,Electronics,1,292.75,47.29,245.46,Wallet,Online
+TXN-00059,2025-06-20,a4fd0a3e-e4e0-4f84-97e6-bea72405ab94,51,Male,Dubai Marina,GRO-943,Fruits,Groceries,3,200.29,39.69,561.18,Cash,In-Store
+TXN-00060,2025-05-18,042f5846-e706-45ed-8036-27856b2bf2e1,60,Female,Jumeirah,HOM-340,Rug,Home Decor,2,252.29,12.9,491.68,Wallet,In-Store
+TXN-00061,2025-02-20,458bcbb3-7287-4e8d-b941-a118cc05a12f,24,Male,Al Barsha,BEA-738,Nail Polish,Beauty,1,260.3,40.14,220.16,Cash,In-Store
+TXN-00062,2025-03-17,701a490f-dce4-4d93-b3b4-8872c3e13516,46,Male,Jumeirah,CLO-279,Shoes,Clothing,4,292.23,25.49,1143.43,Card,In-Store
+TXN-00063,2025-07-01,ffffa044-f8d8-4594-bac5-f558e057150c,47,Female,Jumeirah,ELE-161,Smartphone,Electronics,5,238.92,14.79,1179.81,Wallet,Online
+TXN-00064,2025-03-06,e7ad3345-e2a3-4507-ba30-79de2680a18b,59,Female,Al Barsha,HOM-479,Curtains,Home Decor,4,160.94,19.13,624.63,Wallet,In-Store
+TXN-00065,2025-06-26,abb2ae67-ec2b-48d6-9d22-aa4d82d627a7,38,Male,Jumeirah,CLO-303,Dress,Clothing,3,38.11,12.88,101.45,Cash,In-Store
+TXN-00066,2025-03-07,5a992c79-bbaa-4635-862e-b59ce6cb89b2,52,Female,Jumeirah,GRO-705,Rice,Groceries,4,374.39,23.44,1474.12,Wallet,Online
+TXN-00067,2025-07-21,7f922f5f-9a7a-46eb-88dc-3ce70002d529,28,Male,Al Barsha,GRO-792,Eggs,Groceries,3,69.31,3.93,204.0,Card,Online
+TXN-00068,2025-05-14,4bdfe2e2-ee0b-4240-8875-2487a718fbf1,62,Female,Bur Dubai,CLO-155,Dress,Clothing,5,432.04,25.35,2134.85,Card,In-Store
+TXN-00069,2025-06-01,c4db9eef-0b19-45c4-919c-fffcfa772428,45,Male,Dubai Marina,BEA-225,Foundation,Beauty,5,194.34,36.84,934.86,Cash,Online
+TXN-00070,2025-07-16,60f7a953-f4e3-4627-b48b-90196799f2c8,45,Male,Jumeirah,GRO-831,Fruits,Groceries,1,221.91,49.93,171.98,Wallet,Online
+TXN-00071,2025-02-05,59bf78be-a2cb-452d-a214-b77040708cf2,47,Female,Al Barsha,GRO-874,Milk,Groceries,4,481.42,0.16,1925.52,Card,Online
+TXN-00072,2025-06-14,fc652fb8-c292-4c7e-aae6-42cc6466f5e8,27,Female,Jumeirah,CLO-219,Jeans,Clothing,4,145.41,26.21,555.43,Wallet,In-Store
+TXN-00073,2025-05-21,fb9315ad-b1f0-4300-a15f-60b8c8a22d14,39,Male,Jumeirah,ELE-137,Laptop,Electronics,2,461.8,0.39,923.21,Card,Online
+TXN-00074,2025-04-19,f48995f0-770f-43ae-a0c1-eb3e624edf37,32,Male,Bur Dubai,BEA-774,Foundation,Beauty,2,70.89,45.75,96.03,Cash,In-Store
+TXN-00075,2025-07-13,1868c8b9-b0b2-4382-a04e-6c67508b5be0,56,Male,Jumeirah,GRO-864,Rice,Groceries,5,279.36,11.55,1385.25,Cash,In-Store
+TXN-00076,2025-05-07,ef670fdd-ebd6-4d16-8941-6f2086aa17a5,26,Male,Jumeirah,BEA-588,Nail Polish,Beauty,4,118.24,17.11,455.85,Card,Online
+TXN-00077,2025-01-28,ee25874b-574e-460f-bf2e-3bb55f734270,21,Female,Deira,GRO-608,Eggs,Groceries,2,372.83,49.55,696.11,Card,Online
+TXN-00078,2025-04-24,096d91f3-8501-4ee8-9729-09164a25d332,33,Male,Al Barsha,GRO-262,Bread,Groceries,5,262.48,6.67,1305.73,Cash,In-Store
+TXN-00079,2025-03-06,4156375b-6f6d-4537-bd48-9fb64ce17210,26,Male,Deira,HOM-519,Curtains,Home Decor,1,451.65,14.01,437.64,Cash,Online
+TXN-00080,2025-05-04,204d377c-f355-4ccf-978a-ccf08fc583e7,49,Female,Al Barsha,GRO-826,Bread,Groceries,4,354.7,28.28,1390.52,Card,Online
+TXN-00081,2025-02-07,2d72c365-c5dc-4950-abdf-ee5e046921b7,33,Female,Bur Dubai,GRO-584,Bread,Groceries,3,310.08,43.09,887.15,Wallet,In-Store
+TXN-00082,2025-02-26,3815a300-3b95-486d-ac1c-e5ffe0bfbeac,60,Male,Al Barsha,BEA-541,Nail Polish,Beauty,1,411.72,13.38,398.34,Cash,In-Store
+TXN-00083,2025-04-24,32e5dc8d-6fbf-41ae-ad04-3f26944f7ffd,36,Male,Al Barsha,HOM-143,Lamp,Home Decor,1,96.09,37.75,58.34,Wallet,In-Store
+TXN-00084,2025-07-01,8ecdeb9b-a025-455d-99c3-15b90f7f4977,20,Male,Bur Dubai,CLO-359,Jacket,Clothing,5,228.77,42.58,1101.27,Wallet,In-Store
+TXN-00085,2025-02-01,191edddc-a98b-4fa4-a0ff-8d02f9d34eae,64,Male,Jumeirah,CLO-398,Jacket,Clothing,1,465.62,23.62,442.0,Card,In-Store
+TXN-00086,2025-05-13,2141b224-e1c2-400b-8c84-04d03f55926d,28,Male,Jumeirah,BEA-783,Foundation,Beauty,2,499.2,11.44,986.96,Wallet,In-Store
+TXN-00087,2025-02-22,e0b13af8-5b8f-460c-98b3-cb171dd5811e,41,Female,Deira,HOM-331,Rug,Home Decor,4,375.44,21.32,1480.44,Card,In-Store
+TXN-00088,2025-03-06,7525065a-89e0-4de3-b1f7-13ac0914cec7,26,Male,Bur Dubai,GRO-216,Milk,Groceries,5,154.23,42.06,729.09,Wallet,Online
+TXN-00089,2025-04-11,d244e894-e0fc-4d18-971a-1e8186126dd7,21,Male,Bur Dubai,CLO-577,T-Shirt,Clothing,1,38.8,1.6,37.2,Cash,Online
+TXN-00090,2025-02-20,e3477ddf-00d2-4aee-8693-07fb76c5da13,30,Male,Al Barsha,ELE-170,Smartphone,Electronics,5,148.45,18.28,723.97,Wallet,Online
+TXN-00091,2025-07-19,99b6361b-163e-4b1d-b31c-1b961fe528fc,23,Female,Dubai Marina,CLO-521,Dress,Clothing,2,262.99,21.42,504.56,Wallet,Online
+TXN-00092,2025-02-15,cdbc6ba2-5003-4da2-9020-87907b958f84,48,Male,Bur Dubai,BEA-648,Perfume,Beauty,1,180.84,28.77,152.07,Wallet,Online
+TXN-00093,2025-04-01,379c0599-795a-4efb-a855-590f5ed7de2e,27,Male,Bur Dubai,HOM-678,Wall Art,Home Decor,4,215.91,16.4,847.24,Card,Online
+TXN-00094,2025-07-08,6dde92f1-5d73-4ca1-9b90-810771dfe938,52,Female,Jumeirah,HOM-618,Cushion,Home Decor,1,15.69,40.78,-25.09,Cash,In-Store
+TXN-00095,2025-04-15,cddc0a7c-9516-4606-897c-14662e9041c0,53,Female,Bur Dubai,ELE-340,Laptop,Electronics,5,55.91,48.58,230.97,Cash,Online
+TXN-00096,2025-07-19,d14617b8-7783-465f-ad0c-7978f7e8879f,22,Male,Dubai Marina,BEA-349,Foundation,Beauty,1,106.08,46.3,59.78,Cash,Online
+TXN-00097,2025-02-12,3bf6389a-bb2c-48ca-92ae-2eff7d97364e,44,Male,Jumeirah,BEA-144,Nail Polish,Beauty,3,114.44,27.93,315.39,Wallet,Online
+TXN-00098,2025-06-16,4b49f596-700b-4873-9189-7bb24fc83d25,45,Female,Deira,BEA-633,Shampoo,Beauty,1,98.53,43.68,54.85,Card,Online
+TXN-00099,2025-05-13,fcfc23d7-837a-47c2-a863-7b30fe66e250,52,Female,Dubai Marina,BEA-805,Perfume,Beauty,5,196.68,28.78,954.62,Wallet,In-Store
+TXN-00100,2025-02-16,bfe6d2b6-6b6b-4ea2-801c-bd1a860d2808,64,Female,Dubai Marina,CLO-573,Jeans,Clothing,4,476.11,11.89,1892.55,Cash,In-Store
+TXN-00101,2025-05-20,3200fe00-d21d-453f-b7a2-580eae12eed8,30,Female,Bur Dubai,ELE-344,Tablet,Electronics,5,412.83,21.71,2042.44,Cash,In-Store
+TXN-00102,2025-05-07,7fba3152-320c-4c42-9b98-dee299b9b111,46,Male,Jumeirah,ELE-745,Laptop,Electronics,3,354.05,14.18,1047.97,Card,Online
+TXN-00103,2025-02-11,8cc18877-3f71-4852-99e4-98eac220289f,61,Male,Bur Dubai,HOM-884,Lamp,Home Decor,1,270.52,13.0,257.52,Card,In-Store
+TXN-00104,2025-02-26,18e81960-cbb6-49ea-be92-3d5cafb432f0,59,Male,Jumeirah,CLO-769,Jeans,Clothing,2,271.02,6.36,535.68,Wallet,Online
+TXN-00105,2025-03-21,70f82dba-3663-485b-88ae-1cfd3af5618d,31,Female,Al Barsha,ELE-293,Smartphone,Electronics,1,223.16,40.05,183.11,Cash,In-Store
+TXN-00106,2025-04-04,c20cb74a-31f4-41d8-b1bd-30508e2eb12d,50,Male,Al Barsha,CLO-744,Jeans,Clothing,3,41.74,25.57,99.65,Wallet,Online
+TXN-00107,2025-06-22,a4d99fda-b2de-4dfb-91ea-21b893b969bd,42,Female,Al Barsha,GRO-358,Rice,Groceries,5,346.2,41.54,1689.46,Wallet,In-Store
+TXN-00108,2025-06-14,a8c99de6-bde9-484c-b8d0-1775719fa693,29,Male,Al Barsha,BEA-644,Perfume,Beauty,1,369.27,37.62,331.65,Wallet,Online
+TXN-00109,2025-04-12,9d247506-b367-4b8a-ac87-2b6cd3aa2bb3,32,Female,Deira,GRO-361,Fruits,Groceries,3,462.62,43.22,1344.64,Card,Online
+TXN-00110,2025-07-01,745e7153-19a9-41ae-935d-9dc16eb7c55a,56,Male,Bur Dubai,BEA-283,Lipstick,Beauty,4,491.6,11.35,1955.05,Card,In-Store
+TXN-00111,2025-04-25,575a5c61-d601-4066-bc6f-1009e08d17f7,40,Male,Bur Dubai,ELE-673,Charger,Electronics,2,185.29,49.39,321.19,Card,Online
+TXN-00112,2025-01-31,4d214a3c-2442-4dc7-9e40-70b20ad1506b,27,Female,Deira,CLO-378,Shoes,Clothing,1,311.29,35.31,275.98,Card,Online
+TXN-00113,2025-06-25,0da7c0aa-2570-4ab1-9db0-6f625bd85ab7,62,Female,Dubai Marina,BEA-626,Lipstick,Beauty,2,298.22,23.64,572.8,Wallet,In-Store
+TXN-00114,2025-05-11,3ab488aa-f3da-4d20-96be-044c4181b314,58,Male,Jumeirah,ELE-754,Headphones,Electronics,2,101.64,21.54,181.74,Card,In-Store
+TXN-00115,2025-04-10,b485dbd6-b0f8-40ed-b3fa-7ac43bae791f,29,Male,Al Barsha,BEA-299,Nail Polish,Beauty,2,173.88,32.01,315.75,Cash,In-Store
+TXN-00116,2025-02-11,a343d759-d23a-4b51-b74d-16512f2dc5da,27,Male,Bur Dubai,CLO-798,T-Shirt,Clothing,1,66.05,2.93,63.12,Cash,In-Store
+TXN-00117,2025-04-24,26c45ea0-f629-480b-9d1d-de7e4d633d1d,48,Male,Bur Dubai,HOM-303,Cushion,Home Decor,5,318.96,24.66,1570.14,Card,In-Store
+TXN-00118,2025-04-10,be5ea6e8-de0e-42a4-a250-25fbec9d8f24,43,Male,Dubai Marina,HOM-375,Curtains,Home Decor,1,453.79,21.6,432.19,Wallet,Online
+TXN-00119,2025-03-04,0d1b8902-fac0-44b2-bd5e-f3e4c48f4c83,38,Male,Al Barsha,GRO-464,Eggs,Groceries,5,168.66,33.38,809.92,Cash,Online
+TXN-00120,2025-02-10,7d06b786-a77d-4bfe-ba59-504e41de18fc,45,Female,Deira,HOM-246,Lamp,Home Decor,2,472.11,2.24,941.98,Wallet,Online
+TXN-00121,2025-04-23,37b96477-ea45-4e3a-bb16-998e07a055cb,41,Male,Deira,GRO-762,Eggs,Groceries,5,376.39,24.27,1857.68,Wallet,Online
+TXN-00122,2025-05-05,ccddc72e-7c09-4298-96e2-bb656e7bae61,35,Male,Jumeirah,HOM-145,Rug,Home Decor,3,202.8,15.14,593.26,Cash,In-Store
+TXN-00123,2025-04-24,835202fd-496a-4204-b196-ed7231ebd5fb,30,Male,Jumeirah,ELE-846,Headphones,Electronics,5,260.39,8.25,1293.7,Card,Online
+TXN-00124,2025-03-16,7ae943c2-db49-4b6b-b8c0-20d470a7f984,31,Male,Jumeirah,BEA-684,Nail Polish,Beauty,4,214.98,25.87,834.05,Cash,Online
+TXN-00125,2025-07-19,7788c7a0-b1d4-4a42-8286-5a3af7eeca9d,36,Female,Al Barsha,ELE-275,Headphones,Electronics,4,326.55,9.26,1296.94,Wallet,Online
+TXN-00126,2025-05-06,d27399b7-76e8-4016-b46a-7a78e12800d2,60,Female,Al Barsha,CLO-266,Jacket,Clothing,3,270.44,18.44,792.88,Cash,Online
+TXN-00127,2025-06-25,2b2f7798-85dd-4eb4-ad31-4d6872b5e07c,21,Female,Al Barsha,ELE-121,Tablet,Electronics,2,463.32,1.64,925.0,Card,Online
+TXN-00128,2025-06-05,bcb4eb9e-5a27-4475-bbdb-ad150b30d6ff,40,Male,Jumeirah,ELE-510,Smartphone,Electronics,5,87.46,34.95,402.35,Card,Online
+TXN-00129,2025-02-03,75692106-9b13-4163-9a35-8376c9f8b7d8,31,Male,Al Barsha,CLO-405,T-Shirt,Clothing,3,352.93,27.89,1030.9,Cash,In-Store
+TXN-00130,2025-06-17,ceffc6f5-a9f4-4e7a-85da-b9a77ecfd0c9,19,Male,Jumeirah,CLO-462,Dress,Clothing,2,255.41,9.76,501.06,Card,Online
+TXN-00131,2025-03-22,0cddd19b-1c46-44bb-8f0d-82116a6ec40c,59,Female,Deira,GRO-866,Milk,Groceries,2,75.47,13.22,137.72,Cash,Online
+TXN-00132,2025-02-12,65af7a3f-a639-4b12-968a-0525a0736dba,42,Female,Jumeirah,HOM-830,Lamp,Home Decor,4,446.26,39.83,1745.21,Wallet,Online
+TXN-00133,2025-04-25,bb1fbb2d-0fbb-439c-8365-c0e4cdbbffe1,38,Male,Jumeirah,HOM-384,Cushion,Home Decor,2,213.09,35.0,391.18,Card,Online
+TXN-00134,2025-07-15,8b434891-b7d8-43f8-b422-49348d4fc11a,61,Female,Al Barsha,GRO-454,Eggs,Groceries,3,154.31,48.37,414.56,Card,Online
+TXN-00135,2025-07-08,a9372503-2743-4ef1-a41b-379b919045b5,65,Male,Bur Dubai,HOM-758,Cushion,Home Decor,4,324.13,26.25,1270.27,Cash,In-Store
+TXN-00136,2025-03-23,1d698882-4517-4603-a48a-251f048e6bf8,47,Female,Jumeirah,BEA-511,Foundation,Beauty,1,473.45,39.02,434.43,Cash,Online
+TXN-00137,2025-04-08,fc82a55e-2a3b-45f8-9cb5-711ed4084dc9,50,Male,Al Barsha,ELE-667,Tablet,Electronics,5,346.56,34.34,1698.46,Wallet,In-Store
+TXN-00138,2025-05-11,a1e6d59a-969f-4b01-99dd-120a99f77fee,54,Male,Dubai Marina,BEA-956,Shampoo,Beauty,4,262.37,31.43,1018.05,Cash,Online
+TXN-00139,2025-03-06,3e956936-6317-43ce-b075-a6cc88d6f3b8,35,Female,Dubai Marina,ELE-968,Tablet,Electronics,5,458.42,11.57,2280.53,Card,Online
+TXN-00140,2025-02-12,a39847f8-d5e0-4226-9aee-66f13067eae7,23,Female,Al Barsha,CLO-427,Shoes,Clothing,5,75.13,40.68,334.97,Cash,Online
+TXN-00141,2025-02-20,c61a8c90-b84d-474c-a56b-997c91277a60,40,Female,Jumeirah,HOM-484,Lamp,Home Decor,3,428.61,7.66,1278.17,Wallet,Online
+TXN-00142,2025-02-25,04e7a986-6cc2-4159-a357-e760ed490b6c,46,Male,Dubai Marina,ELE-497,Smartphone,Electronics,4,200.73,33.62,769.3,Wallet,Online
+TXN-00143,2025-02-25,e997fec4-d2d1-4ad6-b263-3e0ce32ae424,65,Male,Dubai Marina,CLO-384,Dress,Clothing,1,216.83,0.53,216.3,Card,Online
+TXN-00144,2025-05-03,e8af1617-faaf-4026-95a9-228d6e1cfe58,35,Male,Jumeirah,HOM-610,Wall Art,Home Decor,4,283.87,45.17,1090.31,Card,In-Store
+TXN-00145,2025-06-28,c0168ca1-c51f-4bc3-8bec-e27aec8fa1da,55,Male,Jumeirah,BEA-894,Lipstick,Beauty,1,319.51,18.71,300.8,Cash,In-Store
+TXN-00146,2025-06-04,578bdfdd-a898-4d0f-b51e-25793b81fae0,28,Male,Deira,BEA-615,Foundation,Beauty,4,478.14,31.17,1881.39,Cash,In-Store
+TXN-00147,2025-02-03,2bdc63cd-c923-40af-b9fc-03da12c9167b,54,Female,Bur Dubai,GRO-453,Eggs,Groceries,4,346.58,25.37,1360.95,Wallet,Online
+TXN-00148,2025-03-26,bbe64981-c191-42a0-ac68-61e64d9b5fdb,50,Male,Dubai Marina,GRO-605,Milk,Groceries,1,91.85,42.8,49.05,Card,In-Store
+TXN-00149,2025-04-03,e3a66e20-620d-4969-b4ad-6f2598891579,47,Male,Deira,GRO-459,Bread,Groceries,3,273.52,32.19,788.37,Card,In-Store
+TXN-00150,2025-01-29,49142fa7-dd2b-4c2f-aa73-14b6550733ec,43,Male,Al Barsha,BEA-547,Lipstick,Beauty,5,367.07,18.81,1816.54,Cash,Online
+TXN-00151,2025-07-10,ee56bad3-b659-4619-bc9b-224cf75407b8,41,Male,Dubai Marina,ELE-894,Laptop,Electronics,2,202.45,42.89,362.01,Cash,In-Store
+TXN-00152,2025-02-20,60d9deac-0086-4a7f-bf65-61b025141eed,25,Male,Deira,GRO-991,Bread,Groceries,2,287.71,32.55,542.87,Cash,In-Store
+TXN-00153,2025-04-17,f5ff1387-95f4-416a-aa56-b9dc0b7020bb,34,Male,Jumeirah,GRO-408,Fruits,Groceries,4,115.41,18.17,443.47,Card,In-Store
+TXN-00154,2025-03-06,63d4a989-391e-4751-a48f-4cf8a2b0dc62,26,Male,Al Barsha,CLO-443,Dress,Clothing,2,409.16,20.1,798.22,Card,Online
+TXN-00155,2025-05-15,3e68802a-8aa7-4632-8edf-d6fd7c8966b8,54,Male,Jumeirah,CLO-379,Jacket,Clothing,3,42.62,8.91,118.95,Card,Online
+TXN-00156,2025-03-11,a474ea10-f8b4-4d65-8803-affbac4d1c3c,23,Male,Deira,GRO-744,Fruits,Groceries,4,18.34,43.49,29.87,Wallet,In-Store
+TXN-00157,2025-04-05,a0e91f08-b595-4369-b295-cdac699948d3,52,Female,Dubai Marina,ELE-980,Laptop,Electronics,4,256.06,12.69,1011.55,Wallet,Online
+TXN-00158,2025-02-01,dc483662-b275-4e65-acaf-a0d9f9ed532f,60,Male,Dubai Marina,HOM-620,Lamp,Home Decor,1,250.28,44.86,205.42,Wallet,Online
+TXN-00159,2025-07-23,451f054a-e272-4c38-a7ce-0c88f8bcab19,42,Female,Deira,GRO-141,Bread,Groceries,3,50.2,8.65,141.95,Wallet,Online
+TXN-00160,2025-02-26,47729667-0da8-429d-9e91-bd78948132df,32,Female,Deira,BEA-813,Foundation,Beauty,2,139.02,23.35,254.69,Card,In-Store
+TXN-00161,2025-06-02,5b2e0fdc-e2f7-4cd3-adc9-b4ab4f1394ba,46,Male,Deira,GRO-141,Eggs,Groceries,5,242.62,19.9,1193.2,Wallet,Online
+TXN-00162,2025-06-25,d664d16e-97a1-4a40-945c-76bf7e40ec02,23,Female,Dubai Marina,HOM-346,Lamp,Home Decor,3,241.3,10.79,713.11,Cash,In-Store
+TXN-00163,2025-02-11,13e197e0-a384-424e-8d00-21cf0088e102,33,Female,Jumeirah,BEA-601,Lipstick,Beauty,2,332.02,29.04,635.0,Wallet,Online
+TXN-00164,2025-05-03,16d719e7-4e7d-483c-af7a-4d8e5c891da4,58,Female,Deira,CLO-545,Jeans,Clothing,4,388.41,31.86,1521.78,Wallet,In-Store
+TXN-00165,2025-01-28,3f3163d7-c1b3-47bb-b7aa-875773c6770d,51,Male,Dubai Marina,GRO-558,Eggs,Groceries,5,464.38,49.7,2272.2,Card,In-Store
+TXN-00166,2025-04-04,9bca5322-a489-47df-8492-17e0bb523741,51,Male,Al Barsha,HOM-501,Lamp,Home Decor,1,247.36,20.81,226.55,Cash,In-Store
+TXN-00167,2025-07-17,4ad04891-d49f-477a-8d2c-b65840bd87b2,31,Female,Jumeirah,CLO-422,Shoes,Clothing,4,280.21,44.55,1076.29,Wallet,Online
+TXN-00168,2025-03-28,a7ae5584-4e0a-4c65-bc7f-3297b69edefa,47,Male,Deira,ELE-305,Tablet,Electronics,4,433.15,39.89,1692.71,Cash,Online
+TXN-00169,2025-03-01,5e44ec00-7aba-466a-9d4d-2c70b2b4d415,41,Female,Bur Dubai,BEA-384,Lipstick,Beauty,3,210.74,7.6,624.62,Card,In-Store
+TXN-00170,2025-06-21,cd8c46d8-8249-4f56-b69b-58bf180a5672,62,Male,Deira,HOM-710,Rug,Home Decor,2,366.01,21.62,710.4,Cash,Online
+TXN-00171,2025-05-01,e7a1461a-043c-426e-8f52-6e3c57206840,27,Female,Dubai Marina,ELE-821,Smartphone,Electronics,1,43.2,24.98,18.22,Wallet,In-Store
+TXN-00172,2025-06-29,f7747204-04f7-42bb-ae63-e1c6183acd35,34,Male,Deira,HOM-159,Curtains,Home Decor,4,119.13,12.55,463.97,Wallet,Online
+TXN-00173,2025-02-25,7cf752c7-ca20-4721-867e-e11c532dbb32,18,Male,Al Barsha,HOM-810,Cushion,Home Decor,1,409.27,36.35,372.92,Card,In-Store
+TXN-00174,2025-05-08,4bcb3fea-abe7-46e6-950b-d850829ae188,61,Female,Deira,ELE-381,Tablet,Electronics,1,62.89,28.16,34.73,Cash,Online
+TXN-00175,2025-02-27,744b5aa6-cabe-468e-a756-3caa98edbc7b,22,Female,Jumeirah,ELE-405,Tablet,Electronics,3,50.98,42.08,110.86,Cash,Online
+TXN-00176,2025-05-31,5b58be55-03d1-4340-a662-94f43e59d46e,18,Male,Jumeirah,GRO-216,Rice,Groceries,4,491.99,17.43,1950.53,Card,Online
+TXN-00177,2025-05-20,140535b5-69fb-430c-b88f-c06fc07c1893,23,Female,Al Barsha,ELE-402,Charger,Electronics,1,317.05,2.11,314.94,Cash,In-Store
+TXN-00178,2025-06-04,bb70c7b1-0152-4d68-814b-5edd215c7914,47,Male,Dubai Marina,BEA-822,Perfume,Beauty,2,307.15,16.55,597.75,Cash,In-Store
+TXN-00179,2025-01-27,fbbbb3b5-1f0a-4de4-87ff-6bb6ba20e2d9,19,Male,Al Barsha,BEA-533,Nail Polish,Beauty,5,240.79,27.92,1176.03,Wallet,In-Store
+TXN-00180,2025-04-23,c20aeed7-8f5a-460f-9069-65d2dbdc1c33,35,Female,Deira,ELE-740,Smartphone,Electronics,1,86.03,3.66,82.37,Cash,Online
+TXN-00181,2025-02-22,2c636548-6c97-41a9-9b1e-90e0a63409d1,25,Male,Al Barsha,GRO-349,Rice,Groceries,2,471.91,12.87,930.95,Cash,Online
+TXN-00182,2025-07-06,6e44025b-758d-4317-bb4b-b81671aa0da6,54,Female,Jumeirah,GRO-688,Eggs,Groceries,2,191.72,3.2,380.24,Card,In-Store
+TXN-00183,2025-06-06,956cb459-8899-4310-9a23-456eb0bbe993,61,Female,Al Barsha,CLO-474,T-Shirt,Clothing,2,188.52,17.74,359.3,Wallet,Online
+TXN-00184,2025-01-25,d6fa62f6-98fe-403b-b882-fbfccfe964cd,38,Female,Bur Dubai,CLO-562,Jacket,Clothing,1,52.1,18.28,33.82,Cash,In-Store
+TXN-00185,2025-05-12,8372d67c-6d19-4f2f-8a93-514e8d2a4f61,51,Female,Jumeirah,BEA-266,Perfume,Beauty,4,359.07,32.42,1403.86,Card,In-Store
+TXN-00186,2025-01-22,81d54308-3338-465d-8cae-0c2e16793a35,57,Male,Jumeirah,GRO-904,Eggs,Groceries,1,359.32,29.86,329.46,Card,In-Store
+TXN-00187,2025-01-28,0830c008-99dd-421d-b2bb-ef027d6653f1,36,Male,Jumeirah,ELE-323,Charger,Electronics,1,155.72,15.27,140.45,Wallet,In-Store
+TXN-00188,2025-03-13,6ec5205c-e5af-4f8a-be53-df6f10ce8a70,45,Male,Bur Dubai,CLO-346,Dress,Clothing,4,234.83,17.09,922.23,Card,Online
+TXN-00189,2025-07-05,537043e1-79fd-4f0a-9894-17f711b0510e,50,Female,Jumeirah,BEA-516,Foundation,Beauty,2,109.56,44.46,174.66,Card,In-Store
+TXN-00190,2025-06-25,aa9bfa43-4b20-49f1-9acd-aa700e509ef3,36,Male,Deira,BEA-462,Shampoo,Beauty,2,113.65,41.67,185.63,Wallet,Online
+TXN-00191,2025-07-23,e393301e-eafd-4112-9cb5-1013113328ef,64,Female,Bur Dubai,CLO-321,Jacket,Clothing,2,424.69,28.97,820.41,Cash,Online
+TXN-00192,2025-03-17,ef169c33-9040-4d30-b026-957a13b6f402,38,Female,Al Barsha,GRO-956,Rice,Groceries,5,101.67,44.21,464.14,Card,Online
+TXN-00193,2025-02-20,235e56c4-4ece-4d95-b24f-54b4ea83e3f0,22,Male,Jumeirah,BEA-898,Nail Polish,Beauty,1,101.13,25.25,75.88,Card,Online
+TXN-00194,2025-02-21,dcb1ecbe-e35c-4999-86f8-7648cea805da,54,Male,Deira,BEA-193,Lipstick,Beauty,1,114.35,15.97,98.38,Wallet,In-Store
+TXN-00195,2025-04-12,b9de5cca-6fb1-4c80-8fdd-0ef343c9bdd7,30,Female,Dubai Marina,GRO-497,Bread,Groceries,2,146.11,25.67,266.55,Wallet,In-Store
+TXN-00196,2025-07-05,1e301d6f-01f2-4fe6-b3dc-a221593411ca,21,Male,Jumeirah,HOM-114,Lamp,Home Decor,3,255.12,13.59,751.77,Card,Online
+TXN-00197,2025-04-05,344e26c5-3e74-488d-99dd-89cd9b9a3231,63,Female,Bur Dubai,HOM-134,Cushion,Home Decor,5,208.76,34.87,1008.93,Wallet,In-Store
+TXN-00198,2025-03-21,3b772a5d-7519-4b9b-bae6-6a47944a182d,30,Female,Bur Dubai,BEA-789,Lipstick,Beauty,3,151.71,15.4,439.73,Card,Online
+TXN-00199,2025-05-10,26399049-e31a-41e0-a470-9f9bd23d3f03,35,Male,Deira,CLO-579,Jeans,Clothing,1,424.01,27.72,396.29,Cash,Online
+TXN-00200,2025-05-21,216e36dc-427b-4c41-9c02-6dd0226b13a8,53,Male,Al Barsha,ELE-739,Laptop,Electronics,1,109.5,29.14,80.36,Wallet,Online
+TXN-00201,2025-05-12,e105d4a5-d7f3-4220-9dfc-5ad69d29865f,47,Female,Deira,GRO-929,Bread,Groceries,1,405.42,40.63,364.79,Wallet,Online
+TXN-00202,2025-03-20,0f5017f2-fa4b-4854-a050-5974d33b7b16,65,Female,Al Barsha,CLO-808,Jeans,Clothing,4,447.6,6.38,1784.02,Wallet,In-Store
+TXN-00203,2025-04-06,055ded38-5fa7-434c-a1f3-608ed480e096,43,Male,Bur Dubai,CLO-593,T-Shirt,Clothing,4,454.45,4.56,1813.24,Cash,Online
+TXN-00204,2025-06-02,112bd00b-309d-4475-9bbb-6df6be2409cc,44,Female,Bur Dubai,ELE-849,Smartphone,Electronics,4,49.5,24.49,173.51,Card,Online
+TXN-00205,2025-06-30,1a584485-60e5-4c03-9f2e-ed2236112a4d,57,Female,Deira,CLO-146,Jacket,Clothing,3,489.63,35.06,1433.83,Card,Online
+TXN-00206,2025-05-26,6e51f003-f475-45b4-aa9a-92ad9df00f67,46,Female,Dubai Marina,ELE-958,Smartphone,Electronics,1,450.52,0.86,449.66,Wallet,In-Store
+TXN-00207,2025-03-29,20c7c42a-7aee-4251-87bd-13f5b48c6ed8,56,Male,Deira,CLO-974,Dress,Clothing,3,282.41,22.81,824.42,Card,Online
+TXN-00208,2025-05-17,1199b355-baec-414e-97a1-2aeb4b5cec4c,23,Female,Dubai Marina,GRO-946,Fruits,Groceries,1,24.29,41.94,-17.65,Card,In-Store
+TXN-00209,2025-06-26,87b97a04-8c5e-4f21-9e86-bf134d47e593,40,Female,Bur Dubai,GRO-850,Fruits,Groceries,3,458.1,45.29,1329.01,Card,In-Store
+TXN-00210,2025-03-26,2d86f527-1521-496a-b3fc-aee5f04197d6,62,Female,Dubai Marina,GRO-912,Bread,Groceries,2,187.29,7.87,366.71,Card,In-Store
+TXN-00211,2025-07-11,a39f969f-2449-412e-b2d8-663dafa8535c,33,Male,Bur Dubai,HOM-402,Rug,Home Decor,3,212.22,34.68,601.98,Wallet,In-Store
+TXN-00212,2025-02-02,e48e0f65-0858-42a2-a001-f2575a79684a,35,Female,Jumeirah,HOM-709,Curtains,Home Decor,1,41.15,27.33,13.82,Card,In-Store
+TXN-00213,2025-02-02,ab0d8f7b-b650-4273-b538-3ba7e3085194,27,Female,Deira,HOM-870,Curtains,Home Decor,5,413.93,45.7,2023.95,Wallet,Online
+TXN-00214,2025-04-27,d456573a-d157-4adf-b575-b2da2abf89b1,19,Male,Deira,CLO-288,Jeans,Clothing,1,285.26,24.02,261.24,Cash,Online
+TXN-00215,2025-06-28,f57a55ca-8157-4a2a-b342-3200d807dcd0,32,Female,Deira,CLO-137,Jacket,Clothing,4,470.08,19.55,1860.77,Wallet,Online
+TXN-00216,2025-06-02,14e42ce7-514e-4f5d-8eb1-9a15b4bba823,64,Female,Deira,ELE-160,Charger,Electronics,4,329.84,42.97,1276.39,Wallet,In-Store
+TXN-00217,2025-06-23,6d4c12ab-aae1-45c8-b9c8-78739ed3c4cb,22,Male,Bur Dubai,GRO-974,Fruits,Groceries,2,115.05,8.79,221.31,Wallet,Online
+TXN-00218,2025-06-05,2ed26f98-608b-4d81-9e58-47ab6ca5bfe1,31,Female,Jumeirah,BEA-652,Shampoo,Beauty,2,80.27,32.2,128.34,Cash,Online
+TXN-00219,2025-03-10,83a8da56-4ac4-47a2-90ff-1d053030e27e,57,Female,Dubai Marina,CLO-244,Jacket,Clothing,3,351.1,0.48,1052.82,Wallet,Online
+TXN-00220,2025-04-14,7f4dee90-f01f-47fd-be2a-6756d8c77618,31,Male,Dubai Marina,ELE-460,Laptop,Electronics,2,91.95,26.31,157.59,Wallet,Online
+TXN-00221,2025-02-20,7d46fb67-2a58-4761-8ffb-02b94a7349f9,62,Male,Deira,ELE-746,Laptop,Electronics,4,452.04,47.82,1760.34,Cash,Online
+TXN-00222,2025-04-10,3f51897e-b580-466e-90f1-4aa5728981df,58,Male,Al Barsha,HOM-110,Lamp,Home Decor,4,319.23,37.55,1239.37,Wallet,Online
+TXN-00223,2025-06-12,f18bc443-a4c1-4423-8e90-be16b5cbb7f6,26,Female,Deira,HOM-297,Curtains,Home Decor,1,238.53,23.04,215.49,Card,Online
+TXN-00224,2025-02-21,d30f8e36-68fb-4280-8178-9039e48ea607,53,Female,Deira,CLO-491,Jacket,Clothing,4,103.5,27.77,386.23,Wallet,In-Store
+TXN-00225,2025-06-01,a1a284a3-1d34-4a2e-8f69-a57139fef3be,45,Male,Bur Dubai,CLO-266,T-Shirt,Clothing,3,25.07,16.05,59.16,Wallet,Online
+TXN-00226,2025-04-04,789311b6-0c24-4492-ad4e-c3327a7ca2e6,64,Female,Bur Dubai,GRO-835,Milk,Groceries,2,133.56,45.44,221.68,Card,In-Store
+TXN-00227,2025-07-07,2ee8e442-5c81-4724-bf62-bd3572c7cb5f,18,Male,Al Barsha,GRO-835,Milk,Groceries,2,185.84,23.59,348.09,Cash,Online
+TXN-00228,2025-04-27,92c14d89-e408-4398-be01-7e732c1123cf,44,Female,Bur Dubai,GRO-181,Milk,Groceries,1,386.34,21.74,364.6,Card,In-Store
+TXN-00229,2025-07-06,cc1c8630-fca3-4dfa-bdbf-365f6ccfa72d,24,Female,Jumeirah,HOM-748,Lamp,Home Decor,1,247.16,12.16,235.0,Wallet,Online
+TXN-00230,2025-06-11,629d8473-f7e0-4931-bc09-81ddd195442b,24,Male,Bur Dubai,ELE-750,Headphones,Electronics,3,487.22,3.68,1457.98,Wallet,In-Store
+TXN-00231,2025-01-28,95250cc6-e98d-4964-a816-bed01dd3ea07,56,Female,Dubai Marina,HOM-282,Cushion,Home Decor,4,241.7,45.02,921.78,Cash,In-Store
+TXN-00232,2025-04-29,ba81078a-cc52-498b-8b73-9b3439e2d59d,37,Male,Jumeirah,HOM-788,Rug,Home Decor,2,125.12,43.72,206.52,Wallet,Online
+TXN-00233,2025-02-03,cdfa21b7-a6c2-4cc3-a9de-26686700389f,40,Female,Dubai Marina,CLO-587,Dress,Clothing,4,489.12,9.55,1946.93,Wallet,Online
+TXN-00234,2025-05-23,318edf3e-8dc3-4e66-9701-a01792eac2fd,25,Female,Deira,ELE-678,Headphones,Electronics,2,302.15,40.35,563.95,Wallet,In-Store
+TXN-00235,2025-01-27,7740b391-43fe-47dd-8811-ab07e93ab38b,54,Male,Bur Dubai,ELE-180,Laptop,Electronics,2,255.78,7.88,503.68,Wallet,Online
+TXN-00236,2025-04-28,4ca85e3a-643a-4768-bfe2-c42b7f5ec725,19,Female,Deira,BEA-135,Foundation,Beauty,2,343.72,21.59,665.85,Wallet,In-Store
+TXN-00237,2025-07-07,6babd6d1-18c0-41bd-aff3-30b00bb2a503,37,Female,Jumeirah,CLO-900,Shoes,Clothing,1,441.79,23.43,418.36,Cash,In-Store
+TXN-00238,2025-05-11,05aa1db3-462e-4d02-a1bb-e5ce896c865a,39,Male,Dubai Marina,HOM-897,Curtains,Home Decor,1,380.3,16.25,364.05,Wallet,In-Store
+TXN-00239,2025-07-10,e2844ae2-2fde-4aa1-9f09-3f18a81e40de,23,Female,Bur Dubai,HOM-381,Wall Art,Home Decor,5,89.63,31.65,416.5,Card,In-Store
+TXN-00240,2025-05-24,4c30a60b-eb9f-4c65-b46b-2c8c7951e692,37,Male,Deira,CLO-234,Dress,Clothing,1,64.3,11.28,53.02,Cash,Online
+TXN-00241,2025-01-26,2dfbe9b3-3dac-4f4a-9b99-238db4cde160,35,Female,Deira,HOM-699,Lamp,Home Decor,3,183.89,6.69,544.98,Cash,In-Store
+TXN-00242,2025-03-17,744875ac-2487-4491-b8a3-f32e8d0f17c1,38,Female,Jumeirah,CLO-744,Dress,Clothing,2,183.09,4.19,361.99,Card,Online
+TXN-00243,2025-02-01,1cbbf5f2-1408-4d9a-9c72-17195d37b87a,59,Male,Jumeirah,CLO-369,Jeans,Clothing,3,253.98,16.89,745.05,Wallet,Online
+TXN-00244,2025-04-17,e19e2489-94db-4838-8b36-7c923b031218,60,Male,Jumeirah,CLO-301,Shoes,Clothing,1,295.46,36.17,259.29,Cash,Online
+TXN-00245,2025-02-04,09633900-f8e1-4486-8901-4eb1acf626c3,61,Male,Deira,ELE-536,Tablet,Electronics,2,244.77,8.64,480.9,Card,Online
+TXN-00246,2025-03-03,cfe8a5c1-498b-4bbb-8c6a-437e5957035d,46,Female,Deira,ELE-772,Headphones,Electronics,2,386.41,44.51,728.31,Wallet,In-Store
+TXN-00247,2025-05-05,2f3f019e-ae94-44b8-ac81-4670b7dcc688,49,Female,Deira,BEA-897,Nail Polish,Beauty,3,179.21,14.6,523.03,Card,In-Store
+TXN-00248,2025-06-21,fc4aa53b-b377-4c76-b936-cd9206ab3116,33,Male,Bur Dubai,GRO-887,Rice,Groceries,1,237.76,12.04,225.72,Card,Online
+TXN-00249,2025-07-12,bf7b7224-f151-466d-9a37-669318680799,52,Female,Bur Dubai,CLO-867,T-Shirt,Clothing,5,316.11,6.18,1574.37,Cash,In-Store
+TXN-00250,2025-04-04,54d27366-1ed9-4fb7-a736-52968f1c276f,29,Male,Dubai Marina,BEA-634,Shampoo,Beauty,4,366.01,12.43,1451.61,Card,Online
+TXN-00251,2025-04-28,16045244-a1eb-4f95-991e-dd7ef25de973,43,Female,Deira,ELE-889,Charger,Electronics,3,463.63,26.71,1364.18,Wallet,Online
+TXN-00252,2025-02-24,af526604-1199-4640-be4b-882b16667052,55,Male,Jumeirah,ELE-489,Laptop,Electronics,1,121.45,33.7,87.75,Cash,In-Store
+TXN-00253,2025-02-21,8287a66c-d8f2-4927-aa7d-ae57df0e90e5,61,Male,Bur Dubai,BEA-744,Nail Polish,Beauty,1,68.38,30.32,38.06,Card,Online
+TXN-00254,2025-03-02,fcffa57f-c3f4-4a37-abbe-8c52d72b4bb4,22,Female,Jumeirah,HOM-228,Curtains,Home Decor,4,438.28,36.47,1716.65,Wallet,In-Store
+TXN-00255,2025-02-18,1a4ed89d-b822-41cd-b3f9-6b8f0dd5463c,35,Male,Deira,GRO-518,Fruits,Groceries,1,327.99,38.69,289.3,Card,In-Store
+TXN-00256,2025-07-17,17cd07d3-8408-4a24-bad8-84449ee7a55e,28,Male,Jumeirah,ELE-659,Headphones,Electronics,3,244.45,15.69,717.66,Card,In-Store
+TXN-00257,2025-01-24,d0804290-2302-4198-8c57-92c5c5affe5a,63,Female,Al Barsha,BEA-866,Nail Polish,Beauty,4,434.12,11.2,1725.28,Cash,In-Store
+TXN-00258,2025-04-03,99009036-9d38-4db1-98ac-2d6409002820,30,Female,Al Barsha,BEA-334,Foundation,Beauty,4,438.33,15.69,1737.63,Card,Online
+TXN-00259,2025-02-22,1a097c32-6a8c-4bd2-a871-a07247ceb902,34,Female,Jumeirah,GRO-974,Bread,Groceries,2,488.14,35.57,940.71,Wallet,Online
+TXN-00260,2025-04-29,6d418fa3-b0f3-4e38-95be-96fc582cc78d,52,Female,Bur Dubai,CLO-313,Jacket,Clothing,3,497.09,17.2,1474.07,Wallet,Online
+TXN-00261,2025-04-24,882d0451-4c17-4da5-ad43-4857542f0849,32,Male,Jumeirah,HOM-959,Cushion,Home Decor,5,269.81,31.48,1317.57,Card,In-Store
+TXN-00262,2025-01-31,38931d65-bf0d-4e0b-bf70-c70c228c7b1c,49,Male,Deira,ELE-504,Charger,Electronics,2,330.56,38.14,622.98,Card,In-Store
+TXN-00263,2025-07-17,4065513d-6734-40f9-83f0-8f38d7e2b438,59,Male,Dubai Marina,ELE-103,Tablet,Electronics,4,25.8,7.77,95.43,Wallet,Online
+TXN-00264,2025-02-06,4605a28c-dac5-4227-b46f-ac155363e2be,43,Male,Deira,ELE-729,Headphones,Electronics,4,339.3,11.11,1346.09,Cash,In-Store
+TXN-00265,2025-06-04,d9698fa0-6ca2-442c-a101-413e95239428,43,Female,Bur Dubai,BEA-101,Nail Polish,Beauty,2,412.28,45.06,779.5,Wallet,In-Store
+TXN-00266,2025-04-17,5d32f8af-50c5-4d45-874c-2a54d9d4cfc8,37,Female,Bur Dubai,HOM-216,Cushion,Home Decor,4,360.61,20.2,1422.24,Cash,In-Store
+TXN-00267,2025-05-04,7e143a1e-fa53-4289-b72a-d82fa1359170,42,Female,Bur Dubai,CLO-346,T-Shirt,Clothing,4,220.76,24.52,858.52,Card,Online
+TXN-00268,2025-05-20,bf9992a0-90ce-4500-81b7-7c0eccb07b76,43,Male,Deira,ELE-359,Charger,Electronics,1,421.6,49.63,371.97,Card,Online
+TXN-00269,2025-03-13,10d6c93f-0865-41a3-92e4-68d1a5246521,53,Female,Al Barsha,HOM-484,Cushion,Home Decor,3,65.1,12.99,182.31,Wallet,Online
+TXN-00270,2025-01-27,96cd4ddf-1f1a-4310-b17c-418f3bb4f7d4,60,Male,Bur Dubai,HOM-253,Wall Art,Home Decor,5,290.46,7.49,1444.81,Wallet,Online
+TXN-00271,2025-04-08,b0fe1013-7b63-4bbf-8242-2220bdc21226,60,Female,Jumeirah,BEA-587,Perfume,Beauty,4,24.73,35.99,62.93,Wallet,Online
+TXN-00272,2025-05-25,15a20100-d183-40bc-a548-0c6abf6d2db1,44,Female,Jumeirah,CLO-500,Shoes,Clothing,4,309.31,28.24,1209.0,Cash,Online
+TXN-00273,2025-07-08,76adf0f6-0639-4ec6-bb1e-98af7ffad998,53,Female,Jumeirah,CLO-899,Shoes,Clothing,1,346.46,35.21,311.25,Card,In-Store
+TXN-00274,2025-06-08,89b8e4bd-19c8-4651-b849-5f4fdbdc6822,33,Male,Deira,ELE-690,Smartphone,Electronics,1,185.46,21.5,163.96,Cash,Online
+TXN-00275,2025-06-30,4e32d60c-71e2-4bf7-87bd-6af61ce3de17,36,Female,Jumeirah,HOM-521,Rug,Home Decor,5,321.93,0.21,1609.44,Wallet,In-Store
+TXN-00276,2025-06-22,a844d9f9-63b7-43ee-96f3-4206b80adace,50,Female,Jumeirah,HOM-457,Curtains,Home Decor,5,141.44,2.4,704.8,Wallet,In-Store
+TXN-00277,2025-04-05,0435c415-da83-41a7-b10a-462a5f94524f,61,Female,Deira,ELE-470,Smartphone,Electronics,4,51.25,6.04,198.96,Wallet,Online
+TXN-00278,2025-02-03,c85ff6b0-ca74-4ff5-a077-f3ff32698608,62,Female,Deira,CLO-354,T-Shirt,Clothing,2,293.94,43.75,544.13,Card,In-Store
+TXN-00279,2025-03-10,f66e6c59-6684-4389-bbd0-b324417bbc2d,62,Male,Dubai Marina,CLO-292,Jacket,Clothing,5,83.07,20.16,395.19,Wallet,Online
+TXN-00280,2025-02-04,b8fc7090-b9df-47fc-a344-c8b606f4aeb1,46,Female,Dubai Marina,HOM-269,Cushion,Home Decor,2,81.99,48.68,115.3,Cash,Online
+TXN-00281,2025-06-24,e0c06501-1289-4456-9d88-e66703312b66,55,Male,Bur Dubai,CLO-655,Jacket,Clothing,3,363.08,30.23,1059.01,Cash,Online
+TXN-00282,2025-03-01,fae41b77-fc49-4d2c-ad2d-7468332abefe,45,Male,Al Barsha,HOM-351,Wall Art,Home Decor,3,214.29,37.75,605.12,Card,In-Store
+TXN-00283,2025-06-12,27e38a8e-a272-4c7a-b616-d5bf7948d8df,44,Female,Al Barsha,ELE-954,Tablet,Electronics,3,303.36,19.34,890.74,Card,In-Store
+TXN-00284,2025-05-27,c06d6059-fa35-4b02-a67f-44c969cc017b,65,Male,Jumeirah,ELE-788,Tablet,Electronics,2,221.09,9.73,432.45,Card,In-Store
+TXN-00285,2025-06-29,ee780672-ccb9-47ed-8175-28b80cc80cc7,25,Male,Deira,CLO-168,Jeans,Clothing,5,78.61,0.3,392.75,Card,Online
+TXN-00286,2025-06-22,c19c69a2-49f4-4f24-b09c-da9d2fb0b1e4,59,Male,Jumeirah,BEA-648,Perfume,Beauty,3,341.67,20.44,1004.57,Wallet,In-Store
+TXN-00287,2025-02-20,eaa1871a-d859-4231-9efa-e882fb34cb62,19,Female,Dubai Marina,ELE-808,Laptop,Electronics,3,113.15,48.08,291.37,Card,In-Store
+TXN-00288,2025-04-10,77381a1b-0a11-4083-b571-b9fcde9f2350,37,Female,Al Barsha,HOM-392,Curtains,Home Decor,2,463.88,36.39,891.37,Card,Online
+TXN-00289,2025-03-18,eb9cab59-9b5a-44a9-9fc7-e48caa362b70,23,Male,Bur Dubai,GRO-260,Rice,Groceries,3,144.64,46.39,387.53,Wallet,In-Store
+TXN-00290,2025-06-26,ee9931f2-5b1f-4f04-9e52-5a2eaf42592e,31,Female,Bur Dubai,HOM-466,Curtains,Home Decor,5,395.44,9.0,1968.2,Card,Online
+TXN-00291,2025-04-12,4cffcc3a-fedd-42bb-8f95-ef68c916433e,59,Female,Dubai Marina,HOM-558,Curtains,Home Decor,3,225.66,30.39,646.59,Wallet,Online
+TXN-00292,2025-05-20,e1212366-69a7-4d8e-8f91-8ed456d60b37,48,Female,Jumeirah,ELE-876,Headphones,Electronics,2,147.63,43.6,251.66,Wallet,Online
+TXN-00293,2025-04-11,36faccfd-f6cd-4c37-9f85-393b45e2c3e7,44,Male,Jumeirah,CLO-644,Jeans,Clothing,1,364.01,13.55,350.46,Card,Online
+TXN-00294,2025-03-23,6340bec1-e517-49eb-99c5-6477ce28cb29,51,Female,Deira,GRO-691,Rice,Groceries,4,97.3,16.09,373.11,Card,In-Store
+TXN-00295,2025-04-24,18242b58-0b9b-40c1-b911-bb889110bad5,28,Female,Dubai Marina,HOM-710,Curtains,Home Decor,1,362.42,6.99,355.43,Cash,Online
+TXN-00296,2025-06-30,1be12dae-da7d-4bf9-8eff-8d11cf6cb9f5,27,Male,Bur Dubai,CLO-546,Shoes,Clothing,5,66.1,35.0,295.5,Cash,Online
+TXN-00297,2025-06-12,ccef2aef-9384-4485-ba21-67603b2fe66d,59,Female,Deira,ELE-130,Charger,Electronics,5,48.82,26.35,217.75,Card,In-Store
+TXN-00298,2025-04-17,86c81ea3-d722-4b52-a066-0565f603cf88,50,Male,Jumeirah,HOM-383,Curtains,Home Decor,3,303.02,15.91,893.15,Card,In-Store
+TXN-00299,2025-04-09,874adddd-997d-4068-af41-ff7ae2638fe6,33,Female,Dubai Marina,HOM-978,Cushion,Home Decor,5,196.9,29.39,955.11,Wallet,Online
+TXN-00300,2025-06-14,a9874017-8b9b-4e41-b1e6-1f3ec430d5f5,63,Male,Dubai Marina,CLO-479,T-Shirt,Clothing,5,386.59,45.96,1886.99,Card,In-Store
+TXN-00301,2025-03-12,7f75d778-046a-4f87-a13c-537fac0b5dc5,46,Female,Al Barsha,GRO-866,Eggs,Groceries,2,305.34,7.2,603.48,Wallet,In-Store
+TXN-00302,2025-07-08,31e61fec-c414-4f97-8872-19c82c18ae6f,19,Male,Dubai Marina,CLO-178,Shoes,Clothing,2,403.26,4.49,802.03,Wallet,In-Store
+TXN-00303,2025-03-06,f7fa75cc-cce0-4612-bb9b-4ab903b5698a,18,Female,Jumeirah,ELE-750,Laptop,Electronics,4,382.39,39.6,1489.96,Wallet,Online
+TXN-00304,2025-01-29,a4c446b9-527d-420e-8f00-9d6ba96b3304,41,Female,Deira,CLO-971,Shoes,Clothing,3,267.75,21.19,782.06,Card,Online
+TXN-00305,2025-03-04,50fb0c6b-bb4a-4db2-b3df-0dc98da312c9,55,Male,Jumeirah,CLO-686,Jacket,Clothing,3,295.63,18.63,868.26,Cash,In-Store
+TXN-00306,2025-05-08,15da917c-965e-46f8-b8c9-30b958dcb0e1,42,Female,Al Barsha,BEA-792,Nail Polish,Beauty,4,134.02,21.87,514.21,Wallet,Online
+TXN-00307,2025-05-08,601f760e-3bce-4d0b-89b5-ad7886181ce7,20,Female,Deira,BEA-421,Perfume,Beauty,1,213.41,25.44,187.97,Card,Online
+TXN-00308,2025-07-08,ea8032f6-14a3-42e4-b635-2cfee2199592,32,Male,Al Barsha,CLO-347,T-Shirt,Clothing,2,368.31,27.11,709.51,Cash,Online
+TXN-00309,2025-05-28,10abecd2-2742-4d31-86ad-6bd683caa422,34,Male,Jumeirah,ELE-347,Headphones,Electronics,5,230.66,17.27,1136.03,Cash,Online
+TXN-00310,2025-01-29,29aaa02e-b926-443a-b1de-476264b55d8c,39,Male,Deira,ELE-540,Charger,Electronics,4,442.6,46.9,1723.5,Wallet,In-Store
+TXN-00311,2025-03-23,35b8cc89-788b-42e7-91b5-cf615d1a6185,34,Male,Deira,BEA-294,Foundation,Beauty,1,158.7,39.16,119.54,Card,In-Store
+TXN-00312,2025-06-05,09500abb-a09b-4ae4-887c-987fe694b2ad,28,Female,Al Barsha,HOM-385,Rug,Home Decor,2,295.6,32.03,559.17,Card,In-Store
+TXN-00313,2025-04-08,0e2094a4-d8fb-4449-88c8-0582e279178d,45,Female,Jumeirah,BEA-944,Perfume,Beauty,3,293.03,10.27,868.82,Wallet,Online
+TXN-00314,2025-04-27,7800f646-e599-4ccf-b2be-b42124bcf7d7,33,Female,Jumeirah,CLO-216,T-Shirt,Clothing,1,196.61,16.66,179.95,Cash,Online
+TXN-00315,2025-02-22,4ccfa8c7-0d31-4966-8baa-525dbab2bb15,36,Male,Dubai Marina,GRO-249,Milk,Groceries,1,122.99,13.54,109.45,Cash,Online
+TXN-00316,2025-05-21,7cc33f82-bc59-4455-9c35-225fe90fc7e7,22,Female,Deira,ELE-995,Laptop,Electronics,1,425.11,48.45,376.66,Card,In-Store
+TXN-00317,2025-02-11,9ae8f344-6cf3-42d6-99ba-ba93209dc69c,36,Female,Deira,BEA-181,Foundation,Beauty,4,291.44,41.47,1124.29,Cash,Online
+TXN-00318,2025-05-08,34c1ea69-fcfa-4649-a854-4a5a4403ba8e,50,Female,Dubai Marina,BEA-888,Perfume,Beauty,3,60.66,0.95,181.03,Card,Online
+TXN-00319,2025-03-03,5d3c8e97-2fc4-44ca-8506-fa089b784d8b,50,Male,Bur Dubai,GRO-733,Fruits,Groceries,2,487.69,10.26,965.12,Cash,Online
+TXN-00320,2025-01-28,b3bc05ac-7152-4dc0-b99c-d5548be829dd,61,Female,Al Barsha,CLO-328,Jacket,Clothing,4,34.59,44.69,93.67,Wallet,In-Store
+TXN-00321,2025-06-19,4e4bacff-45c3-4b42-bd7a-e53e7f74ded3,19,Male,Deira,CLO-274,Jacket,Clothing,2,441.33,21.48,861.18,Card,Online
+TXN-00322,2025-07-19,1620d663-478d-41ae-bbce-b50934f38a16,28,Female,Bur Dubai,ELE-336,Smartphone,Electronics,3,495.96,16.85,1471.03,Wallet,Online
+TXN-00323,2025-02-11,100d7159-6184-4b5f-b0bf-e6c8268cd813,59,Female,Jumeirah,HOM-386,Curtains,Home Decor,3,213.21,42.66,596.97,Cash,Online
+TXN-00324,2025-07-22,291867a9-b9f6-46f6-b44c-44b30a7d50f9,29,Male,Dubai Marina,ELE-101,Laptop,Electronics,5,61.17,47.9,257.95,Wallet,Online
+TXN-00325,2025-01-29,7943b6e8-db05-44e6-8a6e-9e263f015624,28,Male,Al Barsha,BEA-763,Perfume,Beauty,3,359.23,28.81,1048.88,Cash,Online
+TXN-00326,2025-04-05,8badfd3f-fc84-473b-805c-9a0d992f5846,27,Female,Deira,HOM-192,Curtains,Home Decor,5,166.28,31.08,800.32,Cash,Online
+TXN-00327,2025-05-01,33f9b1a7-4a25-4b46-94cc-d3590d2206cd,48,Male,Deira,BEA-649,Foundation,Beauty,2,71.2,15.04,127.36,Cash,Online
+TXN-00328,2025-03-31,6e00e6dd-42cc-4faf-b55c-f63acdd25586,30,Male,Deira,HOM-612,Cushion,Home Decor,3,467.43,47.31,1354.98,Cash,In-Store
+TXN-00329,2025-02-23,a86f057a-08f2-4e75-b7c7-592ab057016a,50,Female,Jumeirah,GRO-864,Rice,Groceries,1,240.8,9.68,231.12,Wallet,In-Store
+TXN-00330,2025-05-14,fa9aa9b1-aabb-4e04-9ee1-df0a83384e70,48,Female,Dubai Marina,HOM-733,Wall Art,Home Decor,4,418.0,11.79,1660.21,Cash,Online
+TXN-00331,2025-07-23,b7f56059-774c-479a-b9ec-984f10acbb23,60,Female,Al Barsha,GRO-550,Eggs,Groceries,3,99.98,17.0,282.94,Cash,In-Store
+TXN-00332,2025-06-26,91553596-4fde-4cbd-affa-3cd118c85339,40,Female,Bur Dubai,GRO-456,Bread,Groceries,3,119.22,24.3,333.36,Cash,In-Store
+TXN-00333,2025-04-12,d1abac1b-84c8-46ba-8759-db5135aaaaca,25,Male,Jumeirah,CLO-849,Jeans,Clothing,4,223.22,37.73,855.15,Wallet,In-Store
+TXN-00334,2025-07-07,8f0eefa2-58c4-4e6c-9537-7a6848f34369,21,Female,Dubai Marina,CLO-232,Jacket,Clothing,3,86.85,36.99,223.56,Card,Online
+TXN-00335,2025-05-24,7e73c50b-1c1b-4de8-83c2-438205250029,31,Female,Jumeirah,HOM-793,Rug,Home Decor,4,35.07,19.41,120.87,Card,Online
+TXN-00336,2025-01-30,166bb16a-363c-4bda-9417-40ba120e5d85,47,Female,Dubai Marina,ELE-667,Headphones,Electronics,5,193.48,15.14,952.26,Wallet,Online
+TXN-00337,2025-04-24,8bfd08a9-b53a-41fd-8921-ce7cada1d667,32,Female,Deira,CLO-862,Jacket,Clothing,1,95.59,19.6,75.99,Card,Online
+TXN-00338,2025-04-02,f1e01cdf-1c61-4c92-a9b6-df29fd0c8b12,51,Female,Deira,BEA-397,Foundation,Beauty,5,151.07,39.85,715.5,Cash,Online
+TXN-00339,2025-02-09,e1cc9a92-d0a9-4dbd-9d22-0b230f1e3e6e,47,Male,Bur Dubai,CLO-558,Dress,Clothing,3,97.77,17.03,276.28,Card,In-Store
+TXN-00340,2025-03-23,fd0e3f1d-50f5-4cc2-b4ef-c1325ea1b8e8,21,Male,Bur Dubai,ELE-313,Headphones,Electronics,1,372.62,15.96,356.66,Wallet,In-Store
+TXN-00341,2025-03-22,815641d7-0b5e-41ac-b75f-dab049ff1f60,25,Male,Al Barsha,ELE-352,Tablet,Electronics,2,118.74,2.41,235.07,Cash,Online
+TXN-00342,2025-04-27,7164e1dc-ae88-4eb6-b926-a840395d0eed,64,Female,Bur Dubai,ELE-345,Laptop,Electronics,3,484.02,18.05,1434.01,Cash,Online
+TXN-00343,2025-05-12,20199fca-6b70-4600-a89b-4e0c080e95fa,37,Female,Dubai Marina,ELE-886,Headphones,Electronics,5,307.65,35.67,1502.58,Wallet,In-Store
+TXN-00344,2025-04-24,09e2c724-e188-4cd7-9b46-6b906133a577,20,Female,Bur Dubai,CLO-596,Jeans,Clothing,4,137.34,0.27,549.09,Wallet,In-Store
+TXN-00345,2025-03-23,afb87659-a7c4-4a2f-a816-1f73bf8db11d,43,Male,Deira,CLO-266,T-Shirt,Clothing,3,308.12,10.53,913.83,Card,In-Store
+TXN-00346,2025-03-20,9c93f3f6-9bbc-4b91-b740-c9e3b8a76947,60,Male,Jumeirah,CLO-479,Dress,Clothing,5,143.41,7.13,709.92,Wallet,Online
+TXN-00347,2025-05-04,bd39d5c5-d384-400b-8185-3d28ac797b2c,38,Female,Deira,CLO-964,Jacket,Clothing,4,339.66,40.87,1317.77,Cash,In-Store
+TXN-00348,2025-02-10,a6d4d3a2-eded-4ed8-bd68-f6511a777482,18,Male,Deira,BEA-268,Foundation,Beauty,5,127.79,14.97,623.98,Card,Online
+TXN-00349,2025-07-21,5646fa85-c2b1-4dc0-806b-caed53d7f013,54,Male,Al Barsha,HOM-335,Wall Art,Home Decor,5,440.96,24.42,2180.38,Wallet,Online
+TXN-00350,2025-03-25,4325bb8a-b628-4109-8787-d58d07b76361,19,Female,Dubai Marina,GRO-798,Eggs,Groceries,2,103.33,47.68,158.98,Wallet,In-Store
+TXN-00351,2025-06-11,73fcc38c-ca88-4ced-991c-879c7fde3717,60,Female,Deira,HOM-957,Lamp,Home Decor,2,182.99,10.3,355.68,Wallet,Online
+TXN-00352,2025-02-25,0940542e-5d13-425d-bec3-5e5f85552b0a,37,Male,Deira,GRO-166,Milk,Groceries,5,269.8,46.27,1302.73,Cash,In-Store
+TXN-00353,2025-05-14,caacb635-cfca-490b-a70e-5ebfc13388b0,33,Female,Al Barsha,CLO-466,Shoes,Clothing,3,396.55,39.74,1149.91,Wallet,Online
+TXN-00354,2025-04-19,405b1438-96fc-4dfa-b5c1-c13ac4fc42fd,47,Male,Bur Dubai,ELE-812,Smartphone,Electronics,4,91.07,2.47,361.81,Wallet,In-Store
+TXN-00355,2025-04-26,f2af3411-16d4-4066-83e8-3a985fb6e674,55,Male,Al Barsha,CLO-483,Dress,Clothing,3,302.58,16.28,891.46,Wallet,In-Store
+TXN-00356,2025-03-11,599a0665-6f6c-47b5-be24-8c8d0030bef8,53,Female,Al Barsha,GRO-210,Fruits,Groceries,3,51.01,24.05,128.98,Wallet,In-Store
+TXN-00357,2025-03-24,c8d1837f-2f3f-4bfa-b8d9-f632bdcbf615,55,Male,Bur Dubai,GRO-873,Fruits,Groceries,3,216.41,35.04,614.19,Wallet,In-Store
+TXN-00358,2025-05-17,2dfd2e7d-5dc6-43af-93de-266b95047790,29,Female,Al Barsha,HOM-759,Wall Art,Home Decor,2,218.13,15.25,421.01,Card,In-Store
+TXN-00359,2025-05-22,2f4c41a5-e976-4da5-8e18-e1f7f0de147e,58,Female,Deira,GRO-833,Bread,Groceries,4,357.23,1.37,1427.55,Cash,Online
+TXN-00360,2025-07-20,ab0d542a-e85f-466b-9749-ec66b1dbf0ca,25,Female,Al Barsha,CLO-136,Shoes,Clothing,4,225.62,47.88,854.6,Cash,In-Store
+TXN-00361,2025-03-10,201026dd-8f4e-461f-97e5-c12e651fe3e2,26,Male,Al Barsha,HOM-925,Curtains,Home Decor,5,423.66,20.65,2097.65,Wallet,In-Store
+TXN-00362,2025-03-12,42bbf5a8-b2a8-45eb-8b9c-ffb3f314246f,65,Male,Jumeirah,GRO-606,Fruits,Groceries,4,414.04,10.13,1646.03,Cash,In-Store
+TXN-00363,2025-03-31,7a2188c4-8126-47ae-9c5e-f7ee85defd0f,46,Male,Bur Dubai,CLO-528,Jacket,Clothing,1,375.31,35.44,339.87,Cash,Online
+TXN-00364,2025-03-10,22307c00-e898-42c1-bcd4-c9651d3b25fa,52,Female,Deira,ELE-223,Tablet,Electronics,4,12.7,22.29,28.51,Wallet,Online
+TXN-00365,2025-07-02,8a148e76-c51c-4946-b73e-5600b61df477,36,Male,Bur Dubai,HOM-597,Curtains,Home Decor,5,301.83,37.71,1471.44,Cash,Online
+TXN-00366,2025-06-25,4df8a870-3017-4187-84fc-6161bd279a16,50,Male,Al Barsha,GRO-880,Bread,Groceries,4,195.83,1.71,781.61,Cash,In-Store
+TXN-00367,2025-05-20,42ee29c2-6909-46d8-8296-8edeeb6da6a2,31,Male,Bur Dubai,CLO-624,T-Shirt,Clothing,2,285.35,42.6,528.1,Card,Online
+TXN-00368,2025-06-30,c25b509c-a036-412c-8530-5dbfddede52e,27,Male,Deira,HOM-602,Rug,Home Decor,2,434.45,36.06,832.84,Card,Online
+TXN-00369,2025-04-23,e6573de6-1cd1-453a-bfe8-6a4705f387d3,53,Female,Al Barsha,CLO-637,Jeans,Clothing,4,390.24,21.94,1539.02,Cash,Online
+TXN-00370,2025-02-18,8516b722-0705-4d56-bf72-bdecafc02101,38,Male,Deira,HOM-633,Wall Art,Home Decor,2,70.56,30.42,110.7,Cash,Online
+TXN-00371,2025-06-25,4db63f72-5863-4c43-ac47-36439cc29675,49,Female,Bur Dubai,GRO-967,Milk,Groceries,2,165.73,44.75,286.71,Wallet,In-Store
+TXN-00372,2025-02-03,c5a7ed93-11ac-405f-a304-ce1325515c14,25,Female,Al Barsha,GRO-289,Eggs,Groceries,4,153.52,27.75,586.33,Cash,Online
+TXN-00373,2025-06-25,21a3aa4b-99e5-40b9-b77b-554126fe82f4,47,Female,Al Barsha,CLO-268,Shoes,Clothing,3,490.66,39.44,1432.54,Card,In-Store
+TXN-00374,2025-05-07,32fa834c-6cc4-45ad-b493-f693fecf89b4,57,Male,Dubai Marina,ELE-126,Tablet,Electronics,2,358.48,3.74,713.22,Cash,Online
+TXN-00375,2025-05-31,12bb4600-c9c7-48a7-855e-55fa405574a7,65,Male,Bur Dubai,ELE-432,Smartphone,Electronics,1,30.17,38.2,-8.03,Cash,Online
+TXN-00376,2025-07-13,6b5be833-14b6-4507-9579-fda03390e6de,32,Female,Jumeirah,BEA-946,Nail Polish,Beauty,1,10.96,49.01,-38.05,Cash,Online
+TXN-00377,2025-02-07,0cc3ff91-ba02-4e57-b622-ba6775f0802c,57,Female,Deira,BEA-105,Nail Polish,Beauty,4,183.14,9.06,723.5,Wallet,Online
+TXN-00378,2025-05-18,87009712-abf4-4cca-8b8f-b8b98f597ed6,27,Male,Al Barsha,ELE-333,Smartphone,Electronics,3,386.28,45.91,1112.93,Wallet,Online
+TXN-00379,2025-06-05,d95ccbef-b280-4f6d-988a-dcaf603851a6,38,Female,Jumeirah,HOM-668,Wall Art,Home Decor,4,177.02,23.48,684.6,Cash,In-Store
+TXN-00380,2025-07-04,2e47ac89-42cf-4fa6-b838-e7172ada4668,58,Male,Al Barsha,HOM-315,Curtains,Home Decor,2,340.35,45.99,634.71,Cash,In-Store
+TXN-00381,2025-04-20,40e997de-bc4c-4e1b-b36f-0de5f9643e2b,61,Female,Dubai Marina,GRO-702,Eggs,Groceries,2,265.35,19.86,510.84,Wallet,Online
+TXN-00382,2025-07-03,495d63af-b03a-4d33-9e61-069d0e8c6e56,56,Female,Deira,BEA-846,Lipstick,Beauty,5,287.84,14.35,1424.85,Card,Online
+TXN-00383,2025-06-23,68f0cee6-17de-40f0-8546-be687a5f4a7f,60,Female,Al Barsha,ELE-477,Tablet,Electronics,1,491.41,45.3,446.11,Card,Online
+TXN-00384,2025-04-21,8103910a-3225-453f-9db7-9d005b5a0ec1,52,Female,Bur Dubai,CLO-884,Jeans,Clothing,4,471.29,42.91,1842.25,Wallet,In-Store
+TXN-00385,2025-04-30,3386f008-c580-468e-8121-9af9a982a428,41,Female,Bur Dubai,BEA-326,Foundation,Beauty,3,28.76,48.04,38.24,Wallet,In-Store
+TXN-00386,2025-04-11,2088c8bf-1b40-4b2c-b478-c4be0414bd88,61,Female,Bur Dubai,CLO-681,Jeans,Clothing,4,11.25,17.81,27.19,Cash,Online
+TXN-00387,2025-07-05,971f137e-fbb9-42d1-8ac3-570f69699413,27,Male,Dubai Marina,ELE-548,Smartphone,Electronics,3,400.75,18.16,1184.09,Wallet,Online
+TXN-00388,2025-06-11,bf665a6d-4de3-4e90-a43e-50fc48111c4a,27,Male,Jumeirah,CLO-185,Jacket,Clothing,4,270.41,48.97,1032.67,Cash,Online
+TXN-00389,2025-01-24,24e3e5a7-8905-4e21-89ee-bf57b2746aeb,33,Female,Al Barsha,GRO-437,Bread,Groceries,4,15.06,10.75,49.49,Wallet,Online
+TXN-00390,2025-05-11,bfd57ada-2e87-4b33-98ad-85f65569491b,25,Female,Al Barsha,GRO-461,Bread,Groceries,1,131.6,27.53,104.07,Wallet,In-Store
+TXN-00391,2025-01-23,bbd495bf-8457-4e5b-8ea8-60374b7fc05e,50,Female,Jumeirah,HOM-625,Rug,Home Decor,5,142.06,30.1,680.2,Wallet,Online
+TXN-00392,2025-05-25,cd8b6029-6371-4549-af61-2f75aa560be5,56,Female,Dubai Marina,ELE-940,Smartphone,Electronics,2,258.95,47.66,470.24,Cash,Online
+TXN-00393,2025-01-27,c2701067-564e-47b3-bf4e-b55b146ed94c,52,Female,Dubai Marina,GRO-481,Bread,Groceries,4,15.36,41.28,20.16,Card,In-Store
+TXN-00394,2025-07-22,9d8eb1da-b902-484b-8eae-05616e06ee70,23,Female,Deira,ELE-763,Smartphone,Electronics,5,403.53,1.55,2016.1,Wallet,In-Store
+TXN-00395,2025-01-29,0f0fb474-4e14-4813-bc2b-b1a813196ffa,61,Female,Al Barsha,HOM-861,Cushion,Home Decor,2,334.68,30.69,638.67,Wallet,In-Store
+TXN-00396,2025-07-02,7d517b31-0342-492d-9a3b-25f773b1d12f,22,Female,Al Barsha,BEA-451,Perfume,Beauty,4,247.54,13.72,976.44,Wallet,Online
+TXN-00397,2025-05-05,cd1ea640-e28b-4ef5-89dd-6f816f622580,24,Female,Al Barsha,HOM-988,Lamp,Home Decor,1,293.59,16.45,277.14,Cash,Online
+TXN-00398,2025-05-21,ecd1afe2-2af6-4719-bc35-4078f91b98d9,60,Male,Deira,BEA-609,Lipstick,Beauty,3,83.97,8.11,243.8,Cash,Online
+TXN-00399,2025-03-28,65c92e2b-a451-47ba-a4d6-4b0365d5407d,43,Female,Bur Dubai,CLO-484,Jeans,Clothing,4,142.1,44.79,523.61,Card,Online
+TXN-00400,2025-03-30,7429fc59-a13b-48bc-af98-6cf3957c381c,22,Female,Al Barsha,CLO-787,T-Shirt,Clothing,3,371.48,36.32,1078.12,Cash,In-Store
+TXN-00401,2025-07-20,a6b8fa70-f51e-4f53-8b51-92fa0a773b48,43,Female,Jumeirah,ELE-415,Laptop,Electronics,2,328.72,24.22,633.22,Cash,In-Store
+TXN-00402,2025-07-07,0a2b2e99-0c04-4d21-bb14-bfc3507ef785,22,Female,Dubai Marina,BEA-445,Nail Polish,Beauty,5,68.54,37.54,305.16,Card,Online
+TXN-00403,2025-06-18,52c376f9-36cb-432b-8bc7-29d3229cabb8,38,Female,Deira,GRO-954,Eggs,Groceries,5,456.21,43.84,2237.21,Wallet,In-Store
+TXN-00404,2025-06-09,848fe14a-ebde-40b5-90ac-c0e96489cb38,64,Female,Deira,HOM-979,Cushion,Home Decor,3,215.64,34.54,612.38,Wallet,Online
+TXN-00405,2025-04-24,3315133c-7554-424e-9eaf-9fc97f0f1c2e,24,Female,Deira,BEA-374,Perfume,Beauty,1,24.07,17.05,7.02,Cash,In-Store
+TXN-00406,2025-06-04,19f59b70-decd-4b0d-9215-93a1d7757aac,35,Female,Dubai Marina,HOM-581,Rug,Home Decor,1,141.64,38.29,103.35,Card,Online
+TXN-00407,2025-03-15,797b933a-6151-4cfd-9edf-69e48cf4c8bc,53,Male,Bur Dubai,CLO-811,Jacket,Clothing,3,386.06,20.78,1137.4,Cash,Online
+TXN-00408,2025-03-05,e439ba7d-eeb6-4ef5-be52-35cc6547401b,44,Male,Al Barsha,ELE-624,Charger,Electronics,5,256.08,35.91,1244.49,Card,In-Store
+TXN-00409,2025-04-02,19b8c54a-def2-47b0-8bb7-5b1855aebd4b,54,Male,Al Barsha,HOM-307,Curtains,Home Decor,2,28.79,9.46,48.12,Cash,In-Store
+TXN-00410,2025-01-25,bb3cec52-cb1a-489e-8b6b-a2c6f9dfc519,52,Male,Dubai Marina,GRO-749,Bread,Groceries,2,424.41,25.01,823.81,Cash,In-Store
+TXN-00411,2025-04-13,55c8f423-cb00-44d5-b3ae-c7c33b3a3b1a,41,Female,Jumeirah,BEA-650,Lipstick,Beauty,2,245.88,20.63,471.13,Cash,Online
+TXN-00412,2025-01-24,a1e7389a-fde2-4617-a741-d9b5e5d83bf3,34,Female,Deira,GRO-180,Rice,Groceries,1,402.75,7.46,395.29,Card,In-Store
+TXN-00413,2025-02-13,5ab60cbf-068f-44ca-8bec-c2b2e068cbfd,39,Male,Al Barsha,CLO-285,Shoes,Clothing,1,426.92,13.91,413.01,Wallet,In-Store
+TXN-00414,2025-04-14,5fb41838-9a14-497d-90bc-a1a74fae5419,19,Male,Dubai Marina,ELE-732,Charger,Electronics,4,240.25,0.74,960.26,Wallet,Online
+TXN-00415,2025-04-16,64137819-9696-4bf4-af52-bced9e071925,60,Female,Jumeirah,HOM-392,Curtains,Home Decor,1,437.06,31.48,405.58,Card,Online
+TXN-00416,2025-07-12,daac1874-6173-4a8c-8dd9-aeab02d7c103,29,Female,Bur Dubai,BEA-257,Foundation,Beauty,1,484.66,42.21,442.45,Cash,In-Store
+TXN-00417,2025-03-21,146ad3c4-9d2e-4426-a413-44335942be34,65,Female,Bur Dubai,GRO-108,Bread,Groceries,3,232.68,11.04,687.0,Wallet,In-Store
+TXN-00418,2025-03-15,024ea7b3-d3ce-465f-a073-bf691820d1b1,28,Female,Bur Dubai,GRO-816,Rice,Groceries,2,435.09,13.29,856.89,Wallet,In-Store
+TXN-00419,2025-05-30,14f5cb1f-5402-4c7e-8fbc-adc8904b8c7a,31,Female,Deira,HOM-991,Wall Art,Home Decor,5,174.54,6.68,866.02,Card,In-Store
+TXN-00420,2025-03-28,740f242d-e15a-461b-98f1-c7f515076cd3,44,Male,Dubai Marina,HOM-984,Wall Art,Home Decor,4,237.1,2.14,946.26,Card,Online
+TXN-00421,2025-07-17,42499333-1a2f-43e3-b31d-1f16f057bf5c,60,Male,Dubai Marina,GRO-444,Bread,Groceries,1,370.65,49.12,321.53,Wallet,Online
+TXN-00422,2025-02-01,4cf02b37-fe09-4268-be88-d82c8062f987,39,Male,Bur Dubai,HOM-309,Rug,Home Decor,4,168.72,44.72,630.16,Wallet,Online
+TXN-00423,2025-07-20,60746173-37b9-486d-9abb-12f4554bd3a0,23,Male,Al Barsha,CLO-546,Dress,Clothing,1,315.38,31.3,284.08,Cash,Online
+TXN-00424,2025-03-17,0f6cf373-d296-40fa-8373-a1105b6702a7,36,Male,Jumeirah,BEA-991,Perfume,Beauty,5,362.27,2.69,1808.66,Wallet,Online
+TXN-00425,2025-05-19,9c7eea5d-cfd5-4f8e-8916-9bbf3ea59618,52,Male,Al Barsha,BEA-812,Shampoo,Beauty,5,347.98,48.5,1691.4,Card,In-Store
+TXN-00426,2025-06-02,e000db24-9e48-4f80-abda-7e6d72a759c5,35,Female,Dubai Marina,GRO-644,Bread,Groceries,5,67.42,46.01,291.09,Wallet,In-Store
+TXN-00427,2025-03-15,754dc1df-a9af-4ffc-b3c4-35362f80dd85,64,Male,Bur Dubai,GRO-823,Rice,Groceries,1,167.2,24.46,142.74,Cash,Online
+TXN-00428,2025-07-13,590d288c-5b1e-499a-bb6d-8391d22f40bf,41,Male,Bur Dubai,BEA-995,Nail Polish,Beauty,2,161.66,17.0,306.32,Wallet,Online
+TXN-00429,2025-04-11,376b5bf9-e59e-4879-b500-6c0f4c180282,56,Male,Dubai Marina,ELE-173,Smartphone,Electronics,5,59.4,2.62,294.38,Card,Online
+TXN-00430,2025-02-06,6059e1bb-39fc-4540-bf48-07012f91202d,61,Female,Dubai Marina,HOM-704,Cushion,Home Decor,5,156.06,40.21,740.09,Card,Online
+TXN-00431,2025-05-05,83469e16-32c8-46e5-a840-1c96a9f960d5,38,Female,Deira,GRO-613,Bread,Groceries,2,112.3,46.08,178.52,Cash,Online
+TXN-00432,2025-05-21,1f91efd3-f889-49da-a603-a5c686cae780,31,Male,Deira,BEA-609,Shampoo,Beauty,4,337.94,33.27,1318.49,Cash,Online
+TXN-00433,2025-05-13,679584b5-e770-4e1d-a553-81db5b9dc1fa,53,Female,Bur Dubai,GRO-918,Milk,Groceries,5,80.27,26.27,375.08,Wallet,Online
+TXN-00434,2025-04-06,8bdf5370-1e93-4a06-b452-4e0441a35982,65,Female,Al Barsha,BEA-532,Lipstick,Beauty,1,96.92,49.38,47.54,Cash,In-Store
+TXN-00435,2025-05-05,8b5c6d66-6607-4917-bc55-6a88354a64e9,25,Female,Deira,ELE-586,Charger,Electronics,4,372.56,18.62,1471.62,Cash,Online
+TXN-00436,2025-03-15,507fb5c0-abfd-4aad-b831-59dd1a401592,36,Male,Dubai Marina,HOM-573,Lamp,Home Decor,1,232.31,44.44,187.87,Card,Online
+TXN-00437,2025-02-06,262549ae-d366-4362-9593-99706f05dbb9,26,Female,Jumeirah,BEA-600,Nail Polish,Beauty,3,119.63,5.65,353.24,Cash,In-Store
+TXN-00438,2025-02-09,107f9a8e-1854-4637-90aa-a53211187ca8,50,Female,Bur Dubai,CLO-782,Dress,Clothing,3,157.97,35.02,438.89,Wallet,Online
+TXN-00439,2025-06-15,7503b3cb-0ed9-4657-95a4-851f3a754b71,25,Male,Bur Dubai,HOM-437,Wall Art,Home Decor,5,103.94,3.89,515.81,Card,In-Store
+TXN-00440,2025-04-08,9e5c9fc0-b521-4d52-84e9-9604e1cbf334,25,Male,Jumeirah,BEA-151,Perfume,Beauty,2,456.98,31.29,882.67,Cash,In-Store
+TXN-00441,2025-03-03,19157d56-79aa-4dd9-9bf9-ceab259cbb92,41,Female,Al Barsha,CLO-903,Jeans,Clothing,4,129.89,45.58,473.98,Card,In-Store
+TXN-00442,2025-05-08,ea79b711-a0ce-4c8d-a270-95c357cc7b7a,38,Male,Dubai Marina,GRO-313,Bread,Groceries,2,104.93,14.7,195.16,Wallet,Online
+TXN-00443,2025-02-12,f6c677d8-0105-4aa1-a399-d4069a591bff,40,Male,Bur Dubai,CLO-322,T-Shirt,Clothing,2,204.22,42.0,366.44,Wallet,Online
+TXN-00444,2025-06-08,dc873a46-7235-4223-9eb3-42fd3a756061,31,Female,Al Barsha,CLO-311,Jacket,Clothing,5,83.34,42.85,373.85,Card,Online
+TXN-00445,2025-04-21,2aabf88e-bdcb-4cf7-9595-a2fcec3733ed,54,Female,Bur Dubai,HOM-771,Cushion,Home Decor,4,238.74,13.85,941.11,Wallet,In-Store
+TXN-00446,2025-02-07,9eb09226-bcf4-44e7-9127-b731ea24373e,44,Female,Jumeirah,ELE-451,Laptop,Electronics,4,483.06,23.88,1908.36,Card,In-Store
+TXN-00447,2025-03-24,347b2449-0468-4a71-9d73-2a60a8f4335c,18,Male,Dubai Marina,BEA-369,Shampoo,Beauty,5,288.22,10.52,1430.58,Wallet,In-Store
+TXN-00448,2025-03-09,bdcfbe97-3ec2-4bb4-901b-d9d92a21f587,30,Male,Jumeirah,GRO-543,Fruits,Groceries,2,467.09,29.44,904.74,Cash,In-Store
+TXN-00449,2025-03-03,61d5a992-6c97-40c5-a018-ab6ed6786104,63,Male,Deira,ELE-497,Laptop,Electronics,1,254.14,20.47,233.67,Cash,In-Store
+TXN-00450,2025-05-12,a8c05977-490b-41a0-9214-69cd3aae0c76,35,Male,Jumeirah,ELE-465,Charger,Electronics,2,263.7,24.75,502.65,Card,In-Store
+TXN-00451,2025-03-25,7232a613-4e1d-4ac2-8fd3-e39bde8210ff,56,Female,Al Barsha,HOM-966,Cushion,Home Decor,2,68.1,12.67,123.53,Cash,In-Store
+TXN-00452,2025-03-12,84615a79-8ab9-42ce-bf75-4c2e9fbd583d,34,Female,Jumeirah,ELE-282,Tablet,Electronics,1,80.84,45.31,35.53,Card,Online
+TXN-00453,2025-04-13,4bb347bb-2e90-4953-afbc-8c5351396fb5,47,Female,Bur Dubai,ELE-107,Tablet,Electronics,2,419.08,43.59,794.57,Wallet,Online
+TXN-00454,2025-01-26,c6258cd4-d825-4c8e-a3f4-23beb3bb4b1b,20,Female,Al Barsha,GRO-201,Bread,Groceries,2,486.61,23.77,949.45,Cash,In-Store
+TXN-00455,2025-03-25,46aa6005-e667-4125-b7aa-3dc0fcb51ae8,22,Female,Deira,CLO-801,Jeans,Clothing,1,253.25,6.1,247.15,Card,In-Store
+TXN-00456,2025-03-26,f901d58b-00bb-42d3-a58f-93604f3f0e1d,58,Female,Dubai Marina,GRO-612,Fruits,Groceries,5,78.77,34.37,359.48,Card,In-Store
+TXN-00457,2025-06-08,72e31261-3b4d-4344-8e5b-091b17f7c3cc,62,Male,Al Barsha,ELE-384,Smartphone,Electronics,2,182.9,2.51,363.29,Cash,In-Store
+TXN-00458,2025-04-13,1f62f358-a140-4729-bdd5-ac19a31c82a5,42,Male,Dubai Marina,ELE-410,Tablet,Electronics,5,349.48,40.61,1706.79,Card,Online
+TXN-00459,2025-05-18,b70f566d-a0a2-43b1-905a-274c9742cd1a,23,Male,Jumeirah,BEA-642,Shampoo,Beauty,1,147.09,42.82,104.27,Wallet,In-Store
+TXN-00460,2025-05-02,9cb422b8-f445-492e-9df7-91b01faedfe9,22,Male,Deira,HOM-661,Rug,Home Decor,1,112.8,44.59,68.21,Card,In-Store
+TXN-00461,2025-02-02,8999adad-b9db-45a6-8479-07cde8111b76,41,Male,Deira,BEA-843,Perfume,Beauty,1,128.09,45.17,82.92,Cash,Online
+TXN-00462,2025-06-11,cf9a77f0-6bf6-4861-b36d-e943a6a9c740,28,Female,Deira,HOM-633,Lamp,Home Decor,1,29.96,11.44,18.52,Wallet,Online
+TXN-00463,2025-07-01,c8bdea82-ef7b-4541-b48c-bc829496d0b9,50,Female,Bur Dubai,BEA-781,Perfume,Beauty,4,285.75,2.74,1140.26,Cash,In-Store
+TXN-00464,2025-02-25,edb6a50e-6951-4657-b3fa-30aafffca191,54,Male,Dubai Marina,CLO-636,Jacket,Clothing,2,491.29,30.15,952.43,Wallet,In-Store
+TXN-00465,2025-01-30,a2251671-76a6-4b05-983b-67c9d4455ad5,31,Male,Dubai Marina,GRO-611,Milk,Groceries,5,212.62,14.98,1048.12,Wallet,In-Store
+TXN-00466,2025-06-23,41a748b7-d1cb-487c-8b07-a18ef280a5e4,58,Male,Bur Dubai,GRO-831,Eggs,Groceries,5,282.73,13.09,1400.56,Wallet,In-Store
+TXN-00467,2025-05-21,35319292-5d23-4da4-92e0-ae48073e5de8,45,Male,Deira,BEA-395,Foundation,Beauty,1,399.96,39.04,360.92,Cash,Online
+TXN-00468,2025-05-14,6f2e8e17-2840-452c-9a16-e7694b7d69be,45,Female,Dubai Marina,HOM-102,Cushion,Home Decor,1,103.57,21.8,81.77,Wallet,Online
+TXN-00469,2025-04-19,360dfbb6-c328-448b-b776-c6d58ab0d885,22,Male,Bur Dubai,ELE-397,Smartphone,Electronics,1,98.05,2.3,95.75,Cash,Online
+TXN-00470,2025-06-29,68285c31-1b68-4e21-a784-7d56160b3bc4,25,Male,Al Barsha,HOM-584,Rug,Home Decor,5,58.14,33.63,257.07,Card,In-Store
+TXN-00471,2025-06-06,7f3997da-7cb3-41f2-bbda-8b6640d363f7,57,Male,Dubai Marina,CLO-603,T-Shirt,Clothing,2,349.93,32.21,667.65,Cash,In-Store
+TXN-00472,2025-04-03,d5e54385-4dea-423b-a833-cd11020823ba,30,Male,Jumeirah,ELE-775,Charger,Electronics,4,432.04,12.89,1715.27,Wallet,In-Store
+TXN-00473,2025-07-16,ad8c0617-fb75-4b0d-9af6-bc8157b4036f,27,Female,Bur Dubai,GRO-972,Fruits,Groceries,4,315.63,41.05,1221.47,Card,In-Store
+TXN-00474,2025-04-03,74980628-3e2e-4eac-8a99-e58848074da9,41,Female,Dubai Marina,HOM-659,Rug,Home Decor,1,174.13,10.04,164.09,Cash,Online
+TXN-00475,2025-04-02,be565e71-e6aa-45e6-8c9e-3beed8fa7d68,39,Male,Al Barsha,BEA-704,Lipstick,Beauty,5,53.89,41.06,228.39,Wallet,Online
+TXN-00476,2025-06-18,8e4834e8-b814-4aa6-b95c-d68601030ffa,20,Female,Al Barsha,GRO-768,Eggs,Groceries,4,316.79,27.11,1240.05,Wallet,In-Store
+TXN-00477,2025-04-21,d1b7a9c7-aa30-4bdf-b7fa-04d841d12c19,30,Male,Al Barsha,ELE-762,Headphones,Electronics,5,388.39,39.09,1902.86,Wallet,Online
+TXN-00478,2025-06-17,a0e2372e-7a3a-482e-8dd9-4c6a2df24893,44,Female,Bur Dubai,CLO-686,Dress,Clothing,5,174.34,40.92,830.78,Cash,Online
+TXN-00479,2025-04-02,444e20ae-d2a2-4929-a6d8-a72ef36e1a86,20,Male,Deira,BEA-178,Foundation,Beauty,3,214.45,14.84,628.51,Cash,Online
+TXN-00480,2025-03-05,8ce251a1-7efa-44ed-ab45-d72945e778d1,39,Male,Jumeirah,ELE-298,Tablet,Electronics,3,444.95,35.31,1299.54,Card,In-Store
+TXN-00481,2025-06-04,051d51b5-2a00-49fc-af18-4b5fee463f7c,52,Male,Al Barsha,CLO-405,Jacket,Clothing,5,488.04,2.11,2438.09,Card,Online
+TXN-00482,2025-04-28,54d84306-17db-42b1-886a-a6b521129fc0,59,Female,Bur Dubai,CLO-309,T-Shirt,Clothing,4,20.28,43.37,37.75,Card,Online
+TXN-00483,2025-06-30,d2fc8b75-bac0-4300-bc81-fc45e2a8eb7a,46,Female,Bur Dubai,BEA-546,Perfume,Beauty,4,366.45,14.76,1451.04,Card,In-Store
+TXN-00484,2025-03-30,03fb58cc-d9fb-4c20-875c-bc152d1d4d54,28,Female,Dubai Marina,ELE-181,Charger,Electronics,1,50.15,37.66,12.49,Cash,In-Store
+TXN-00485,2025-01-30,33bd20eb-d105-4e2a-93c3-5a885f4d23ee,48,Female,Jumeirah,GRO-238,Fruits,Groceries,3,406.82,44.26,1176.2,Card,In-Store
+TXN-00486,2025-07-07,89d93f49-f7a2-4fe8-aaab-3f8a2dc83901,48,Female,Deira,CLO-648,Jeans,Clothing,4,330.17,1.89,1318.79,Cash,Online
+TXN-00487,2025-02-09,5ce6e85e-5979-4b29-ad44-6077c2de43e7,21,Male,Al Barsha,CLO-327,Jeans,Clothing,2,498.73,26.56,970.9,Cash,In-Store
+TXN-00488,2025-03-17,5aa4ce14-8570-4470-b63f-1dc0b3be225b,46,Female,Dubai Marina,GRO-401,Rice,Groceries,1,373.49,42.55,330.94,Wallet,In-Store
+TXN-00489,2025-06-19,00edfa16-9f34-409d-8a90-28f603c8863b,30,Male,Jumeirah,BEA-660,Shampoo,Beauty,5,42.66,30.57,182.73,Cash,In-Store
+TXN-00490,2025-07-21,814df6e7-5e8d-4ec4-881d-664acb701c92,59,Female,Jumeirah,GRO-129,Milk,Groceries,4,481.33,32.4,1892.92,Wallet,In-Store
+TXN-00491,2025-06-30,338cbf26-9d52-4bfb-8bc5-5e98e51f9313,45,Female,Dubai Marina,ELE-823,Laptop,Electronics,1,178.62,26.46,152.16,Card,Online
+TXN-00492,2025-07-09,21f67218-017b-4993-ac08-0dc0eebd0bc0,31,Female,Jumeirah,GRO-871,Fruits,Groceries,3,145.75,24.13,413.12,Wallet,In-Store
+TXN-00493,2025-04-22,8d1ca3e0-c218-40b8-97f9-53cac1178843,49,Male,Dubai Marina,ELE-477,Tablet,Electronics,2,403.94,4.49,803.39,Card,Online
+TXN-00494,2025-03-31,3f01a075-6b4d-4f14-9ba2-93df67fa87f0,21,Female,Al Barsha,BEA-873,Lipstick,Beauty,3,38.73,39.98,76.21,Cash,In-Store
+TXN-00495,2025-05-25,2f6dc72c-1168-4865-b9a5-d3547eda8cdd,51,Male,Dubai Marina,CLO-860,Dress,Clothing,3,132.52,25.3,372.26,Cash,Online
+TXN-00496,2025-06-22,f749b011-4c47-4bc4-adfa-a0ac10a44475,57,Female,Al Barsha,ELE-340,Tablet,Electronics,4,230.37,46.3,875.18,Card,In-Store
+TXN-00497,2025-07-16,5d97dd47-c1ba-4e37-8d43-6ca33927ebf1,45,Female,Dubai Marina,BEA-668,Shampoo,Beauty,5,251.95,28.81,1230.94,Cash,Online
+TXN-00498,2025-03-06,be5701ad-2b18-45a6-8c3f-06503092f5a7,35,Female,Al Barsha,CLO-686,Jacket,Clothing,1,453.5,32.54,420.96,Cash,Online
+TXN-00499,2025-03-13,61271b1e-a859-4c2c-ad69-433412c8965d,40,Male,Jumeirah,CLO-466,Jacket,Clothing,4,374.15,26.94,1469.66,Card,In-Store
+TXN-00500,2025-04-04,a371657c-0ccc-4390-9d80-2c698d6cdf33,46,Female,Jumeirah,HOM-638,Curtains,Home Decor,2,11.1,38.67,-16.47,Wallet,Online
+TXN-00501,2025-05-30,4cb12583-2564-4441-a5a6-e7fe435fbd1d,18,Female,Jumeirah,ELE-842,Smartphone,Electronics,1,387.11,33.87,353.24,Cash,In-Store
+TXN-00502,2025-04-30,a63314aa-2ac5-4b18-8873-8ffd612fed5e,30,Male,Al Barsha,GRO-441,Milk,Groceries,1,138.87,15.3,123.57,Cash,In-Store
+TXN-00503,2025-06-16,a0b2f961-dc3f-4ea7-81db-2d71aabadd4a,54,Male,Dubai Marina,ELE-586,Headphones,Electronics,3,298.9,37.96,858.74,Card,Online
+TXN-00504,2025-07-20,ee7d42f3-c97d-406e-8c81-2bb5b4c0c48c,32,Female,Dubai Marina,CLO-221,Jacket,Clothing,2,449.74,45.94,853.54,Card,Online
+TXN-00505,2025-04-28,ace6a3ec-ed4d-436d-922f-6ebac976d234,63,Female,Deira,CLO-293,T-Shirt,Clothing,4,119.96,28.56,451.28,Wallet,In-Store
+TXN-00506,2025-05-06,fc42eb11-5004-49bc-9fd4-0044ba2a8aef,47,Male,Dubai Marina,GRO-903,Bread,Groceries,3,240.89,25.92,696.75,Cash,In-Store
+TXN-00507,2025-02-25,25229b7d-1642-474c-a5a0-6bca5066b40d,65,Male,Bur Dubai,GRO-547,Bread,Groceries,4,381.27,28.56,1496.52,Card,In-Store
+TXN-00508,2025-04-16,0ae0c528-66a3-40f2-aad4-426c9aacb18e,47,Male,Dubai Marina,ELE-287,Charger,Electronics,3,325.75,38.83,938.42,Cash,Online
+TXN-00509,2025-03-08,a47a6c5c-7939-4bb8-876e-f903f05e5287,29,Female,Al Barsha,GRO-384,Fruits,Groceries,2,191.7,31.66,351.74,Wallet,Online
+TXN-00510,2025-04-29,bf3b2832-ef89-444b-9696-eb3b2e30d4c4,24,Female,Bur Dubai,CLO-168,Shoes,Clothing,2,250.83,48.92,452.74,Wallet,Online
+TXN-00511,2025-06-09,e2b6472c-4ff1-474f-8f90-8c4cb6227d33,54,Male,Bur Dubai,CLO-642,Jeans,Clothing,1,88.8,26.47,62.33,Wallet,In-Store
+TXN-00512,2025-02-21,d3b60ea6-a1bd-4ad4-a565-43b86389b841,31,Male,Bur Dubai,HOM-846,Wall Art,Home Decor,2,359.82,36.99,682.65,Wallet,Online
+TXN-00513,2025-05-24,38e2e17e-6430-4e00-8b5f-1be5db8cbc24,19,Male,Deira,GRO-154,Fruits,Groceries,1,302.7,39.77,262.93,Cash,In-Store
+TXN-00514,2025-03-30,287f7efc-7799-4f8c-83e2-b427360bbde8,48,Male,Jumeirah,GRO-468,Rice,Groceries,5,352.8,44.95,1719.05,Cash,In-Store
+TXN-00515,2025-02-16,8c90064f-1e18-4db1-b0f6-1404888adc14,56,Male,Dubai Marina,GRO-184,Rice,Groceries,5,241.82,26.9,1182.2,Cash,Online
+TXN-00516,2025-06-01,ef0287cd-184b-4236-b384-a4b376016b38,60,Male,Dubai Marina,GRO-575,Fruits,Groceries,5,36.02,26.93,153.17,Card,Online
+TXN-00517,2025-06-20,09f3b517-29f6-4ae4-a630-f6c5b222a5a5,54,Female,Deira,BEA-230,Foundation,Beauty,2,331.67,30.37,632.97,Cash,In-Store
+TXN-00518,2025-03-27,364da3fa-70a6-48f3-b1dc-70601f921a25,58,Female,Dubai Marina,CLO-369,Shoes,Clothing,4,186.56,7.74,738.5,Cash,In-Store
+TXN-00519,2025-05-21,310837d2-e51b-4c1a-82a9-24bf9a8e2b9f,22,Female,Jumeirah,CLO-472,T-Shirt,Clothing,1,188.46,31.2,157.26,Wallet,Online
+TXN-00520,2025-03-17,fe3c067f-7b36-4e9c-9784-f36fd4438e0e,24,Male,Al Barsha,CLO-380,T-Shirt,Clothing,4,151.54,28.73,577.43,Cash,In-Store
+TXN-00521,2025-07-18,df73c813-8421-4289-969c-6eae4d69e5f2,19,Female,Jumeirah,HOM-870,Wall Art,Home Decor,2,89.54,46.85,132.23,Card,In-Store
+TXN-00522,2025-07-15,52442205-9d15-458a-a1ed-f367aae92c93,52,Male,Al Barsha,CLO-575,Jacket,Clothing,5,321.42,27.72,1579.38,Card,In-Store
+TXN-00523,2025-05-20,4878f69e-75e0-4203-bf67-a1396cbc18e7,22,Male,Dubai Marina,CLO-412,Shoes,Clothing,2,227.19,0.12,454.26,Cash,Online
+TXN-00524,2025-01-26,42e6ac9c-cd24-4828-8310-23c65cad2795,37,Male,Bur Dubai,HOM-700,Curtains,Home Decor,1,155.97,47.94,108.03,Cash,Online
+TXN-00525,2025-02-24,569cdafd-4b30-4c3d-8957-4b08c6afb422,24,Male,Bur Dubai,CLO-355,Dress,Clothing,5,168.64,33.23,809.97,Wallet,In-Store
+TXN-00526,2025-01-27,d7febb79-4aae-4b9d-b00c-9549056a9be3,26,Male,Bur Dubai,CLO-448,T-Shirt,Clothing,3,178.78,27.26,509.08,Wallet,In-Store
+TXN-00527,2025-01-25,6bd7ab8e-0dab-4c66-a0b2-ddbcd1cb51a6,22,Female,Deira,HOM-792,Wall Art,Home Decor,3,489.38,35.14,1433.0,Card,In-Store
+TXN-00528,2025-02-11,e79b8638-c29f-47cd-ac43-078c15fd6de3,19,Male,Bur Dubai,CLO-152,Jacket,Clothing,1,319.82,5.59,314.23,Card,In-Store
+TXN-00529,2025-02-06,48742453-edfd-4ff1-9e53-8c1b4682c15b,25,Female,Bur Dubai,HOM-165,Lamp,Home Decor,2,76.64,15.43,137.85,Wallet,Online
+TXN-00530,2025-03-28,af48b08b-ebb4-4971-8b3f-788c0911e42e,31,Female,Deira,ELE-775,Laptop,Electronics,3,343.32,39.02,990.94,Wallet,In-Store
+TXN-00531,2025-05-11,4665a8d9-f0f2-44c9-ba33-554e08332030,47,Female,Dubai Marina,BEA-936,Shampoo,Beauty,3,436.56,5.67,1304.01,Card,Online
+TXN-00532,2025-03-23,4daa342b-e998-479b-95c9-126c63719d90,42,Female,Jumeirah,ELE-122,Laptop,Electronics,2,444.07,10.29,877.85,Cash,Online
+TXN-00533,2025-02-06,4dbf5d57-0d08-4163-9d2e-9d1ee65601f5,31,Male,Jumeirah,CLO-737,Jeans,Clothing,2,22.45,44.12,0.78,Wallet,In-Store
+TXN-00534,2025-05-15,fa7f064d-cd0e-4979-9566-df4b75642e06,20,Male,Bur Dubai,BEA-927,Shampoo,Beauty,4,423.86,23.21,1672.23,Wallet,In-Store
+TXN-00535,2025-02-28,a06e4d42-017b-4410-9c0d-de0ab35b5dd5,22,Female,Jumeirah,BEA-671,Lipstick,Beauty,1,171.29,0.83,170.46,Cash,Online
+TXN-00536,2025-03-06,127e708c-b101-458e-95a8-f553998bbd40,29,Female,Al Barsha,HOM-312,Curtains,Home Decor,1,227.45,48.83,178.62,Card,In-Store
+TXN-00537,2025-05-08,3604b500-ea9d-4b8a-a7e3-6c4112c35b2f,51,Female,Jumeirah,ELE-750,Headphones,Electronics,5,269.35,16.19,1330.56,Card,Online
+TXN-00538,2025-04-07,215c41bf-e5de-47ae-89ff-297676b690c8,50,Male,Dubai Marina,HOM-185,Lamp,Home Decor,2,307.03,43.41,570.65,Card,Online
+TXN-00539,2025-03-08,be7b614a-08d1-4a72-840b-f385f55679ed,20,Male,Jumeirah,HOM-192,Lamp,Home Decor,5,27.0,2.16,132.84,Wallet,Online
+TXN-00540,2025-04-11,b3d21cfe-47a8-4492-8469-da71c16dfcda,31,Male,Dubai Marina,BEA-121,Lipstick,Beauty,1,426.51,40.8,385.71,Wallet,Online
+TXN-00541,2025-06-01,fe82b4cb-3f95-4219-93a3-c84295c27ba4,21,Male,Deira,GRO-296,Rice,Groceries,4,237.61,6.03,944.41,Cash,In-Store
+TXN-00542,2025-06-14,fb6da2b5-dd5d-4b31-958e-b38f0db2f2a4,58,Male,Dubai Marina,ELE-950,Charger,Electronics,5,40.64,46.25,156.95,Card,In-Store
+TXN-00543,2025-01-23,ab514089-7ea8-48c2-b8dc-8c62c0433f2e,59,Female,Deira,CLO-961,T-Shirt,Clothing,4,431.97,37.06,1690.82,Wallet,In-Store
+TXN-00544,2025-03-28,cc3a7913-648e-4902-95c9-3f2a1650b4dd,20,Male,Al Barsha,GRO-841,Eggs,Groceries,4,27.49,32.47,77.49,Card,In-Store
+TXN-00545,2025-02-14,76d3027f-63ae-4159-9318-b69fc5d09786,56,Female,Al Barsha,HOM-923,Curtains,Home Decor,5,264.23,24.53,1296.62,Cash,Online
+TXN-00546,2025-07-02,91cde9c6-b226-433a-a1de-71ee8558550f,55,Female,Dubai Marina,CLO-999,Jacket,Clothing,4,164.97,29.87,630.01,Card,In-Store
+TXN-00547,2025-07-04,95e057cb-59ef-41e2-93c8-5c537b5cec0a,39,Female,Bur Dubai,GRO-423,Milk,Groceries,4,477.59,30.68,1879.68,Cash,Online
+TXN-00548,2025-06-14,16eb0da6-a24e-42eb-ab2b-04215045406f,40,Male,Al Barsha,HOM-849,Wall Art,Home Decor,1,231.24,36.19,195.05,Wallet,Online
+TXN-00549,2025-01-27,6325f5f3-94f7-4077-8a4d-0249e205b9de,27,Female,Bur Dubai,CLO-873,Dress,Clothing,2,293.0,25.72,560.28,Wallet,In-Store
+TXN-00550,2025-03-05,d7cc70ac-f2fe-46ff-bdfe-fb2cee86f64d,22,Female,Dubai Marina,GRO-842,Milk,Groceries,4,164.35,5.03,652.37,Cash,In-Store
+TXN-00551,2025-07-01,39aa21c7-4d30-4776-81cc-6a8340c49f56,52,Male,Deira,HOM-812,Curtains,Home Decor,3,453.29,32.21,1327.66,Wallet,Online
+TXN-00552,2025-06-25,a5d284bb-6e6e-4417-b65e-4f984aee4293,40,Male,Dubai Marina,CLO-692,Jeans,Clothing,5,329.65,15.52,1632.73,Wallet,Online
+TXN-00553,2025-07-20,14e2b60a-2a3b-419f-bd29-2e910b94a9b8,44,Male,Jumeirah,CLO-419,Jeans,Clothing,3,254.44,18.22,745.1,Cash,In-Store
+TXN-00554,2025-01-22,0fc7c60c-6026-496b-9b74-c94fcecf98c1,45,Male,Deira,CLO-288,Shoes,Clothing,3,228.12,33.29,651.07,Wallet,Online
+TXN-00555,2025-05-02,031db695-e891-40eb-9e47-7bea60036bf3,41,Male,Dubai Marina,GRO-453,Eggs,Groceries,2,93.85,24.45,163.25,Card,Online
+TXN-00556,2025-04-16,43ab0888-e22b-4008-8e37-1938911c2742,30,Female,Dubai Marina,CLO-113,T-Shirt,Clothing,1,167.0,31.04,135.96,Cash,Online
+TXN-00557,2025-04-03,410cb843-41cd-41fb-8cca-0f15a734373c,48,Female,Jumeirah,GRO-362,Milk,Groceries,3,274.49,13.39,810.08,Card,Online
+TXN-00558,2025-06-25,8a2f7d49-58e7-47c1-aa88-902817a8997e,59,Male,Bur Dubai,BEA-461,Shampoo,Beauty,1,382.74,27.7,355.04,Cash,In-Store
+TXN-00559,2025-02-22,bd73cf29-ca91-48c1-ac22-3f4a81fc4273,62,Female,Jumeirah,CLO-408,Jacket,Clothing,5,371.59,2.27,1855.68,Wallet,Online
+TXN-00560,2025-01-28,d3f056c8-22cb-4523-8682-9760a4dcdf9a,22,Male,Dubai Marina,HOM-861,Lamp,Home Decor,3,424.91,33.9,1240.83,Cash,Online
+TXN-00561,2025-03-19,1795d973-27f5-4e9d-98e8-ee4256faba92,21,Female,Dubai Marina,GRO-543,Fruits,Groceries,2,44.54,14.82,74.26,Card,In-Store
+TXN-00562,2025-02-19,b01c6a90-0e7e-4104-9724-acc3f122be1d,58,Female,Jumeirah,HOM-844,Cushion,Home Decor,4,113.55,15.7,438.5,Wallet,Online
+TXN-00563,2025-05-30,6cc2022f-1ed2-4985-be22-c250d7685da2,39,Male,Bur Dubai,ELE-840,Laptop,Electronics,2,493.19,4.68,981.7,Card,Online
+TXN-00564,2025-02-08,8b9367dc-3336-410a-946d-28a4d1df5862,60,Female,Jumeirah,CLO-330,T-Shirt,Clothing,5,250.27,45.27,1206.08,Card,Online
+TXN-00565,2025-05-16,1fa73731-6c4d-4089-98ad-49d6ec494c44,34,Male,Jumeirah,GRO-387,Eggs,Groceries,4,40.8,31.44,131.76,Card,Online
+TXN-00566,2025-07-04,c7ab3c62-d4c1-407c-abe9-8f500e571829,44,Female,Deira,BEA-332,Perfume,Beauty,4,479.02,3.95,1912.13,Cash,Online
+TXN-00567,2025-01-29,dc7aa35a-330f-4fb9-b3a5-a16b198debdf,44,Male,Deira,HOM-403,Wall Art,Home Decor,4,301.61,43.03,1163.41,Wallet,In-Store
+TXN-00568,2025-06-15,da9b9980-b292-49a6-bdb3-e9f2e1c5dc6f,42,Female,Deira,BEA-327,Perfume,Beauty,4,393.61,18.59,1555.85,Wallet,In-Store
+TXN-00569,2025-01-24,a6a445ce-41f5-446b-aba9-61061975b1ee,28,Female,Bur Dubai,HOM-453,Lamp,Home Decor,3,316.24,18.58,930.14,Card,Online
+TXN-00570,2025-02-06,a2cffbab-0ad1-4388-a44b-19a4b2cbeb2f,59,Female,Deira,CLO-130,Shoes,Clothing,1,424.57,8.75,415.82,Wallet,Online
+TXN-00571,2025-04-17,942cc147-80da-4f04-b6fe-8a44adbde96b,33,Male,Jumeirah,GRO-880,Bread,Groceries,1,284.02,28.2,255.82,Card,Online
+TXN-00572,2025-06-12,37d98854-cb58-4840-8c51-a8368da43cf2,58,Male,Dubai Marina,ELE-627,Tablet,Electronics,1,218.35,4.67,213.68,Wallet,In-Store
+TXN-00573,2025-05-29,5bf8ad8e-279b-4fcf-b094-f869ab4d41df,61,Male,Deira,GRO-706,Bread,Groceries,5,309.2,4.98,1541.02,Cash,In-Store
+TXN-00574,2025-02-13,8d7eee47-5c25-4937-8445-bef6a6a25167,26,Male,Deira,ELE-833,Smartphone,Electronics,4,493.19,10.53,1962.23,Card,In-Store
+TXN-00575,2025-05-14,df2742be-9214-4c4b-99c1-e198a6de836b,30,Male,Al Barsha,HOM-897,Rug,Home Decor,2,34.28,26.59,41.97,Wallet,Online
+TXN-00576,2025-06-01,16a7f343-3752-4cbc-8f92-65ab57b89298,24,Male,Jumeirah,HOM-405,Cushion,Home Decor,2,93.59,22.19,164.99,Wallet,Online
+TXN-00577,2025-05-27,52d43f2d-11bf-43bb-a2e3-26e7a2df5fc5,59,Female,Deira,ELE-459,Headphones,Electronics,4,262.48,7.38,1042.54,Card,Online
+TXN-00578,2025-04-13,94ae430e-f582-4699-9061-5c50d4d70f6f,29,Female,Bur Dubai,GRO-192,Milk,Groceries,1,152.98,41.3,111.68,Cash,Online
+TXN-00579,2025-07-04,c106327d-3ff1-4328-8351-65b69c4cf603,28,Female,Al Barsha,HOM-595,Curtains,Home Decor,1,457.3,10.86,446.44,Cash,In-Store
+TXN-00580,2025-01-22,67682136-f232-442a-ae00-073630029aec,42,Male,Bur Dubai,ELE-925,Laptop,Electronics,4,151.52,11.7,594.38,Cash,Online
+TXN-00581,2025-03-18,98e8efc4-3f00-43b7-94fd-7d5d22c377d0,41,Male,Deira,HOM-613,Curtains,Home Decor,4,205.98,15.89,808.03,Wallet,Online
+TXN-00582,2025-05-25,0e699d3b-26e1-4656-8b2f-8a2eba50ea92,39,Female,Dubai Marina,CLO-742,Dress,Clothing,2,448.33,42.65,854.01,Card,Online
+TXN-00583,2025-02-02,3667da43-1593-4e6c-b59a-6f8602b035db,35,Male,Dubai Marina,CLO-470,Shoes,Clothing,1,468.27,2.71,465.56,Wallet,Online
+TXN-00584,2025-06-05,913bfbd2-97c9-4dea-9fcf-1040dc66d957,42,Female,Jumeirah,HOM-844,Wall Art,Home Decor,2,430.48,0.21,860.75,Card,Online
+TXN-00585,2025-03-16,8c104d8f-c4a8-46ae-b094-14bf5bf99901,50,Male,Deira,BEA-966,Nail Polish,Beauty,3,276.9,45.84,784.86,Wallet,In-Store
+TXN-00586,2025-04-24,379b8bdf-a477-4110-9ef8-afff9f08bc89,59,Male,Bur Dubai,BEA-121,Foundation,Beauty,4,252.21,24.75,984.09,Cash,In-Store
+TXN-00587,2025-05-07,5336e4ec-6862-454b-9bfb-893b34de8236,65,Female,Dubai Marina,CLO-830,Jacket,Clothing,3,302.42,11.55,895.71,Wallet,In-Store
+TXN-00588,2025-03-10,f4c4ce01-c4b2-4c59-87a5-b35fef583ecd,60,Male,Bur Dubai,ELE-218,Laptop,Electronics,2,260.93,32.03,489.83,Card,Online
+TXN-00589,2025-03-08,792f38b8-f2c3-4a9c-b1d2-4b86bea9c093,61,Male,Jumeirah,HOM-296,Lamp,Home Decor,5,455.92,38.28,2241.32,Cash,In-Store
+TXN-00590,2025-07-13,c4d88008-45ce-4a07-9a85-2faa81688945,38,Male,Dubai Marina,ELE-786,Headphones,Electronics,4,59.22,1.51,235.37,Card,In-Store
+TXN-00591,2025-02-17,81ccd042-2b54-4032-9fbf-15f5c21f56f3,63,Male,Al Barsha,ELE-312,Charger,Electronics,3,431.61,41.02,1253.81,Wallet,Online
+TXN-00592,2025-02-09,2b5f47ff-a9be-461c-9a7b-98d547e8e034,36,Female,Deira,HOM-968,Rug,Home Decor,3,223.93,49.2,622.59,Card,In-Store
+TXN-00593,2025-02-22,ef9a1532-8a40-4480-aaf2-62674d829d8a,35,Male,Al Barsha,CLO-742,T-Shirt,Clothing,3,345.28,5.62,1030.22,Card,In-Store
+TXN-00594,2025-04-09,fa0a3453-1006-42bc-baff-e66924813715,57,Male,Al Barsha,HOM-447,Cushion,Home Decor,1,42.3,10.97,31.33,Card,Online
+TXN-00595,2025-05-16,99c0b6cb-6f10-4685-b4c3-d9f8f83e755d,23,Female,Al Barsha,BEA-609,Shampoo,Beauty,4,97.98,0.17,391.75,Wallet,Online
+TXN-00596,2025-06-27,d37629ca-a39f-455d-8c91-f0ca8a0316e4,36,Male,Jumeirah,BEA-888,Lipstick,Beauty,3,37.8,23.36,90.04,Wallet,Online
+TXN-00597,2025-02-26,37cd2350-c4a8-4588-abc4-e556af702fc8,51,Female,Al Barsha,HOM-950,Rug,Home Decor,3,31.12,9.31,84.05,Wallet,Online
+TXN-00598,2025-07-11,d15cf0bd-3452-4e0e-9e4c-67df3f58700e,61,Female,Al Barsha,GRO-609,Eggs,Groceries,3,196.07,39.77,548.44,Wallet,In-Store
+TXN-00599,2025-03-22,dbfab89b-cff9-4310-aa42-c9cdef3fddd6,49,Female,Deira,BEA-262,Foundation,Beauty,4,483.22,20.73,1912.15,Wallet,In-Store
+TXN-00600,2025-04-23,65c93722-69e6-4ea5-bf0e-287207c04094,36,Female,Bur Dubai,BEA-398,Shampoo,Beauty,2,80.44,28.94,131.94,Wallet,In-Store
+TXN-00601,2025-02-27,678a7e9b-e64e-47f4-8f09-1d2e53c81efb,61,Male,Jumeirah,GRO-481,Fruits,Groceries,3,220.7,40.42,621.68,Wallet,Online
+TXN-00602,2025-03-29,391ad3d6-b337-4b78-a203-d0959d7e7a5c,64,Female,Dubai Marina,ELE-271,Headphones,Electronics,2,146.99,20.88,273.1,Wallet,In-Store
+TXN-00603,2025-04-19,03c2a171-7297-4f6b-9ff2-087b1f84ef00,64,Male,Dubai Marina,BEA-201,Lipstick,Beauty,1,160.81,10.76,150.05,Cash,Online
+TXN-00604,2025-02-27,76027d8e-ca18-4c2d-9216-616b191692fe,23,Male,Dubai Marina,CLO-150,Jacket,Clothing,1,422.94,37.19,385.75,Cash,Online
+TXN-00605,2025-06-07,92b8d6b5-cf06-444e-8304-b5f1136fde70,65,Female,Al Barsha,HOM-518,Cushion,Home Decor,4,301.32,41.7,1163.58,Wallet,Online
+TXN-00606,2025-07-14,96b07e34-2ac0-44a6-9786-15049e60b664,18,Male,Deira,ELE-848,Tablet,Electronics,4,491.6,19.4,1947.0,Cash,Online
+TXN-00607,2025-05-03,07777a7b-47af-4022-a9ef-96b357071c52,57,Male,Al Barsha,CLO-633,Dress,Clothing,5,474.78,5.22,2368.68,Cash,Online
+TXN-00608,2025-07-14,c375cb41-2a72-467a-9ff9-b96517688a49,43,Female,Dubai Marina,GRO-184,Bread,Groceries,4,447.11,47.75,1740.69,Wallet,Online
+TXN-00609,2025-06-01,4df7963f-37f7-4024-b67c-f7a1da413d39,27,Female,Deira,GRO-411,Bread,Groceries,1,47.1,7.42,39.68,Cash,Online
+TXN-00610,2025-01-24,d37c98fc-6f8d-4bfa-a033-d342aca297ef,43,Female,Jumeirah,CLO-547,Jeans,Clothing,3,61.87,22.2,163.41,Wallet,Online
+TXN-00611,2025-04-16,fddf94d1-e775-4037-8013-211ffef75cc8,55,Male,Deira,ELE-548,Laptop,Electronics,3,82.77,29.55,218.76,Card,In-Store
+TXN-00612,2025-04-08,6313fc8e-8e95-42be-82c5-02d4452bc360,58,Female,Jumeirah,GRO-797,Milk,Groceries,3,85.81,12.31,245.12,Cash,Online
+TXN-00613,2025-03-23,1f57f07d-e339-4b96-b6ae-16464955a064,26,Male,Deira,CLO-631,Jacket,Clothing,2,374.92,21.82,728.02,Cash,Online
+TXN-00614,2025-06-24,7989391a-6d32-47f8-bbfb-7a858d02dfce,23,Male,Jumeirah,GRO-148,Fruits,Groceries,1,178.62,6.06,172.56,Cash,In-Store
+TXN-00615,2025-07-08,9f76fca7-e036-480a-966d-a08b8c28123f,64,Male,Deira,GRO-628,Bread,Groceries,4,426.48,45.45,1660.47,Cash,Online
+TXN-00616,2025-05-27,eef2df21-171d-4366-90b7-8e49d8cb8765,41,Female,Deira,GRO-638,Eggs,Groceries,1,68.98,42.28,26.7,Card,In-Store
+TXN-00617,2025-05-18,3854ba30-9348-4197-b619-88ce7e1ffa0e,40,Male,Jumeirah,HOM-616,Rug,Home Decor,4,423.6,27.24,1667.16,Card,In-Store
+TXN-00618,2025-05-28,90208a39-ea72-470e-80d0-5aeec8b0cafe,29,Male,Dubai Marina,GRO-458,Rice,Groceries,5,488.73,46.48,2397.17,Card,In-Store
+TXN-00619,2025-06-28,39d066c1-4cc3-4b2f-b6f1-4b71a316b42a,64,Male,Deira,ELE-788,Tablet,Electronics,4,177.47,47.44,662.44,Cash,Online
+TXN-00620,2025-03-31,d7d80f56-94ba-4538-b38a-d066b3896507,42,Female,Al Barsha,CLO-256,Jeans,Clothing,1,12.38,21.08,-8.7,Wallet,Online
+TXN-00621,2025-07-12,889cbbc2-f5f7-4709-8d83-cfd607e5a4a9,48,Female,Deira,GRO-163,Eggs,Groceries,2,294.15,12.71,575.59,Wallet,In-Store
+TXN-00622,2025-07-10,b705277b-7478-401e-9e0c-ac6b1e65f515,19,Female,Dubai Marina,GRO-859,Milk,Groceries,4,198.16,44.7,747.94,Wallet,Online
+TXN-00623,2025-03-08,08ab7f96-4e1b-4da7-98bb-33a2555b4938,34,Male,Deira,BEA-728,Perfume,Beauty,2,306.65,15.41,597.89,Card,In-Store
+TXN-00624,2025-05-14,fa37ae26-8a7d-4cc7-83c2-ca50a4a68b15,21,Male,Deira,BEA-758,Lipstick,Beauty,5,124.29,27.33,594.12,Card,In-Store
+TXN-00625,2025-06-08,a325127f-e3d7-4d8e-a7bb-83e805afdd04,19,Male,Jumeirah,GRO-687,Eggs,Groceries,1,213.34,22.12,191.22,Wallet,Online
+TXN-00626,2025-06-01,bdf6335b-0d87-4630-a88d-7a80335c5ebf,51,Female,Jumeirah,ELE-143,Smartphone,Electronics,5,113.47,29.6,537.75,Card,Online
+TXN-00627,2025-05-28,8ad47bea-5a44-4d86-895b-30e024d7d593,23,Female,Bur Dubai,CLO-170,Dress,Clothing,5,126.6,26.62,606.38,Card,In-Store
+TXN-00628,2025-05-26,d7f57acd-2e9b-4d56-a662-930fae03e038,22,Male,Jumeirah,HOM-465,Curtains,Home Decor,5,349.04,27.03,1718.17,Cash,In-Store
+TXN-00629,2025-04-25,ea2e8e7c-e9b2-4fb0-a46b-7fd5839ebd85,58,Male,Jumeirah,CLO-636,Jeans,Clothing,5,66.23,28.64,302.51,Card,Online
+TXN-00630,2025-06-26,0bf228cf-6a13-4c13-b608-09769bd66d92,36,Male,Jumeirah,BEA-716,Foundation,Beauty,1,466.0,8.02,457.98,Card,Online
+TXN-00631,2025-02-22,743081db-970b-4a07-a5e8-a45f595cad30,30,Female,Bur Dubai,ELE-286,Charger,Electronics,2,46.73,4.81,88.65,Card,Online
+TXN-00632,2025-04-22,d1446318-ca0c-4fe2-b15d-3eb7aac863b2,56,Male,Al Barsha,ELE-664,Laptop,Electronics,2,330.62,28.02,633.22,Card,In-Store
+TXN-00633,2025-07-10,6a7bc219-73eb-4352-8b21-e2b138ede1cd,62,Female,Jumeirah,HOM-456,Wall Art,Home Decor,2,238.13,19.24,457.02,Wallet,In-Store
+TXN-00634,2025-06-23,18518a2e-33f8-4102-8c08-7b24a24ce337,42,Female,Bur Dubai,ELE-158,Smartphone,Electronics,1,20.65,49.6,-28.95,Wallet,In-Store
+TXN-00635,2025-06-11,eed9a76d-097c-4cb6-9e0d-93b828ec7bb5,29,Male,Bur Dubai,BEA-899,Foundation,Beauty,2,305.73,10.38,601.08,Card,Online
+TXN-00636,2025-01-30,d90d1b86-384e-4801-a275-68fc84dedb34,18,Male,Jumeirah,BEA-239,Lipstick,Beauty,1,190.42,26.67,163.75,Wallet,In-Store
+TXN-00637,2025-04-04,9f9082f5-d207-4e51-953a-088802d83c1b,22,Male,Dubai Marina,BEA-953,Perfume,Beauty,3,129.67,26.81,362.2,Card,Online
+TXN-00638,2025-02-23,cb28027c-b415-4ced-8e3b-7d457d808aae,57,Female,Bur Dubai,CLO-627,Jeans,Clothing,2,315.54,17.11,613.97,Wallet,Online
+TXN-00639,2025-07-20,b005f852-6934-43b6-80dc-86ba6bb2a939,41,Male,Al Barsha,BEA-396,Nail Polish,Beauty,4,79.35,34.85,282.55,Card,In-Store
+TXN-00640,2025-04-12,3460f2ff-1e11-49b0-9c2b-5287950c71f5,44,Male,Deira,HOM-163,Rug,Home Decor,1,278.32,14.85,263.47,Cash,In-Store
+TXN-00641,2025-05-02,87b0a93e-571c-4240-8291-58ee6a35f06b,54,Female,Al Barsha,BEA-567,Shampoo,Beauty,4,85.95,8.75,335.05,Cash,In-Store
+TXN-00642,2025-06-29,f3d84e56-13fe-47fd-a31a-35acfae44eb0,24,Male,Bur Dubai,ELE-419,Tablet,Electronics,1,359.82,0.92,358.9,Card,In-Store
+TXN-00643,2025-01-22,f78cc7b1-cd6e-472b-bb7a-8d3cc8e4db54,63,Female,Dubai Marina,ELE-234,Headphones,Electronics,5,19.22,42.47,53.63,Card,In-Store
+TXN-00644,2025-02-28,3d6e71a9-5aae-4c7a-9693-0b6dce4a794f,47,Male,Deira,CLO-818,Dress,Clothing,1,143.9,8.61,135.29,Wallet,In-Store
+TXN-00645,2025-05-15,c65bdc35-3f67-43c5-8df1-59eaabe595ef,49,Male,Al Barsha,HOM-181,Lamp,Home Decor,2,452.57,44.52,860.62,Card,Online
+TXN-00646,2025-02-27,5b95e855-ca1a-4dd0-987a-fa39af00db18,27,Female,Bur Dubai,ELE-118,Charger,Electronics,3,324.22,20.72,951.94,Cash,In-Store
+TXN-00647,2025-03-03,19121818-f589-4dd1-b460-48b63cbbc2cb,30,Female,Bur Dubai,CLO-757,Jacket,Clothing,1,359.12,43.94,315.18,Cash,Online
+TXN-00648,2025-04-26,d826f3d1-cfc3-4400-a724-4ea04e25ae8a,54,Male,Jumeirah,CLO-970,T-Shirt,Clothing,2,334.51,34.13,634.89,Wallet,In-Store
+TXN-00649,2025-05-03,6780ae96-4d2d-4717-afe3-a43f142511fb,65,Female,Deira,GRO-198,Rice,Groceries,5,407.31,41.87,1994.68,Card,Online
+TXN-00650,2025-03-27,e756c8a8-ca59-4b42-814c-ec5ddf44450b,23,Female,Al Barsha,BEA-751,Nail Polish,Beauty,2,350.17,13.69,686.65,Wallet,Online
+TXN-00651,2025-03-15,c42ac99f-4b2f-4266-aec1-fba17ac04a52,58,Male,Bur Dubai,CLO-395,Jacket,Clothing,2,276.75,30.68,522.82,Wallet,Online
+TXN-00652,2025-05-21,2c64617a-27e0-4199-a04d-5ddd8172e829,57,Male,Al Barsha,CLO-305,T-Shirt,Clothing,5,221.83,13.16,1095.99,Card,Online
+TXN-00653,2025-04-12,fb8bb752-6c35-4916-b72f-accc8c09762c,34,Female,Bur Dubai,GRO-655,Fruits,Groceries,4,202.69,8.83,801.93,Wallet,In-Store
+TXN-00654,2025-05-25,922df94f-3001-4078-8504-31f9bbe068d8,54,Male,Deira,HOM-341,Curtains,Home Decor,1,372.62,37.91,334.71,Card,Online
+TXN-00655,2025-06-30,d5d4e4ce-3338-4e1a-8eb3-a0f35235992c,63,Male,Jumeirah,CLO-646,Jacket,Clothing,3,196.33,11.35,577.64,Cash,Online
+TXN-00656,2025-03-12,eaca7dbb-45f4-46c2-af55-fa5567b22cc7,65,Female,Deira,BEA-482,Lipstick,Beauty,1,37.55,37.54,0.01,Cash,Online
+TXN-00657,2025-07-08,caa956c4-70e5-44a7-84d0-b9a6cc224d02,25,Male,Bur Dubai,GRO-591,Milk,Groceries,3,225.59,30.67,646.1,Cash,In-Store
+TXN-00658,2025-04-09,fbbf590d-3a9c-4fe1-b615-ca1943c3c35c,59,Male,Bur Dubai,ELE-254,Tablet,Electronics,1,178.41,36.14,142.27,Cash,In-Store
+TXN-00659,2025-04-02,5ab1cd70-c54a-434d-a65d-cc36ae4b3fb1,23,Female,Al Barsha,CLO-459,Shoes,Clothing,1,135.79,36.89,98.9,Wallet,In-Store
+TXN-00660,2025-04-27,9f748d15-3ebe-404a-9ae4-756babf345e3,33,Female,Jumeirah,ELE-478,Tablet,Electronics,2,402.27,25.16,779.38,Card,Online
+TXN-00661,2025-06-25,4ef2e528-9193-43d5-9aef-f097455fb4c1,60,Female,Jumeirah,GRO-580,Eggs,Groceries,1,386.69,30.81,355.88,Cash,In-Store
+TXN-00662,2025-03-12,1b445078-f74f-4455-bf9c-9a21dc1e8c13,55,Male,Al Barsha,GRO-889,Rice,Groceries,5,472.39,42.34,2319.61,Cash,In-Store
+TXN-00663,2025-07-07,733ab911-cce0-43b5-92bb-d100367c8145,33,Male,Jumeirah,CLO-197,Jacket,Clothing,1,435.6,37.39,398.21,Card,In-Store
+TXN-00664,2025-03-27,0b8f82d0-cf15-408e-8fd0-753e9b208f26,28,Female,Al Barsha,GRO-352,Milk,Groceries,1,68.77,44.91,23.86,Cash,In-Store
+TXN-00665,2025-07-04,006116f9-a735-44de-9473-da352c440a38,43,Male,Deira,CLO-196,T-Shirt,Clothing,3,90.77,44.44,227.87,Cash,Online
+TXN-00666,2025-04-08,36872dd7-9ee0-45e9-b4a4-f337dd6d31f2,49,Male,Jumeirah,HOM-222,Rug,Home Decor,3,11.95,40.71,-4.86,Card,In-Store
+TXN-00667,2025-06-02,22dbba8f-c9e7-49ef-8c68-16fe8d13427e,45,Male,Deira,CLO-708,Jacket,Clothing,3,335.86,38.42,969.16,Wallet,In-Store
+TXN-00668,2025-02-21,d8f16e50-3484-48b8-aca7-3af1dc38da80,53,Female,Al Barsha,BEA-552,Lipstick,Beauty,4,419.32,4.75,1672.53,Cash,In-Store
+TXN-00669,2025-04-17,3c5a1103-7b97-4022-8991-326765a8a353,50,Female,Bur Dubai,BEA-175,Perfume,Beauty,3,172.64,8.95,508.97,Cash,In-Store
+TXN-00670,2025-03-25,057cebdc-3201-4f51-afb7-f2c51d4226cc,33,Male,Dubai Marina,GRO-921,Milk,Groceries,4,436.23,4.53,1740.39,Card,In-Store
+TXN-00671,2025-01-30,a41667df-d16f-43fc-9672-6abbdd4f85eb,52,Male,Dubai Marina,GRO-667,Eggs,Groceries,1,248.06,27.38,220.68,Wallet,In-Store
+TXN-00672,2025-07-16,2586ecd3-fbac-45da-9a83-2187bf257261,49,Male,Al Barsha,BEA-705,Nail Polish,Beauty,3,51.52,2.09,152.47,Cash,In-Store
+TXN-00673,2025-04-05,a0ee31e2-765b-4490-b9d1-29bb5870b2f0,33,Male,Deira,CLO-775,T-Shirt,Clothing,1,485.35,38.08,447.27,Wallet,In-Store
+TXN-00674,2025-02-03,207168da-0934-4cab-9208-7da4403dda02,32,Female,Deira,BEA-400,Perfume,Beauty,1,497.99,38.72,459.27,Card,In-Store
+TXN-00675,2025-04-07,d21c1e73-f763-4e12-8bbd-7a948137e0f5,41,Male,Deira,CLO-173,Shoes,Clothing,5,26.88,17.28,117.12,Card,Online
+TXN-00676,2025-05-01,71c05c8a-b5f6-4256-9aa5-f4eaaf76979d,39,Male,Deira,GRO-816,Eggs,Groceries,1,76.05,12.17,63.88,Cash,Online
+TXN-00677,2025-03-12,3e2f96c2-9b85-42b9-8b31-b298a4caa062,20,Female,Deira,ELE-655,Tablet,Electronics,2,213.03,27.57,398.49,Cash,In-Store
+TXN-00678,2025-01-24,14099a31-a11e-42d6-9dbf-e8bdf904bb40,59,Male,Jumeirah,GRO-933,Bread,Groceries,3,251.74,6.65,748.57,Cash,Online
+TXN-00679,2025-05-21,197ac737-66f0-41cb-bed9-b7f4e4a63d24,55,Female,Dubai Marina,CLO-644,Jeans,Clothing,5,255.09,24.1,1251.35,Wallet,In-Store
+TXN-00680,2025-05-20,c7f057bd-fe5f-470f-a37e-c2bcf86c0e6d,34,Male,Dubai Marina,CLO-761,Dress,Clothing,3,272.06,34.73,781.45,Card,Online
+TXN-00681,2025-05-27,9b509503-febe-4484-b072-7f8edb3e5018,45,Female,Jumeirah,ELE-553,Charger,Electronics,1,121.85,31.51,90.34,Cash,Online
+TXN-00682,2025-03-17,ecd61344-614a-40db-b0d6-87c7b2f8c2a4,24,Male,Deira,HOM-607,Curtains,Home Decor,1,425.37,32.9,392.47,Wallet,In-Store
+TXN-00683,2025-04-20,65fbd340-b95b-4997-b8d3-e7a020a4c191,54,Female,Bur Dubai,CLO-939,Jacket,Clothing,2,298.74,1.15,596.33,Wallet,Online
+TXN-00684,2025-03-05,2640933a-2776-481a-970a-8dd933e66569,48,Female,Dubai Marina,ELE-169,Headphones,Electronics,2,433.26,12.08,854.44,Card,Online
+TXN-00685,2025-07-12,832c17e8-027e-4fe7-9098-d088f6ec4c1c,30,Female,Dubai Marina,CLO-599,Dress,Clothing,3,281.71,0.37,844.76,Wallet,Online
+TXN-00686,2025-05-18,afd84d35-e683-4ccb-ab33-4aba42e263da,36,Male,Jumeirah,GRO-357,Milk,Groceries,1,335.77,30.91,304.86,Wallet,In-Store
+TXN-00687,2025-01-26,c8399366-a04b-4667-a413-1f0ef6f3122d,34,Male,Jumeirah,CLO-769,Jeans,Clothing,1,251.2,48.45,202.75,Cash,In-Store
+TXN-00688,2025-03-17,6ca10b5c-2e84-47b4-a602-db8fc2f0194b,57,Male,Bur Dubai,GRO-163,Milk,Groceries,4,277.07,18.35,1089.93,Wallet,Online
+TXN-00689,2025-03-25,f370f0e2-a637-4d11-9041-4b5a29de0b9f,44,Male,Deira,GRO-824,Bread,Groceries,4,194.55,35.58,742.62,Card,In-Store
+TXN-00690,2025-05-29,4a242ba8-a871-46cb-882c-06c3db22444e,42,Female,Al Barsha,HOM-423,Cushion,Home Decor,3,300.06,41.95,858.23,Wallet,Online
+TXN-00691,2025-05-06,e59105b4-dc72-49fd-9b1c-b1eb094bfe7e,61,Female,Al Barsha,HOM-958,Wall Art,Home Decor,2,56.75,31.08,82.42,Cash,Online
+TXN-00692,2025-06-01,e27eacda-2d09-4cbc-8060-8bc28e8764f9,19,Female,Al Barsha,CLO-642,Jeans,Clothing,2,185.23,32.51,337.95,Card,In-Store
+TXN-00693,2025-05-06,f713b7ef-354b-49fc-9697-5dfabd4ac7e4,34,Female,Deira,CLO-963,Shoes,Clothing,2,328.14,4.31,651.97,Wallet,In-Store
+TXN-00694,2025-04-04,60096e2a-ea0c-4546-897d-73c80b495d8c,30,Male,Deira,BEA-383,Perfume,Beauty,2,141.26,2.98,279.54,Card,In-Store
+TXN-00695,2025-03-26,fb131a01-0c67-4153-acc2-88bd088eb739,44,Male,Deira,ELE-397,Headphones,Electronics,1,215.3,18.19,197.11,Cash,Online
+TXN-00696,2025-04-23,015ccbdc-507c-4088-95dc-a9633b0e7c6a,18,Female,Bur Dubai,GRO-778,Fruits,Groceries,4,359.48,9.82,1428.1,Cash,Online
+TXN-00697,2025-06-06,2f896db0-8b78-4ffe-9587-fb8306c3ae52,23,Male,Bur Dubai,HOM-236,Cushion,Home Decor,1,283.55,0.9,282.65,Wallet,In-Store
+TXN-00698,2025-06-14,93d58d1a-5b48-42f2-8307-2a460d7d2d9d,27,Female,Deira,HOM-254,Cushion,Home Decor,3,117.13,23.5,327.89,Card,In-Store
+TXN-00699,2025-06-10,909e2ff1-80bd-4eac-98e4-84df002a7c77,34,Female,Al Barsha,CLO-286,Shoes,Clothing,2,16.96,33.55,0.37,Card,In-Store
+TXN-00700,2025-02-02,820105f2-c09f-4108-b072-7b25e735fd6f,48,Male,Bur Dubai,ELE-704,Laptop,Electronics,5,67.5,8.06,329.44,Wallet,Online
+TXN-00701,2025-05-12,0fdeb86c-14f0-4d11-8797-a8fc7dac3e9c,47,Female,Deira,ELE-989,Headphones,Electronics,1,88.31,19.9,68.41,Wallet,Online
+TXN-00702,2025-05-17,ad8a7c84-935d-4584-af65-5dc3b42555f5,51,Female,Dubai Marina,ELE-520,Charger,Electronics,5,493.73,21.82,2446.83,Card,In-Store
+TXN-00703,2025-07-22,daebe427-c91a-42e5-a573-476e02d51bc1,29,Female,Jumeirah,ELE-451,Laptop,Electronics,5,246.09,7.92,1222.53,Wallet,Online
+TXN-00704,2025-02-14,c96e34f5-52a6-46b8-b2ee-20a9d38aef3f,28,Female,Bur Dubai,BEA-946,Perfume,Beauty,4,256.43,41.59,984.13,Card,Online
+TXN-00705,2025-05-16,193df1d1-b92a-4b52-8332-ea37328abbfc,18,Male,Bur Dubai,ELE-416,Headphones,Electronics,2,45.4,24.71,66.09,Wallet,In-Store
+TXN-00706,2025-05-11,bd6154d0-4775-45c3-9cec-5e1ac8330174,25,Male,Dubai Marina,ELE-639,Charger,Electronics,1,103.82,45.27,58.55,Cash,In-Store
+TXN-00707,2025-03-31,e3db6320-1054-4774-8b00-1fbea6d7f22c,61,Male,Bur Dubai,HOM-159,Lamp,Home Decor,4,244.7,27.7,951.1,Wallet,In-Store
+TXN-00708,2025-07-02,0f5b4964-ddfc-4e71-a034-01d275dcca02,25,Male,Jumeirah,HOM-110,Wall Art,Home Decor,2,31.63,5.69,57.57,Card,In-Store
+TXN-00709,2025-03-26,28e3c416-0b9a-42b2-afcd-60d1e1e9295b,46,Male,Deira,BEA-400,Nail Polish,Beauty,1,132.56,22.78,109.78,Cash,Online
+TXN-00710,2025-01-24,717f43c5-6bf2-4e0b-8eaa-38962c8a6a4a,58,Female,Al Barsha,ELE-919,Laptop,Electronics,4,483.44,20.22,1913.54,Cash,Online
+TXN-00711,2025-04-06,9818c21a-94c4-43fb-97c9-8642dbf38bfd,64,Female,Deira,CLO-803,Dress,Clothing,3,61.39,43.97,140.2,Card,Online
+TXN-00712,2025-06-09,ac953b6f-2332-45b2-a2d2-895f2dcc0ee8,26,Male,Deira,HOM-347,Wall Art,Home Decor,1,486.18,38.49,447.69,Card,In-Store
+TXN-00713,2025-03-16,32d83d29-7614-421a-b34b-5ee5ef86489e,18,Female,Deira,HOM-977,Lamp,Home Decor,1,297.9,18.3,279.6,Cash,Online
+TXN-00714,2025-04-03,4d0523bc-0777-465f-843e-7b60397d4bfc,30,Female,Dubai Marina,CLO-457,T-Shirt,Clothing,5,84.74,47.77,375.93,Card,In-Store
+TXN-00715,2025-02-11,20bc8299-26f8-4b11-9480-60e41b1c704b,50,Male,Dubai Marina,CLO-606,Jeans,Clothing,3,287.97,38.85,825.06,Card,Online
+TXN-00716,2025-01-25,a97c320d-0152-40a0-ad72-4770155dadb0,25,Male,Al Barsha,BEA-135,Lipstick,Beauty,1,86.94,49.26,37.68,Card,In-Store
+TXN-00717,2025-07-13,29999ed9-5350-479c-9d5f-58954fb2c800,41,Male,Al Barsha,ELE-433,Laptop,Electronics,3,495.03,45.72,1439.37,Card,In-Store
+TXN-00718,2025-04-26,30828126-a3e5-4b57-8cfe-d9cd31883aaf,22,Female,Deira,CLO-506,T-Shirt,Clothing,4,93.81,13.46,361.78,Cash,Online
+TXN-00719,2025-05-19,6653dff1-6333-403e-9aaf-aa4615418a61,58,Female,Deira,BEA-301,Lipstick,Beauty,1,264.29,36.81,227.48,Card,In-Store
+TXN-00720,2025-02-19,4eab9d53-ac46-4d68-a126-6aac58b90c8e,37,Male,Deira,GRO-194,Eggs,Groceries,3,198.95,7.4,589.45,Cash,In-Store
+TXN-00721,2025-06-02,34311bf9-0d29-4e98-bfdd-5c2f4aed9701,55,Female,Al Barsha,CLO-606,Dress,Clothing,5,270.33,28.9,1322.75,Wallet,In-Store
+TXN-00722,2025-07-16,6f493fc0-ffdf-4556-a788-50f6944952f2,29,Male,Jumeirah,CLO-618,Jeans,Clothing,4,29.39,32.37,85.19,Cash,In-Store
+TXN-00723,2025-04-16,87c97d79-576e-4132-91a9-509cf03aa03c,32,Male,Deira,BEA-881,Foundation,Beauty,2,64.25,22.92,105.58,Wallet,Online
+TXN-00724,2025-05-01,f6e9f583-9d33-4c26-8af0-11df3a3487f9,24,Male,Deira,ELE-632,Laptop,Electronics,4,447.81,4.18,1787.06,Card,In-Store
+TXN-00725,2025-04-01,a837a14f-1da8-47bc-a72f-9a076c1a7a97,52,Female,Al Barsha,ELE-659,Smartphone,Electronics,4,28.74,28.86,86.1,Cash,In-Store
+TXN-00726,2025-02-05,afe0dbb2-0f79-4a84-ab30-e28125dea238,25,Female,Bur Dubai,BEA-357,Lipstick,Beauty,1,474.81,49.25,425.56,Card,Online
+TXN-00727,2025-06-01,7ea8deb4-2728-47f1-91c5-cf4503e8f7c0,58,Male,Deira,ELE-526,Charger,Electronics,4,350.87,2.13,1401.35,Cash,In-Store
+TXN-00728,2025-06-06,01e883d9-827c-48a0-a75a-37480296cff8,25,Male,Deira,ELE-225,Charger,Electronics,1,272.22,6.29,265.93,Cash,In-Store
+TXN-00729,2025-07-16,39adb9b9-1b49-47c6-a882-767d4f5dcf71,31,Male,Deira,HOM-462,Curtains,Home Decor,5,264.75,26.61,1297.14,Cash,Online
+TXN-00730,2025-01-27,25ff2d65-5d92-4f0f-a071-e718b42aa692,50,Female,Deira,BEA-390,Foundation,Beauty,4,200.57,41.73,760.55,Wallet,In-Store
+TXN-00731,2025-07-15,6672426c-0325-42b1-9e52-23c66cde1739,24,Male,Al Barsha,HOM-687,Rug,Home Decor,3,421.27,1.56,1262.25,Cash,In-Store
+TXN-00732,2025-06-26,b74a995b-54d9-4720-ac55-3218ee6286d6,63,Female,Jumeirah,HOM-604,Rug,Home Decor,4,222.84,16.69,874.67,Card,Online
+TXN-00733,2025-02-23,1a89251f-237c-4640-ade8-0dea9670e46b,54,Male,Jumeirah,HOM-935,Cushion,Home Decor,2,265.83,10.95,520.71,Card,In-Store
+TXN-00734,2025-02-07,5a121ec7-e28d-42d3-9919-ac349ed456af,19,Female,Deira,BEA-817,Foundation,Beauty,1,253.9,32.77,221.13,Card,In-Store
+TXN-00735,2025-03-09,e53e8160-3389-477e-867e-c095803ac534,38,Female,Dubai Marina,ELE-220,Charger,Electronics,4,476.54,16.44,1889.72,Card,Online
+TXN-00736,2025-04-02,ad8b8460-ed32-45c5-85e9-03b6325f85c4,43,Male,Al Barsha,BEA-105,Shampoo,Beauty,3,294.02,0.47,881.59,Wallet,In-Store
+TXN-00737,2025-05-26,c9a3d8b5-7da4-4be5-aab4-03b0ddf28253,42,Male,Dubai Marina,CLO-564,Shoes,Clothing,5,387.82,39.83,1899.27,Wallet,In-Store
+TXN-00738,2025-07-14,58176990-2682-4eaa-b714-6a0110470ea9,35,Female,Dubai Marina,BEA-162,Shampoo,Beauty,2,295.69,39.04,552.34,Wallet,Online
+TXN-00739,2025-02-19,0d337612-6f0c-45a0-8fb9-626b7396c50f,20,Male,Deira,HOM-878,Wall Art,Home Decor,5,142.51,0.28,712.27,Cash,Online
+TXN-00740,2025-06-07,76a79cb9-9afd-41e2-9e95-50dafa6649ca,63,Female,Deira,BEA-561,Lipstick,Beauty,3,170.47,19.01,492.4,Cash,In-Store
+TXN-00741,2025-07-06,250c6d12-7a1d-4f7c-9ebf-60b2a137862c,20,Male,Jumeirah,HOM-494,Rug,Home Decor,3,196.38,3.61,585.53,Cash,Online
+TXN-00742,2025-03-03,2a0fc4a8-83ed-4441-9a88-7f2a89c53d5e,43,Female,Bur Dubai,ELE-390,Smartphone,Electronics,5,35.62,21.38,156.72,Cash,In-Store
+TXN-00743,2025-04-24,34ededd6-c8a2-45f0-b1a7-055a1b5f17ea,60,Male,Jumeirah,CLO-961,T-Shirt,Clothing,3,497.28,15.69,1476.15,Card,In-Store
+TXN-00744,2025-05-15,56c3a27d-1a6b-4afe-af6a-9a068f9bc54b,43,Female,Bur Dubai,BEA-233,Shampoo,Beauty,4,206.72,23.89,802.99,Cash,In-Store
+TXN-00745,2025-02-02,50b268b4-a3ef-4ca2-a8c7-9a325398d4eb,29,Male,Deira,ELE-445,Laptop,Electronics,5,494.54,35.44,2437.26,Cash,Online
+TXN-00746,2025-05-12,595f8597-b358-44fc-9f17-b35d5a1d1601,43,Female,Jumeirah,ELE-379,Charger,Electronics,2,375.22,35.21,715.23,Card,In-Store
+TXN-00747,2025-07-23,ba9075e4-1cdf-4c15-a69d-150b0ca5863d,18,Male,Dubai Marina,GRO-639,Eggs,Groceries,1,435.17,7.61,427.56,Card,In-Store
+TXN-00748,2025-06-23,89df1a00-2b0e-4122-b0c9-bd534176dfa2,35,Male,Al Barsha,GRO-364,Rice,Groceries,5,112.03,20.43,539.72,Card,In-Store
+TXN-00749,2025-03-23,4ee75022-986f-4d1d-847a-a552f04aff45,56,Female,Bur Dubai,CLO-894,Shoes,Clothing,3,480.03,18.13,1421.96,Cash,Online
+TXN-00750,2025-02-22,0d02de28-a542-4daf-a760-096ea047cac2,64,Male,Deira,CLO-976,Dress,Clothing,4,215.31,9.49,851.75,Cash,Online
+TXN-00751,2025-06-19,ce56e692-77c1-438a-9890-43096102fd44,29,Female,Bur Dubai,CLO-350,Jeans,Clothing,5,33.24,34.03,132.17,Wallet,In-Store
+TXN-00752,2025-02-22,40e4f6df-9591-44cc-a2d0-8e668aeed0ef,37,Female,Jumeirah,ELE-466,Tablet,Electronics,4,167.43,29.75,639.97,Wallet,In-Store
+TXN-00753,2025-04-08,c4e64f5d-0607-4c53-adcd-e238f261a436,32,Male,Deira,CLO-318,Shoes,Clothing,2,24.38,19.66,29.1,Wallet,In-Store
+TXN-00754,2025-05-27,4d75b4ef-d21d-432d-8da0-644912e4c731,47,Male,Al Barsha,GRO-903,Rice,Groceries,4,311.13,38.87,1205.65,Wallet,Online
+TXN-00755,2025-07-12,d76a8004-a01b-4285-9606-e60048a92d3e,49,Male,Jumeirah,GRO-583,Fruits,Groceries,3,38.49,28.97,86.5,Card,Online
+TXN-00756,2025-05-02,d56bed0e-dee7-4448-b181-2d53c3010bda,56,Female,Bur Dubai,BEA-763,Shampoo,Beauty,4,435.3,22.49,1718.71,Wallet,In-Store
+TXN-00757,2025-06-06,c2345ce5-1604-4a87-9cbc-27fe08beb901,40,Female,Bur Dubai,ELE-764,Charger,Electronics,1,172.09,20.43,151.66,Card,Online
+TXN-00758,2025-02-28,2f0da369-f2e2-4170-a11e-15dd732fd51a,30,Female,Dubai Marina,CLO-730,Dress,Clothing,1,62.13,30.07,32.06,Wallet,In-Store
+TXN-00759,2025-01-27,7914be87-e6f9-4b29-ab0c-bd7edec75f69,49,Male,Dubai Marina,BEA-361,Nail Polish,Beauty,3,416.04,9.96,1238.16,Wallet,Online
+TXN-00760,2025-03-12,f1ccf377-8d2e-4db7-ab53-19c45e59646d,42,Female,Deira,HOM-462,Wall Art,Home Decor,3,136.9,27.66,383.04,Card,In-Store
+TXN-00761,2025-05-04,50c7e175-e433-4688-8f63-ece115f1befe,61,Female,Dubai Marina,CLO-832,Shoes,Clothing,4,237.0,20.05,927.95,Card,In-Store
+TXN-00762,2025-07-06,05d21b0b-5cca-4e32-9897-867c2d321ecb,58,Male,Dubai Marina,GRO-432,Fruits,Groceries,5,107.88,12.57,526.83,Card,Online
+TXN-00763,2025-05-11,6dad04ed-ef70-425e-bd8d-742190e36e0a,36,Female,Jumeirah,GRO-382,Eggs,Groceries,5,133.4,42.03,624.97,Cash,Online
+TXN-00764,2025-07-04,261fba39-98e5-4a8e-abc4-65da3e7df5f2,41,Female,Al Barsha,HOM-751,Lamp,Home Decor,2,61.43,28.0,94.86,Card,In-Store
+TXN-00765,2025-01-28,b5e95d9c-1334-4f81-92a8-3bad85404202,47,Male,Jumeirah,GRO-889,Bread,Groceries,2,374.34,44.74,703.94,Wallet,Online
+TXN-00766,2025-04-17,be05df25-f99f-4399-a63f-1aba11836d01,33,Male,Bur Dubai,CLO-120,Shoes,Clothing,1,462.72,48.19,414.53,Cash,In-Store
+TXN-00767,2025-05-12,9eed77de-ad8f-443c-9915-50f8d3f53358,25,Male,Al Barsha,ELE-164,Headphones,Electronics,2,345.48,20.83,670.13,Cash,In-Store
+TXN-00768,2025-03-04,96dd0b2c-0ba0-4ef4-97b9-0e0c786686eb,23,Male,Jumeirah,CLO-860,Shoes,Clothing,2,134.29,8.31,260.27,Cash,In-Store
+TXN-00769,2025-05-20,6bf0441d-d3a1-4797-95b0-5b98770f97f8,37,Female,Bur Dubai,ELE-957,Tablet,Electronics,5,462.11,44.6,2265.95,Card,In-Store
+TXN-00770,2025-05-09,386e074d-4009-48b6-a73f-e9fa2c167d2d,54,Female,Al Barsha,CLO-603,Jacket,Clothing,1,490.09,42.85,447.24,Cash,Online
+TXN-00771,2025-07-15,8661b282-6887-4b95-b518-03c7cffb6be4,29,Female,Deira,HOM-172,Lamp,Home Decor,3,391.73,12.71,1162.48,Cash,Online
+TXN-00772,2025-02-28,4ac8773b-4a88-4bd9-b09b-946a91711b71,35,Male,Jumeirah,CLO-326,Jacket,Clothing,2,104.34,10.24,198.44,Cash,Online
+TXN-00773,2025-05-28,f360bc65-6967-46b4-8df3-8a9dc2a03213,40,Female,Bur Dubai,HOM-662,Wall Art,Home Decor,1,59.92,44.66,15.26,Card,In-Store
+TXN-00774,2025-05-28,0557128f-b093-4d6f-985f-125dd445b089,48,Male,Jumeirah,HOM-112,Wall Art,Home Decor,3,183.44,37.61,512.71,Cash,In-Store
+TXN-00775,2025-05-27,d9350d01-d122-4d21-af84-ffa4e8a38804,30,Female,Jumeirah,GRO-952,Bread,Groceries,1,406.32,29.81,376.51,Cash,Online
+TXN-00776,2025-07-11,9815f130-db5f-46ea-967d-6943f6eab5e3,64,Female,Bur Dubai,BEA-649,Shampoo,Beauty,5,41.45,21.63,185.62,Cash,Online
+TXN-00777,2025-02-23,e6a444ae-df37-4994-a008-a9c7c89db16f,55,Female,Jumeirah,ELE-110,Tablet,Electronics,1,93.52,24.71,68.81,Wallet,In-Store
+TXN-00778,2025-07-03,6dc1c4f5-3307-436f-8268-70d5fd192317,30,Male,Bur Dubai,ELE-450,Laptop,Electronics,2,186.49,21.1,351.88,Wallet,Online
+TXN-00779,2025-03-31,0b22d99c-3b53-4417-a9ec-e00bbb9c92b8,23,Female,Al Barsha,GRO-184,Eggs,Groceries,2,71.2,1.03,141.37,Cash,Online
+TXN-00780,2025-03-21,44dc70fd-a4a4-4b0f-990d-3555fc33c61b,29,Male,Bur Dubai,CLO-610,T-Shirt,Clothing,4,118.25,45.84,427.16,Card,Online
+TXN-00781,2025-05-06,564082dc-f40b-4e9d-ae74-c1a533dbf71d,30,Female,Deira,GRO-257,Rice,Groceries,1,61.66,44.78,16.88,Wallet,Online
+TXN-00782,2025-07-23,612c52d1-4992-479d-93d2-0931598e12d6,59,Male,Deira,BEA-308,Lipstick,Beauty,3,372.13,30.63,1085.76,Cash,Online
+TXN-00783,2025-03-27,c1bd3072-d5ba-4d07-baf4-3bf5af03df25,58,Female,Jumeirah,ELE-127,Laptop,Electronics,3,206.51,49.57,569.96,Cash,Online
+TXN-00784,2025-02-10,19af1287-f237-4261-97cf-21335d48f029,58,Male,Dubai Marina,BEA-300,Nail Polish,Beauty,3,48.35,19.04,126.01,Wallet,Online
+TXN-00785,2025-06-01,a3cc58d3-3114-4c5d-80a2-10b23d04ca32,40,Male,Jumeirah,HOM-319,Rug,Home Decor,3,207.72,6.42,616.74,Wallet,Online
+TXN-00786,2025-07-17,8ab78b9a-5b00-4562-8dde-098a0953dd0e,62,Female,Dubai Marina,CLO-210,Shoes,Clothing,1,174.3,24.96,149.34,Card,In-Store
+TXN-00787,2025-02-01,4e8b0c34-2132-40c7-a973-143f8601b38c,44,Female,Jumeirah,BEA-370,Lipstick,Beauty,3,84.03,17.89,234.2,Card,In-Store
+TXN-00788,2025-05-08,4f2f091d-249c-456d-93fc-ccf42657c091,40,Female,Dubai Marina,HOM-481,Rug,Home Decor,3,299.81,20.98,878.45,Wallet,Online
+TXN-00789,2025-05-29,556efe1a-afa9-4593-84a5-c8818c41fa6d,21,Male,Al Barsha,ELE-656,Tablet,Electronics,2,303.79,36.27,571.31,Cash,In-Store
+TXN-00790,2025-04-10,957d0a9a-0391-4eb4-a0ba-59d5204cf9a7,36,Female,Deira,BEA-338,Lipstick,Beauty,5,32.35,46.92,114.83,Cash,Online
+TXN-00791,2025-03-04,5d1ad82c-e540-45cb-9127-72508a34d3ae,24,Male,Al Barsha,HOM-389,Rug,Home Decor,4,205.65,31.95,790.65,Cash,In-Store
+TXN-00792,2025-01-31,50e53930-08f2-406f-a070-6196118662fd,33,Female,Deira,GRO-770,Milk,Groceries,2,283.38,14.27,552.49,Wallet,Online
+TXN-00793,2025-07-12,62cefc5a-7f9c-4144-8c3f-c48e5ef3f9ca,61,Female,Bur Dubai,GRO-270,Milk,Groceries,5,161.23,8.64,797.51,Card,In-Store
+TXN-00794,2025-06-09,508cf1b2-9556-43cc-bd01-04cbbaf2e9c8,56,Male,Deira,CLO-180,Jeans,Clothing,4,232.47,27.77,902.11,Card,Online
+TXN-00795,2025-03-11,7105b7ed-027c-4710-94ef-0b085603239a,27,Male,Jumeirah,BEA-700,Perfume,Beauty,2,214.07,8.36,419.78,Card,Online
+TXN-00796,2025-05-10,6f9749d2-5bb2-453c-82e2-f17710e7cabc,58,Male,Deira,BEA-365,Lipstick,Beauty,5,310.26,45.04,1506.26,Card,Online
+TXN-00797,2025-06-02,25cea8cf-a5c7-4053-9d6e-21f34bc60ce6,29,Female,Bur Dubai,CLO-857,Jacket,Clothing,4,86.44,7.98,337.78,Card,In-Store
+TXN-00798,2025-04-01,0b0573d0-415c-4cbf-ac39-e7b6bf3d9185,45,Male,Bur Dubai,ELE-612,Smartphone,Electronics,5,334.53,5.09,1667.56,Wallet,In-Store
+TXN-00799,2025-01-24,bf30d010-6c64-4184-8d3d-e04f40bfefa8,58,Male,Deira,ELE-872,Smartphone,Electronics,4,89.58,21.61,336.71,Wallet,In-Store
+TXN-00800,2025-05-10,f2a3e381-8db8-425a-b152-540732448359,42,Female,Bur Dubai,GRO-557,Milk,Groceries,4,304.57,5.23,1213.05,Cash,In-Store
+TXN-00801,2025-04-24,123cf096-68c2-4182-823d-109cf6e6949a,54,Male,Jumeirah,CLO-165,Jeans,Clothing,2,377.73,10.46,745.0,Card,In-Store
+TXN-00802,2025-06-29,beadac13-6b9b-4641-a8a1-28bae7c65d41,54,Male,Dubai Marina,CLO-405,T-Shirt,Clothing,5,412.9,16.96,2047.54,Wallet,In-Store
+TXN-00803,2025-02-24,ef18fafd-7f7a-4000-889e-43672d46c460,46,Female,Al Barsha,BEA-977,Shampoo,Beauty,3,304.32,11.02,901.94,Card,Online
+TXN-00804,2025-04-23,6ece0cb6-cd23-4b62-9c70-4feaca1882d8,62,Male,Al Barsha,HOM-227,Lamp,Home Decor,1,313.69,6.97,306.72,Wallet,Online
+TXN-00805,2025-02-18,8f8e7dba-7633-48dc-9d08-30eb1ae4a51b,62,Male,Al Barsha,BEA-410,Shampoo,Beauty,1,476.79,17.09,459.7,Cash,In-Store
+TXN-00806,2025-05-14,eb4901db-04f3-4933-a516-149466b60fcb,64,Female,Bur Dubai,HOM-909,Curtains,Home Decor,4,305.42,25.39,1196.29,Card,In-Store
+TXN-00807,2025-01-29,2dc383f5-4793-46c2-b595-77280ca50b5c,43,Female,Jumeirah,BEA-606,Foundation,Beauty,4,394.93,8.02,1571.7,Cash,In-Store
+TXN-00808,2025-06-17,6047c6d2-dd51-46cb-a42c-924ec5403dc6,48,Female,Bur Dubai,ELE-290,Headphones,Electronics,2,351.32,26.82,675.82,Wallet,In-Store
+TXN-00809,2025-07-13,9554ee24-6489-4448-b1f9-64ec2740ca3c,59,Female,Deira,HOM-572,Curtains,Home Decor,1,248.74,3.78,244.96,Card,Online
+TXN-00810,2025-03-14,a996b11a-9b9d-464e-9c01-6fd980bef82d,44,Female,Deira,CLO-583,Shoes,Clothing,4,375.5,21.97,1480.03,Wallet,In-Store
+TXN-00811,2025-07-06,76e8fd07-8747-45e2-8bc3-628899cf21a9,64,Male,Dubai Marina,CLO-968,T-Shirt,Clothing,4,454.33,40.95,1776.37,Card,In-Store
+TXN-00812,2025-05-23,990a09c4-cf8b-4210-94a5-64079b18d951,32,Male,Deira,BEA-625,Lipstick,Beauty,3,474.7,35.49,1388.61,Card,In-Store
+TXN-00813,2025-07-04,efe658ef-6e2d-4f02-8a26-9e6349982949,60,Female,Al Barsha,ELE-741,Headphones,Electronics,5,246.41,2.64,1229.41,Wallet,In-Store
+TXN-00814,2025-06-21,cc5f9069-1aff-4856-a5ef-826c6fcc0f6f,39,Male,Al Barsha,BEA-937,Perfume,Beauty,4,40.3,26.0,135.2,Card,In-Store
+TXN-00815,2025-04-08,c9a6c04b-ad21-4c6b-9a12-11484037acb9,39,Male,Bur Dubai,GRO-761,Bread,Groceries,1,273.53,39.82,233.71,Wallet,In-Store
+TXN-00816,2025-02-01,967e180f-0cc7-4a1c-96f9-23bc460b645e,34,Male,Dubai Marina,GRO-176,Eggs,Groceries,5,442.32,18.71,2192.89,Card,Online
+TXN-00817,2025-02-03,900ce497-cb6e-4605-a11e-fdec1d4fa1f2,54,Female,Al Barsha,GRO-141,Bread,Groceries,4,401.4,42.79,1562.81,Card,In-Store
+TXN-00818,2025-05-17,6c3b9fa1-6608-4a4c-a23e-c83adf0643d7,36,Female,Al Barsha,ELE-561,Tablet,Electronics,1,12.69,30.61,-17.92,Cash,In-Store
+TXN-00819,2025-06-29,39e40afd-b6f4-47fa-beb7-6dc20dd38771,39,Female,Bur Dubai,ELE-506,Smartphone,Electronics,1,303.72,42.28,261.44,Cash,In-Store
+TXN-00820,2025-04-26,8bebf899-fcbb-4a7f-89cf-afe088c534a4,35,Male,Jumeirah,ELE-145,Headphones,Electronics,3,163.96,39.45,452.43,Card,In-Store
+TXN-00821,2025-03-21,dd5e609b-0859-44f2-9b1f-24939770e1a4,26,Female,Deira,HOM-243,Wall Art,Home Decor,4,76.81,6.39,300.85,Cash,Online
+TXN-00822,2025-07-21,9ac83121-1e53-44f9-afef-df2968f85ed6,58,Female,Jumeirah,HOM-158,Cushion,Home Decor,5,443.76,34.45,2184.35,Card,Online
+TXN-00823,2025-04-07,b0246b54-16f2-468d-8388-ba11fca1b08d,55,Female,Bur Dubai,ELE-762,Smartphone,Electronics,1,57.51,20.06,37.45,Wallet,In-Store
+TXN-00824,2025-03-23,6aee6fa4-a7a9-4c02-a857-06162d6d3ada,37,Female,Jumeirah,BEA-173,Foundation,Beauty,4,197.99,7.18,784.78,Wallet,Online
+TXN-00825,2025-06-12,ead9c05c-54be-4b02-aa17-069e28efaf51,38,Female,Dubai Marina,BEA-363,Perfume,Beauty,1,448.34,19.31,429.03,Wallet,Online
+TXN-00826,2025-04-21,337a0d85-3741-4696-bad8-34eae5a0a8af,31,Female,Al Barsha,HOM-115,Wall Art,Home Decor,3,444.82,25.78,1308.68,Wallet,In-Store
+TXN-00827,2025-06-04,78f5885d-a8b7-4752-9e7a-6a04f60be0b7,37,Female,Dubai Marina,ELE-362,Tablet,Electronics,3,225.08,44.33,630.91,Wallet,Online
+TXN-00828,2025-06-20,1403bfe0-0731-4963-a5a9-78d715ecc193,24,Male,Dubai Marina,CLO-306,Shoes,Clothing,2,18.27,11.0,25.54,Wallet,Online
+TXN-00829,2025-03-26,67e763e1-ed67-41b6-bc07-48e0bd9c5675,45,Female,Bur Dubai,BEA-694,Lipstick,Beauty,5,491.24,5.98,2450.22,Card,Online
+TXN-00830,2025-03-07,e7f7687c-c337-45eb-8b21-f2c0701bca98,62,Male,Jumeirah,GRO-932,Fruits,Groceries,5,407.41,8.11,2028.94,Card,In-Store
+TXN-00831,2025-06-11,2c50e6c0-2f23-48b9-8a7f-5fe036b585e5,36,Male,Al Barsha,HOM-559,Cushion,Home Decor,5,353.91,38.47,1731.08,Wallet,Online
+TXN-00832,2025-06-01,1ad8225b-bab0-4635-b3c7-ccef7d5b0385,55,Male,Deira,HOM-179,Cushion,Home Decor,4,243.24,29.18,943.78,Card,Online
+TXN-00833,2025-06-28,9320f593-5518-4d9d-a9b8-cd6366c72dd4,38,Female,Al Barsha,HOM-300,Lamp,Home Decor,1,454.1,26.77,427.33,Cash,In-Store
+TXN-00834,2025-07-02,bae42517-2370-49c0-b624-a4f93155a936,44,Male,Jumeirah,BEA-230,Lipstick,Beauty,3,77.0,30.51,200.49,Card,In-Store
+TXN-00835,2025-07-05,ea690912-086e-4869-a620-fd94964115b9,48,Female,Jumeirah,GRO-589,Bread,Groceries,3,76.68,39.23,190.81,Card,Online
+TXN-00836,2025-03-26,657e28b8-1d3a-4213-adc8-17a3239a0ed9,56,Female,Jumeirah,GRO-386,Milk,Groceries,2,262.91,29.01,496.81,Wallet,In-Store
+TXN-00837,2025-06-27,bb92206c-dfe9-4f46-965f-65ab13e96177,44,Male,Deira,CLO-240,Jacket,Clothing,2,396.2,8.97,783.43,Wallet,Online
+TXN-00838,2025-03-02,6e40a1c4-1f6e-4f02-acbf-0f0d2a1f076f,52,Male,Jumeirah,GRO-105,Rice,Groceries,3,413.66,9.3,1231.68,Card,Online
+TXN-00839,2025-06-27,23a820d8-4631-4508-a9d7-8984423e45ba,43,Female,Bur Dubai,HOM-761,Cushion,Home Decor,5,25.21,42.91,83.14,Cash,In-Store
+TXN-00840,2025-07-15,f0560c8c-5a0a-4502-877e-4212b96ab82f,36,Male,Al Barsha,CLO-531,Shoes,Clothing,3,355.93,0.96,1066.83,Cash,Online
+TXN-00841,2025-03-03,df680e22-8db0-4655-b068-7864c46b9216,38,Female,Jumeirah,GRO-737,Fruits,Groceries,1,455.24,36.7,418.54,Cash,In-Store
+TXN-00842,2025-03-23,89e12fea-508b-48ac-8c86-fec2eb8022dd,43,Female,Bur Dubai,BEA-443,Shampoo,Beauty,4,226.91,45.36,862.28,Cash,Online
+TXN-00843,2025-01-29,85176fd2-ed38-4967-b6f4-6422586ab8fb,40,Male,Bur Dubai,CLO-217,Jacket,Clothing,4,37.63,42.87,107.65,Cash,In-Store
+TXN-00844,2025-03-03,7b4eec7c-7653-4bc4-a64a-5aef3b7eef8c,53,Female,Al Barsha,BEA-164,Shampoo,Beauty,1,221.68,33.64,188.04,Card,In-Store
+TXN-00845,2025-05-26,2472b5c4-b678-4b90-929b-0fbcc93822f4,43,Male,Al Barsha,BEA-559,Shampoo,Beauty,2,46.28,39.56,53.0,Card,Online
+TXN-00846,2025-02-07,fe8eb8d2-fa39-4d6d-b470-8b9939b850cb,19,Male,Jumeirah,ELE-701,Laptop,Electronics,2,14.06,12.08,16.04,Card,Online
+TXN-00847,2025-03-01,d9b52878-afc5-4eb3-823f-1dd0047e5702,60,Male,Jumeirah,BEA-113,Nail Polish,Beauty,4,59.2,45.79,191.01,Card,In-Store
+TXN-00848,2025-04-25,bbdcffb0-8652-4f3b-8734-ac7e0e4d2546,58,Male,Deira,BEA-981,Nail Polish,Beauty,5,391.4,11.85,1945.15,Wallet,In-Store
+TXN-00849,2025-03-11,52e0c31f-bab2-4329-82c1-0cce86945049,43,Male,Bur Dubai,HOM-296,Curtains,Home Decor,3,135.23,40.66,365.03,Card,Online
+TXN-00850,2025-02-20,2e64bded-5d80-4f56-828b-f625a1c78537,35,Male,Jumeirah,CLO-406,T-Shirt,Clothing,4,100.2,7.83,392.97,Card,In-Store
+TXN-00851,2025-02-16,002d8e84-a09b-40f2-8626-491cf301d345,26,Male,Al Barsha,ELE-544,Laptop,Electronics,3,133.3,42.94,356.96,Cash,Online
+TXN-00852,2025-05-17,1b90273f-9b0d-4ad0-8a5e-3237cb716a7f,60,Female,Bur Dubai,GRO-356,Fruits,Groceries,4,59.27,1.17,235.91,Cash,In-Store
+TXN-00853,2025-04-13,b51e9e28-ff41-41d0-bf97-4d14eb56930a,65,Female,Bur Dubai,HOM-235,Lamp,Home Decor,1,192.4,4.5,187.9,Card,Online
+TXN-00854,2025-06-05,f3db9d1b-7b4f-4157-9d8a-4c8a1b7a7f80,61,Female,Deira,HOM-862,Curtains,Home Decor,2,374.43,9.34,739.52,Wallet,In-Store
+TXN-00855,2025-02-04,6c784958-7a10-40c7-92e7-7ff03da55037,32,Male,Bur Dubai,BEA-449,Nail Polish,Beauty,5,277.25,43.44,1342.81,Card,Online
+TXN-00856,2025-05-11,8ce4aa0f-2a4e-4bec-9ce9-8b868e197cd9,45,Male,Dubai Marina,GRO-522,Bread,Groceries,5,88.44,38.09,404.11,Cash,In-Store
+TXN-00857,2025-07-07,e599d729-51cb-497b-b74b-33681957af09,25,Female,Dubai Marina,HOM-703,Wall Art,Home Decor,5,138.38,38.98,652.92,Card,In-Store
+TXN-00858,2025-03-29,a1095f9a-a619-46e1-b958-9e2fd78f204d,61,Female,Deira,ELE-349,Headphones,Electronics,1,332.54,31.25,301.29,Card,Online
+TXN-00859,2025-02-10,10c03a12-c67c-401a-a7ac-625bcdaf48ce,50,Female,Deira,CLO-762,Jeans,Clothing,4,45.43,29.78,151.94,Card,Online
+TXN-00860,2025-05-19,f1151bbf-4e16-43ef-b385-d18f7dd780df,18,Male,Deira,ELE-285,Smartphone,Electronics,3,397.72,28.12,1165.04,Wallet,In-Store
+TXN-00861,2025-05-11,19b3eb55-0ea7-4b5e-8a8b-658024bc4ee3,45,Female,Deira,HOM-980,Rug,Home Decor,3,200.03,26.39,573.7,Cash,In-Store
+TXN-00862,2025-02-23,dd470651-aa2f-45dc-b5ef-5aa0252a6b4a,61,Female,Bur Dubai,GRO-106,Eggs,Groceries,2,478.75,3.54,953.96,Card,Online
+TXN-00863,2025-05-10,bc5e81df-9b7f-4d5f-85c4-5d4e87d330c3,38,Female,Deira,ELE-681,Tablet,Electronics,2,418.66,19.21,818.11,Wallet,Online
+TXN-00864,2025-06-29,ce9a0d77-6113-4848-8597-c5cc712f7d12,36,Male,Dubai Marina,GRO-950,Fruits,Groceries,5,483.7,37.63,2380.87,Cash,In-Store
+TXN-00865,2025-05-22,9a9bf497-b6f6-44ff-bfd1-2698ea828cb4,65,Female,Deira,HOM-132,Rug,Home Decor,1,164.29,11.76,152.53,Cash,In-Store
+TXN-00866,2025-03-30,6ba73123-5dbb-4f77-9deb-d743d479538e,26,Male,Jumeirah,ELE-142,Charger,Electronics,1,461.41,23.66,437.75,Cash,Online
+TXN-00867,2025-07-03,07fe7445-ee38-4062-bd21-5680d7e20973,36,Male,Bur Dubai,HOM-902,Rug,Home Decor,4,55.42,2.2,219.48,Cash,In-Store
+TXN-00868,2025-06-09,6e4ae0ee-4253-4826-806c-941895a0ba75,62,Female,Al Barsha,ELE-892,Laptop,Electronics,1,397.98,29.68,368.3,Card,Online
+TXN-00869,2025-07-17,c2d7c30b-4e11-4cd7-aeca-58360dc4dfb3,31,Male,Bur Dubai,CLO-848,Jacket,Clothing,5,293.87,38.5,1430.85,Card,Online
+TXN-00870,2025-05-29,61b1baf4-2fe6-48f3-9d78-35e6259f2679,34,Male,Bur Dubai,BEA-239,Lipstick,Beauty,4,162.91,22.93,628.71,Card,Online
+TXN-00871,2025-06-20,7aeca278-2fbf-425d-81cc-d6245ca5a223,43,Female,Al Barsha,CLO-316,Jeans,Clothing,5,283.89,36.12,1383.33,Card,Online
+TXN-00872,2025-02-26,04ef7d9a-9652-4746-a93d-17c9da2ec3e1,61,Female,Bur Dubai,ELE-227,Tablet,Electronics,3,182.52,2.61,544.95,Wallet,Online
+TXN-00873,2025-03-12,f9bd58c9-ff13-4560-a1dd-24db46aae678,35,Male,Dubai Marina,BEA-219,Foundation,Beauty,5,481.19,12.3,2393.65,Wallet,Online
+TXN-00874,2025-06-20,48f39c30-a343-4135-8a9c-babe45c2734a,59,Male,Dubai Marina,ELE-196,Headphones,Electronics,1,318.39,39.18,279.21,Card,Online
+TXN-00875,2025-01-24,0ae03393-0aad-4deb-a33d-720daab13c37,47,Male,Al Barsha,BEA-216,Nail Polish,Beauty,5,240.85,48.7,1155.55,Card,Online
+TXN-00876,2025-04-25,beaf03e6-df02-48ca-9f63-b0ffb27cda73,62,Female,Bur Dubai,GRO-423,Fruits,Groceries,1,200.71,25.45,175.26,Card,Online
+TXN-00877,2025-07-23,dbbd034e-a882-4c7b-bc30-2dd30d45c1a1,50,Female,Al Barsha,CLO-613,Shoes,Clothing,1,400.76,14.64,386.12,Wallet,Online
+TXN-00878,2025-01-29,84918b84-1628-40f8-98c6-6833f8d160f3,19,Female,Dubai Marina,HOM-142,Lamp,Home Decor,3,187.13,23.24,538.15,Card,Online
+TXN-00879,2025-07-08,e5100529-5e21-4131-b28c-08625208d556,18,Female,Al Barsha,CLO-914,Jeans,Clothing,5,42.33,49.41,162.24,Wallet,Online
+TXN-00880,2025-02-01,f2b1fbcd-8ccb-4aa5-8f63-e97aa61e7304,19,Male,Jumeirah,GRO-300,Rice,Groceries,5,395.04,8.79,1966.41,Wallet,In-Store
+TXN-00881,2025-02-09,fc7f3f73-bf7c-4575-a9e1-e0e20ce4652e,29,Male,Bur Dubai,GRO-765,Milk,Groceries,5,378.86,32.95,1861.35,Cash,In-Store
+TXN-00882,2025-07-01,ac4d73de-9c03-4589-b14e-ee0eba951db4,47,Female,Deira,CLO-504,Jeans,Clothing,1,259.68,43.86,215.82,Card,In-Store
+TXN-00883,2025-05-06,22f16dfd-501f-409a-b90d-21bf88f8a325,19,Female,Dubai Marina,BEA-976,Foundation,Beauty,4,376.62,18.04,1488.44,Cash,Online
+TXN-00884,2025-03-24,665fe7ea-9f71-43f8-bd75-11edc121a6b2,32,Female,Al Barsha,CLO-855,T-Shirt,Clothing,5,131.56,4.88,652.92,Card,Online
+TXN-00885,2025-05-19,641bf109-deb3-48c9-851b-6f34cb904fa6,47,Male,Al Barsha,GRO-294,Rice,Groceries,1,176.56,44.94,131.62,Cash,Online
+TXN-00886,2025-05-08,622fa92f-15e0-4386-b9c9-c23c1e77ee24,50,Male,Al Barsha,CLO-315,Dress,Clothing,1,147.71,35.34,112.37,Cash,In-Store
+TXN-00887,2025-03-27,fae08166-4397-49c0-8f44-d00030fed1b9,43,Male,Bur Dubai,GRO-310,Eggs,Groceries,3,137.89,38.18,375.49,Cash,In-Store
+TXN-00888,2025-06-11,604d1d2d-a515-4876-a660-e750d05a1b97,33,Female,Jumeirah,HOM-681,Rug,Home Decor,2,379.31,42.94,715.68,Wallet,In-Store
+TXN-00889,2025-06-07,d28e3e2a-7673-41d6-95cb-da9af3db4faa,38,Male,Bur Dubai,BEA-520,Lipstick,Beauty,1,33.6,37.17,-3.57,Card,In-Store
+TXN-00890,2025-03-05,94c73daa-49f4-4303-bdd3-9279c8ee8af8,31,Female,Bur Dubai,ELE-517,Charger,Electronics,2,234.61,49.07,420.15,Card,Online
+TXN-00891,2025-03-18,5691cd8a-4c04-40ac-b355-087dbaf138bf,38,Male,Deira,GRO-525,Fruits,Groceries,2,487.43,25.45,949.41,Card,In-Store
+TXN-00892,2025-05-19,21ba24c1-4375-4cc2-84be-e8e79fbdaa77,18,Female,Deira,ELE-324,Charger,Electronics,3,353.18,23.46,1036.08,Cash,Online
+TXN-00893,2025-06-12,96315473-7114-4b3e-996b-ff66ea90433b,64,Male,Dubai Marina,BEA-975,Nail Polish,Beauty,5,136.18,31.45,649.45,Wallet,In-Store
+TXN-00894,2025-02-27,dafe59b0-079a-4691-ae86-bb959e42ab3e,51,Female,Deira,ELE-604,Laptop,Electronics,2,253.25,16.22,490.28,Cash,Online
+TXN-00895,2025-06-02,ed3b8190-7788-4038-8bda-2aa311435422,44,Female,Deira,HOM-884,Cushion,Home Decor,1,242.95,3.9,239.05,Wallet,Online
+TXN-00896,2025-02-24,54bd179c-b419-4e14-99e3-a28d26edd6e3,30,Male,Jumeirah,CLO-932,Dress,Clothing,1,311.69,3.06,308.63,Wallet,In-Store
+TXN-00897,2025-03-05,ef1a1496-d3a6-43fe-b5fa-fea50c749bea,37,Female,Jumeirah,HOM-182,Wall Art,Home Decor,4,235.25,21.96,919.04,Cash,Online
+TXN-00898,2025-06-09,83298351-c8ee-4142-b461-f14a91c09bec,23,Female,Bur Dubai,BEA-832,Perfume,Beauty,4,463.05,12.21,1839.99,Card,In-Store
+TXN-00899,2025-07-10,3577672d-2e8f-4f6b-85bf-265c2c8c4924,50,Male,Dubai Marina,ELE-989,Charger,Electronics,1,70.64,31.1,39.54,Card,In-Store
+TXN-00900,2025-06-18,730d0c43-261e-4a65-8d8c-0cc013571c0f,41,Female,Jumeirah,ELE-834,Tablet,Electronics,5,465.39,29.89,2297.06,Card,In-Store
+TXN-00901,2025-03-05,9076ce94-7d76-4c03-afa9-6a1511f8e781,65,Male,Dubai Marina,HOM-440,Rug,Home Decor,3,165.05,14.38,480.77,Cash,Online
+TXN-00902,2025-04-23,0ef1cf14-7f20-4a68-8145-c52d76b09d94,30,Male,Al Barsha,HOM-658,Rug,Home Decor,3,222.18,16.5,650.04,Cash,Online
+TXN-00903,2025-05-08,133c69eb-e6ff-472c-b306-a2cffbe96360,32,Female,Deira,CLO-693,T-Shirt,Clothing,4,154.43,41.46,576.26,Card,In-Store
+TXN-00904,2025-07-10,a8c4650f-ed43-4fe0-bf36-809899a11da8,43,Female,Jumeirah,HOM-947,Wall Art,Home Decor,1,123.52,49.72,73.8,Card,Online
+TXN-00905,2025-06-26,bf5f478f-b574-422d-9f92-f64d57494597,59,Female,Bur Dubai,HOM-605,Wall Art,Home Decor,1,328.49,0.75,327.74,Wallet,Online
+TXN-00906,2025-04-30,8c5e51c3-59b7-4da8-b00a-097e154c4352,33,Female,Deira,BEA-664,Nail Polish,Beauty,1,86.35,26.82,59.53,Card,In-Store
+TXN-00907,2025-04-29,1d108424-23e7-48d3-bd20-c5787f7e0dd8,26,Male,Bur Dubai,BEA-863,Lipstick,Beauty,1,242.37,46.47,195.9,Cash,In-Store
+TXN-00908,2025-07-22,9b928984-936c-4397-860e-8133c8e60183,63,Female,Dubai Marina,BEA-510,Perfume,Beauty,4,243.07,31.22,941.06,Cash,Online
+TXN-00909,2025-03-27,e39b4d1b-e5d2-479b-8d4c-3872a9cebff8,21,Male,Bur Dubai,ELE-982,Charger,Electronics,5,477.21,48.78,2337.27,Card,In-Store
+TXN-00910,2025-01-24,689a648c-2167-48d0-b6d7-fcf12a05b21c,56,Male,Bur Dubai,BEA-950,Nail Polish,Beauty,5,470.1,46.17,2304.33,Card,In-Store
+TXN-00911,2025-04-29,fc5145ce-7dac-4d2d-aa2b-1711a0ca8478,28,Female,Al Barsha,CLO-764,Shoes,Clothing,2,473.45,24.57,922.33,Cash,Online
+TXN-00912,2025-02-26,ef17b50a-2eae-42c5-bca0-5073eaf64ec6,27,Male,Jumeirah,ELE-311,Laptop,Electronics,1,186.24,5.81,180.43,Cash,Online
+TXN-00913,2025-07-16,1f6eac34-93e3-4bb9-af78-26b67c342558,47,Female,Deira,GRO-520,Eggs,Groceries,3,256.64,3.78,766.14,Cash,Online
+TXN-00914,2025-02-19,02f9abd3-0a57-432e-8cfc-a974b38c6ef6,64,Male,Dubai Marina,BEA-873,Foundation,Beauty,4,211.76,45.64,801.4,Wallet,In-Store
+TXN-00915,2025-06-26,1c5a6cb2-9974-4dc9-9717-85c83637a9a1,28,Male,Bur Dubai,BEA-521,Shampoo,Beauty,5,274.03,47.97,1322.18,Wallet,In-Store
+TXN-00916,2025-04-22,b47448cf-396b-4919-8131-4345b94ab61b,57,Female,Bur Dubai,CLO-744,T-Shirt,Clothing,1,409.5,12.51,396.99,Card,Online
+TXN-00917,2025-05-03,f99c64a1-b292-4849-9909-1f63198e1669,61,Male,Dubai Marina,CLO-622,Jacket,Clothing,3,433.34,24.02,1276.0,Wallet,In-Store
+TXN-00918,2025-06-22,9b34f071-358b-4d54-9dde-025e9838093c,18,Female,Al Barsha,HOM-884,Wall Art,Home Decor,5,185.33,37.2,889.45,Cash,Online
+TXN-00919,2025-04-30,19d153c9-26cc-43d1-bfab-700dc8c5fbf3,38,Female,Jumeirah,CLO-396,Shoes,Clothing,3,165.48,17.79,478.65,Wallet,Online
+TXN-00920,2025-04-02,a8e99f00-2eaa-47be-ac96-ae6598f3b7f6,41,Female,Jumeirah,BEA-621,Foundation,Beauty,2,295.89,13.92,577.86,Card,Online
+TXN-00921,2025-03-13,fbbcd19f-0f18-4690-bb08-9309022d40f2,30,Male,Dubai Marina,HOM-121,Lamp,Home Decor,4,28.59,38.28,76.08,Wallet,Online
+TXN-00922,2025-06-09,3890538b-d12c-4390-8a23-4b1dcc375164,61,Male,Jumeirah,GRO-273,Rice,Groceries,3,147.7,15.51,427.59,Cash,Online
+TXN-00923,2025-06-09,7e50c0ae-13d8-4424-9661-a93772845cc1,23,Male,Jumeirah,HOM-950,Cushion,Home Decor,3,80.82,10.95,231.51,Wallet,In-Store
+TXN-00924,2025-03-27,c610a1f9-66f4-4684-8d9a-cebf5506e053,51,Male,Bur Dubai,GRO-239,Eggs,Groceries,4,278.59,33.64,1080.72,Cash,In-Store
+TXN-00925,2025-07-13,7c18a2bd-7878-4709-a524-ddb3f5bfb842,43,Female,Jumeirah,CLO-728,T-Shirt,Clothing,5,232.27,9.48,1151.87,Wallet,In-Store
+TXN-00926,2025-01-30,1faab8a0-4ca3-4922-a573-1d57715e4623,20,Female,Bur Dubai,CLO-159,Jeans,Clothing,1,284.39,11.78,272.61,Card,In-Store
+TXN-00927,2025-06-02,fca9663b-f5c3-434b-9327-bb3b266252b4,34,Female,Bur Dubai,ELE-751,Laptop,Electronics,4,241.07,26.86,937.42,Card,In-Store
+TXN-00928,2025-05-08,a574b2b4-a9bb-4d67-9b27-206456e282a3,38,Female,Dubai Marina,BEA-977,Perfume,Beauty,5,302.98,4.71,1510.19,Wallet,Online
+TXN-00929,2025-06-25,de5ad965-2dc3-48b5-83ef-1cf8bb7c39b1,34,Female,Jumeirah,ELE-753,Smartphone,Electronics,5,117.95,0.5,589.25,Wallet,In-Store
+TXN-00930,2025-07-21,7b2b44d6-3972-455f-8b56-f5dd72805422,30,Female,Al Barsha,BEA-855,Nail Polish,Beauty,3,328.68,35.17,950.87,Card,In-Store
+TXN-00931,2025-05-22,056d80b9-e7cd-43ef-a281-026cabe3a809,59,Female,Bur Dubai,GRO-183,Rice,Groceries,1,260.05,36.12,223.93,Cash,In-Store
+TXN-00932,2025-03-07,8249e430-969a-4103-a7ed-c2dc3e144764,25,Female,Deira,BEA-926,Foundation,Beauty,4,435.64,9.86,1732.7,Cash,Online
+TXN-00933,2025-04-16,78d38713-3ec1-4c1d-be60-b9d19226f46f,50,Female,Al Barsha,HOM-534,Wall Art,Home Decor,4,360.47,32.3,1409.58,Card,In-Store
+TXN-00934,2025-02-11,a0241a9a-c521-4fd5-97c8-b1c3bbb37aa1,19,Female,Jumeirah,BEA-178,Lipstick,Beauty,5,281.24,36.81,1369.39,Wallet,Online
+TXN-00935,2025-01-31,a85a4a58-c5d8-456c-94a2-62a9799b54ea,64,Female,Al Barsha,ELE-235,Headphones,Electronics,3,162.56,10.85,476.83,Wallet,Online
+TXN-00936,2025-02-21,251228ed-2794-4bb8-b066-7e4d5c4abeff,41,Male,Deira,HOM-393,Rug,Home Decor,2,450.23,33.47,866.99,Wallet,In-Store
+TXN-00937,2025-04-20,c1883b49-dc21-4bc2-aa6e-a84d59c068a9,28,Male,Dubai Marina,CLO-154,Jacket,Clothing,4,182.23,25.33,703.59,Card,In-Store
+TXN-00938,2025-06-28,f53bc59a-e3e7-429f-85a2-3b9bd2d6de99,20,Male,Dubai Marina,CLO-983,Jacket,Clothing,4,481.22,19.38,1905.5,Wallet,In-Store
+TXN-00939,2025-05-17,ec31dab3-54b1-4fbf-a16a-f30e96e1b90d,57,Female,Deira,BEA-508,Lipstick,Beauty,4,140.1,45.95,514.45,Wallet,Online
+TXN-00940,2025-03-14,49df2db8-3662-4b94-aafc-7a92b6c43c24,36,Female,Dubai Marina,CLO-755,T-Shirt,Clothing,1,206.92,28.26,178.66,Card,Online
+TXN-00941,2025-06-16,0c93f52c-6fbd-4091-b556-84a25b9f311c,57,Female,Al Barsha,GRO-499,Fruits,Groceries,4,437.88,37.86,1713.66,Wallet,In-Store
+TXN-00942,2025-07-10,1ca4d1d3-e4a3-4381-a3a2-287153d2cc28,37,Female,Deira,BEA-480,Lipstick,Beauty,5,496.51,24.91,2457.64,Cash,Online
+TXN-00943,2025-07-22,734fece9-a0cf-4943-8bb9-95ff558054e7,47,Female,Jumeirah,GRO-189,Bread,Groceries,3,195.83,32.43,555.06,Wallet,Online
+TXN-00944,2025-02-24,3f6ad7d8-e685-4943-bda4-b32fb5b1fe2c,19,Female,Dubai Marina,CLO-753,Jeans,Clothing,5,346.72,20.1,1713.5,Cash,Online
+TXN-00945,2025-02-06,d58db515-ee25-4682-a4d0-3ce3848f986b,54,Male,Dubai Marina,ELE-218,Tablet,Electronics,2,117.68,14.01,221.35,Cash,In-Store
+TXN-00946,2025-07-18,bd8b8033-176b-4274-9c65-0d3d1943f049,56,Female,Dubai Marina,CLO-931,Jacket,Clothing,2,158.17,20.01,296.33,Cash,In-Store
+TXN-00947,2025-05-24,c4baaa3b-eb4e-44fb-8444-f9a428b4b1f3,43,Female,Jumeirah,CLO-957,Shoes,Clothing,5,97.77,1.16,487.69,Wallet,In-Store
+TXN-00948,2025-06-29,aae841c8-3022-4056-a906-cb33fe1d3871,24,Male,Deira,BEA-241,Foundation,Beauty,4,283.35,21.95,1111.45,Cash,In-Store
+TXN-00949,2025-05-01,94378610-aa28-4614-b7a7-ab9f2d21ec6b,54,Male,Al Barsha,CLO-431,Shoes,Clothing,3,431.24,19.65,1274.07,Wallet,Online
+TXN-00950,2025-07-20,5eebf49d-f438-457a-9130-663f789b02b1,38,Female,Deira,ELE-651,Headphones,Electronics,2,73.51,3.99,143.03,Card,Online
+TXN-00951,2025-05-21,75025f4a-e65e-47cc-a2f4-77b57ca8c8ee,53,Female,Al Barsha,BEA-434,Shampoo,Beauty,4,106.32,33.1,392.18,Wallet,Online
+TXN-00952,2025-02-15,204817c5-745c-4e8d-a32f-4fbb5fb3fce5,29,Male,Jumeirah,GRO-269,Bread,Groceries,4,243.28,42.65,930.47,Card,In-Store
+TXN-00953,2025-05-03,8706d59e-54a6-4d9d-8db9-1b520870ad6d,64,Female,Bur Dubai,BEA-874,Perfume,Beauty,1,175.82,5.32,170.5,Card,Online
+TXN-00954,2025-04-05,2e6055c6-f923-4b5f-8521-a5ae2efe6205,45,Female,Jumeirah,BEA-760,Lipstick,Beauty,2,85.46,48.08,122.84,Cash,In-Store
+TXN-00955,2025-03-08,5c8e72ef-975e-4455-9b46-34e5fe28282f,64,Female,Jumeirah,BEA-713,Nail Polish,Beauty,2,67.48,33.05,101.91,Wallet,Online
+TXN-00956,2025-04-03,fbd95154-3341-46c4-8238-3fb607794944,37,Male,Deira,HOM-172,Rug,Home Decor,2,121.22,40.79,201.65,Cash,In-Store
+TXN-00957,2025-03-12,f3328361-2f89-4c33-b6ac-1402b10b8ee8,39,Female,Dubai Marina,BEA-317,Lipstick,Beauty,3,107.33,4.18,317.81,Cash,Online
+TXN-00958,2025-05-30,88609e68-c76a-43f1-831a-8e3e2d5d6931,60,Male,Bur Dubai,BEA-432,Foundation,Beauty,1,486.61,24.73,461.88,Card,In-Store
+TXN-00959,2025-02-14,ab1cef62-a938-4559-89f0-6960b73695ae,56,Male,Dubai Marina,GRO-197,Fruits,Groceries,1,121.96,19.11,102.85,Cash,In-Store
+TXN-00960,2025-03-10,db338de5-9121-48a8-9e10-20076032e056,32,Male,Al Barsha,BEA-251,Foundation,Beauty,5,245.07,41.17,1184.18,Wallet,Online
+TXN-00961,2025-03-25,c336bd0e-927b-4966-a742-7ebf70aeddb3,48,Male,Deira,GRO-919,Milk,Groceries,4,478.57,8.66,1905.62,Cash,In-Store
+TXN-00962,2025-06-10,d2bd315b-9d99-4070-a914-40a370f145ec,46,Male,Al Barsha,GRO-354,Milk,Groceries,2,496.69,17.22,976.16,Cash,Online
+TXN-00963,2025-03-29,2c11d64a-d524-4ab0-8a99-ee19704fb4d5,30,Female,Bur Dubai,ELE-324,Tablet,Electronics,5,459.15,5.03,2290.72,Cash,In-Store
+TXN-00964,2025-04-13,63f46415-6ccc-4b3b-a1af-a19cb255b984,56,Male,Al Barsha,HOM-748,Lamp,Home Decor,5,483.43,20.39,2396.76,Card,In-Store
+TXN-00965,2025-06-03,e369e3a7-f1f8-4e44-9a1c-15549e98699e,21,Male,Dubai Marina,ELE-735,Smartphone,Electronics,2,310.92,8.59,613.25,Cash,In-Store
+TXN-00966,2025-04-16,09f0a23b-815f-48e5-882b-7341bd05eb85,38,Female,Al Barsha,GRO-747,Rice,Groceries,5,267.4,34.0,1303.0,Wallet,Online
+TXN-00967,2025-07-23,fb2d89e1-2171-402d-9a0e-63393c8b2249,54,Male,Al Barsha,CLO-610,T-Shirt,Clothing,3,240.71,32.62,689.51,Wallet,In-Store
+TXN-00968,2025-06-15,e2eac93e-d260-4487-b10a-3b5e09758ab6,64,Male,Al Barsha,ELE-950,Smartphone,Electronics,5,455.43,15.3,2261.85,Card,Online
+TXN-00969,2025-06-07,4d328d81-e874-40d1-b5b8-c366a13c62dd,58,Female,Dubai Marina,CLO-771,T-Shirt,Clothing,5,51.29,8.25,248.2,Cash,In-Store
+TXN-00970,2025-04-17,4c510113-50d5-43c4-a66d-5fe421ec3fee,47,Male,Jumeirah,HOM-776,Wall Art,Home Decor,5,218.8,20.48,1073.52,Cash,In-Store
+TXN-00971,2025-05-04,9dd6c573-4e78-4243-8de0-e6225def5013,23,Female,Al Barsha,BEA-458,Foundation,Beauty,4,136.92,34.08,513.6,Wallet,Online
+TXN-00972,2025-07-03,ac74a439-7cf4-4ce7-86e4-ac3dcad319f9,56,Male,Al Barsha,ELE-570,Charger,Electronics,1,64.54,36.43,28.11,Wallet,In-Store
+TXN-00973,2025-03-08,b2a40786-f064-4b22-862f-1401bf279e47,54,Female,Jumeirah,HOM-982,Rug,Home Decor,1,47.23,9.63,37.6,Card,In-Store
+TXN-00974,2025-05-04,e8259eb6-cb61-4068-83cf-00fd98c86b29,40,Female,Bur Dubai,BEA-320,Nail Polish,Beauty,5,58.32,30.57,261.03,Cash,In-Store
+TXN-00975,2025-07-07,d6ba373e-1fbc-45a3-8db0-ccfed749a11b,26,Female,Dubai Marina,BEA-641,Lipstick,Beauty,5,81.46,49.93,357.37,Card,In-Store
+TXN-00976,2025-03-27,5ef6d297-5712-491e-b5a1-265bb708c319,59,Female,Dubai Marina,ELE-399,Headphones,Electronics,2,415.6,30.02,801.18,Cash,In-Store
+TXN-00977,2025-06-04,f0d5b02c-9763-4961-822e-81dd79f8b3f4,43,Female,Jumeirah,GRO-675,Bread,Groceries,2,316.96,42.28,591.64,Card,Online
+TXN-00978,2025-03-30,bf419677-212b-42ea-86b5-a827e3dbb43d,50,Male,Bur Dubai,BEA-508,Foundation,Beauty,3,305.84,17.25,900.27,Cash,Online
+TXN-00979,2025-03-05,8956d5e3-cb8e-4174-a3a2-a74938d01ab0,52,Male,Al Barsha,ELE-620,Tablet,Electronics,3,356.46,41.93,1027.45,Card,Online
+TXN-00980,2025-05-26,c435554e-18f5-47e8-bced-703185597403,31,Female,Deira,BEA-865,Shampoo,Beauty,4,305.46,6.23,1215.61,Cash,In-Store
+TXN-00981,2025-04-11,7dc689be-68ec-41ba-94ff-7143906f9b04,45,Male,Bur Dubai,GRO-888,Fruits,Groceries,2,236.98,29.16,444.8,Cash,Online
+TXN-00982,2025-03-02,25c75f94-d480-4842-aa76-2c7a7e172384,48,Male,Jumeirah,ELE-253,Laptop,Electronics,4,284.58,19.73,1118.59,Wallet,Online
+TXN-00983,2025-03-24,19c83f64-5703-44a0-b502-e14086480c0b,20,Male,Deira,GRO-561,Eggs,Groceries,1,436.71,30.76,405.95,Wallet,In-Store
+TXN-00984,2025-04-16,cbd021eb-9a8b-4c53-97ef-789cb234f80c,62,Female,Al Barsha,GRO-599,Milk,Groceries,4,488.87,22.35,1933.13,Wallet,Online
+TXN-00985,2025-04-30,c161e69e-dae2-4286-ba6f-ab0b1ae5a1ec,37,Female,Bur Dubai,BEA-311,Lipstick,Beauty,1,93.74,47.96,45.78,Cash,In-Store
+TXN-00986,2025-04-13,d627fe85-cc98-4a40-b0f0-56cd5217480e,61,Female,Bur Dubai,BEA-172,Nail Polish,Beauty,2,31.32,46.82,15.82,Wallet,Online
+TXN-00987,2025-02-09,9d238832-f4d8-4f95-9bfc-9919da833017,18,Male,Deira,HOM-108,Curtains,Home Decor,4,387.13,39.91,1508.61,Wallet,Online
+TXN-00988,2025-03-08,5495028f-cee9-4886-92cf-c7e24c680a29,48,Female,Bur Dubai,CLO-112,T-Shirt,Clothing,2,347.61,20.36,674.86,Cash,Online
+TXN-00989,2025-06-07,4b361143-8e4f-4e16-84ae-7d06b8d22e9e,34,Male,Deira,HOM-888,Rug,Home Decor,3,181.97,40.6,505.31,Card,Online
+TXN-00990,2025-07-17,3d8c8203-06f4-48c9-a258-98d2aab41828,33,Male,Al Barsha,ELE-818,Tablet,Electronics,3,472.1,34.46,1381.84,Wallet,In-Store
+TXN-00991,2025-02-02,c97957de-b681-431b-bf26-b4a939e7a745,51,Female,Dubai Marina,GRO-726,Rice,Groceries,2,455.78,24.52,887.04,Card,In-Store
+TXN-00992,2025-01-23,75b55675-ee12-4f4f-a5b3-9ac5c0303c25,28,Male,Jumeirah,GRO-211,Rice,Groceries,4,429.04,48.84,1667.32,Card,In-Store
+TXN-00993,2025-07-11,2e12bd1f-8d59-4f46-b872-f93a0b083bab,47,Female,Al Barsha,HOM-995,Curtains,Home Decor,4,448.33,46.75,1746.57,Card,Online
+TXN-00994,2025-04-30,1c0e0367-6fd7-41b4-92e8-008501af525d,30,Female,Jumeirah,BEA-632,Shampoo,Beauty,3,261.87,25.02,760.59,Cash,Online
+TXN-00995,2025-06-19,d2481c87-dd58-432d-853e-16c6646d78cf,46,Male,Deira,GRO-471,Eggs,Groceries,3,270.88,45.72,766.92,Card,In-Store
+TXN-00996,2025-06-07,c4304e97-65f6-4233-81a0-ea28d49b91b5,36,Female,Deira,BEA-800,Lipstick,Beauty,1,347.82,8.64,339.18,Cash,Online
+TXN-00997,2025-03-06,c7324a1e-072e-43f4-8a11-9d36b8a2475f,36,Female,Dubai Marina,BEA-898,Shampoo,Beauty,4,125.76,30.11,472.93,Wallet,Online
+TXN-00998,2025-06-09,2d6b1257-e157-447d-8873-83c07d09fbf1,61,Male,Jumeirah,ELE-176,Laptop,Electronics,4,224.94,48.85,850.91,Wallet,In-Store
+TXN-00999,2025-06-18,9b3592b7-4728-497e-a0cf-30e1078a84b0,29,Male,Dubai Marina,HOM-415,Rug,Home Decor,1,283.44,26.57,256.87,Cash,In-Store
+TXN-01000,2025-05-28,f283b8df-9cc2-4631-8213-2f5ad0cee99b,56,Female,Bur Dubai,BEA-729,Perfume,Beauty,4,42.66,33.97,136.67,Cash,Online
