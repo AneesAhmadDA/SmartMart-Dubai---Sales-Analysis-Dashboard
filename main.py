@@ -33,7 +33,7 @@ plot_bar_chart(
     ylabel='Total Sales',
     axis_font='Verdana',
     figure_facecolor="#f5f5f5",
-    thresholds=(130000,144812.2),  # Can be (number, number) OR (str, str)
+    thresholds=(130000,144812.2),  
     colors=("#A92103", "#B19B31", "#dac828"),
     rotation=40,
     show_minor_ticks=True,
@@ -91,7 +91,7 @@ plot_histogram_chart(
     axis_font='Verdana',
     figure_facecolor="#f5f5f5",
     thresholds=(150,175),
-    colors=("#B42504", "#AB7622", "#1e88e5"),  # (low, mid, high)
+    colors=("#B42504", "#AB7622", "#1e88e5"), 
     show_minor_ticks=True,
     ax=axs[1,0]   
 )
@@ -128,9 +128,7 @@ plt.subplots_adjust(
 )
 
 with PdfPages("SmartMart_Sales_Report.pdf") as pdf:
-    # First dashboard page
     pdf.savefig(figs) 
-    # Second dashboard page
     pdf.savefig(fig)  
 
 # print(top_product_quantity)
